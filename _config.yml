@@ -126,9 +126,9 @@ navigation_header:
   url: /
 - title: Stories Around The World
   url: /aroundtheworld/
-- title: Blog / Vlog
-  url: /blogandvlog/
-- title: Health / Wellness
+- title: Blog 
+  url: /blog/
+- title: Health and Wellness
   url: /healthandwellness/
 - title: Data
   url: /allthingsdata/
