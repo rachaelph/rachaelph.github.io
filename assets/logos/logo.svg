@@ -1,8 +1,12 @@
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(50, 50)">
-    <path d="M -25 -35 A 15 15 0 0 1 0 -20 A 15 15 0 0 1 25 -35 L 0 5 Z" fill="pink" stroke="red" stroke-width="2"/>
-    <circle cx="-10" cy="-30" r="2" fill="black"/>
-    <circle cx="10" cy="-30" r="2" fill="black"/>
-    <path d="M -10 -25 Q 0 -20 10 -25" stroke="black" stroke-width="1" fill="none"/>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(100, 100)">
+    <!-- Mountain -->
+    <path d="M -80 50 L 0 -60 L 80 50 Z" fill="#8B4513" stroke="#654321" stroke-width="4"/>
+    <!-- Snow Cap -->
+    <path d="M -20 0 L 0 -40 L 20 0 L 0 -20 Z" fill="#FFFFFF"/>
+    <!-- Letters RP -->
+    <text x="0" y="20" font-family="Verdana" font-size="40" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">
+      RP
+    </text>
   </g>
 </svg>
