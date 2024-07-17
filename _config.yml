@@ -124,16 +124,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Traveling the World
+- title: Stories Around The World
   url: /travelingtheworld/
-- title: Blog and Vlog
+- title: Blog / Vlog
   url: /blogandvlog/
-- title: Health and Wellness
+- title: Health / Wellness
   url: /healthandwellness/
-- title: All Things Data
+- title: Data
   url: /allthingsdata/
-- title: Fork Repo
-  url: https://github.com/rachaelph/rachaelph.github.io
+- title: Avenue 42
+  url: /avenue42/
 
 navigation_footer:
 - title: Edited by Rachael Phillips
