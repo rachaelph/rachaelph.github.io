@@ -1,12 +1,15 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(100, 100)">
-    <!-- Mountain -->
-    <path d="M -80 50 L 0 -60 L 80 50 Z" fill="#8B4513" stroke="#654321" stroke-width="4"/>
-    <!-- Snow Cap -->
-    <path d="M -20 0 L 0 -40 L 20 0 L 0 -20 Z" fill="#FFFFFF"/>
-    <!-- Letters RP -->
-    <text x="0" y="20" font-family="Verdana" font-size="40" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">
-      RP
-    </text>
-  </g>
-</svg>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(50, 50)">
+      <!-- Mountain -->
+      <path d="M -40 25 L 0 -30 L 40 25 Z" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+      <!-- Snow Cap -->
+      <path d="M -10 5 L 0 -20 L 10 5 L 0 -10 Z" fill="#FFFFFF"/>
+      <!-- Text: Adventure with Rachael -->
+      <text x="0" y="10" font-family="Verdana" font-size="8" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">
+        Adventure
+      </text>
+      <text x="0" y="20" font-family="Verdana" font-size="8" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">
+        with Rachael
+      </text>
+    </g>
+  </svg>
