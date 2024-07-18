@@ -67,8 +67,6 @@ collections:
     title: Adventures Around the World # Needed for Siteleaf
     output: true
     description: "Adventures Around the World" # The post list page content
-    feature_text: |
-      Where Great Memories Are Made!
     feature_image: "/assets/adventure-call-to-action.jpg"
 
 # 6. Jekyll collections settings
