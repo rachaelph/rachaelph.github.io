@@ -67,7 +67,7 @@ collections:
     title: Adventures Around the World # Needed for Siteleaf
     output: true
     description: "Adventures Around the World" # The post list page content
-    feature_image: "https://picsum.photos/1300/400?image=989"
+    feature_image: "/assets/adventure-call-to-action.jpg" #"https://picsum.photos/1300/400?image=989"
 
 # 6. Jekyll collections settings
 defaults:
