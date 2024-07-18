@@ -68,28 +68,17 @@ collections:
     output: true
     description: "Adventures Around the World" # The post list page content
     feature_text: |
-      Welcome to the blog, vlog, and other ideas!
+      Where Great Memories Are Made! 
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
 defaults:
   -
     scope:
-      path: ""
+      path: "posts"
     values:
       image: "/assets/adventure-call-to-action.jpg" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+      layout: post
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
