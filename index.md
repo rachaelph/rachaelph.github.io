@@ -1,7 +1,7 @@
 ---
 title: Adventure with Rachael
 feature_text: | And So The Adventure Begins... | 
-feature_image: "/assets/adventure-call-to-action.jpg" #"https://picsum.photos/1300/400?image=989"
+feature_image: "https://picsum.photos/1300/400?image=197"
 ---
 
 This website is to share my articles, adventures, music, data expertise, and health/wellness!
