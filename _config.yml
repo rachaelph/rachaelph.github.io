@@ -119,12 +119,14 @@ navigation_header:
   url: /
 - title: Stories
   url: /aroundtheworld/
-- title: Health and Wellness
+- title: Health
   url: /healthandwellness/
 - title: Data
   url: /allthingsdata/
-- title: Avenue 42
+- title: Band
   url: /avenue42/
+- title: Books
+  url: /booklover/
 
 navigation_footer:
 - title: Edited by Rachael Phillips
@@ -134,7 +136,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/rachael-phillips-data-expert
   GitHub: https://github.com/rachaelph
   link: https://adventurewithrachael.com
-  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   facebook: "#3B5998"
