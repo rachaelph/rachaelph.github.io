@@ -75,14 +75,14 @@ defaults:
     scope:
       path: "posts"
     values:
-      image: "https://picsum.photos/1300/400?image=197" # Default image for sharing
+      image: "https://picsum.photos/1300/400?image=147" # Default image for sharing
       layout: post
   -
     scope:
-      path: ""
-      type: "pages"
+      path: "health"
     values:
-      layout: page # Set the default layout for pages
+      layout: health # Set the default layout for pages
+      image: "https://picsum.photos/1300/400?image=287"
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
