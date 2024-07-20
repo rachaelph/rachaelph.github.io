@@ -3,7 +3,7 @@ title: Lessons from a 30-day No-Sugar Challenge
 categories:
 - Health and Wellness
 - Articles
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://picsum.photos/2560/600?image=156"
 ---
 
 Date: 2022-08-28
