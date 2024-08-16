@@ -1,8 +1,8 @@
 ---
 title: Adventure with Rachael
 feature_text: |
-  ### Let The Adventure Begin...
-feature_image: "https://picsum.photos/1300/400?image=197"
+  ## Let The Adventure Begin...
+feature_image: "https://picsum.photos/1300/400?image=218"
 excerpt: "This website is to share crazy stories, my work, and my passions."
 ---
 
@@ -12,4 +12,4 @@ This website is to share my articles, adventures, music, data expertise, and hea
 
 ### About The Author
 
-My name is Rachael Ann Phillips. I am originally from a small town in California called Anderson. I was born at the end of the year in 1990 and have lived in 3 separate states. 
+My name is Rachael Ann Phillips. I am originally from a small town in California called Anderson. I was born at the end of the year in 1990 and have lived in 3 separate states. I enjoy physical, mental, and emotional health, data and ai, reading and sharing ideas and 
