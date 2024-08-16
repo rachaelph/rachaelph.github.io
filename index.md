@@ -1,7 +1,7 @@
 ---
 title: Adventure with Rachael
 feature_text: |
-  ## Let The Adventure Begin...
+  ### Let The Adventure Begin...
 feature_image: "https://picsum.photos/1300/400?image=197"
 excerpt: "This website is to share crazy stories, my work, and my passions."
 ---
