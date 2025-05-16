@@ -70,7 +70,7 @@ defaults:
     scope:
       path: "posts"
     values:
-      image: "https://picsum.photos/1300/400?image=197"
+      image: "https://picsum.photos/1300/400?image=195"
       layout: post
   -
     scope:
@@ -83,8 +83,7 @@ defaults:
 encoding: utf-8
 lang: en-GB
 title: "Adventure With Rachael"
-header:
-  logo: "/assets/logos/logo@120px.png"
+logo: "/assets/logos/logo@120px.png"
 description: "Join Rachael on global adventures, personal wellness journeys, and deep dives into all things data and creativity."
 url: "https://adventurewithrachael.com"
 baseurl: ""
@@ -111,8 +110,6 @@ navigation_header:
   url: /aroundtheworld/
 - title: Wellness
   url: /healthandwellness/
-- title: Data & AI
-  url: /allthingsdata/
 - title: Music (Avenue 42)
   url: /avenue42/
 - title: Book Reviews
