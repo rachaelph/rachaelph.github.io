@@ -80,16 +80,11 @@ defaults:
       layout: page
 
 # 7. Site settings
-encoding: utf-8
-lang: en-GB
-title: "Adventure With Rachael"
-logo: "/assets/logos/logo@120px.png"
-description: "Join Rachael on global adventures, personal wellness journeys, and deep dives into all things data and creativity."
-url: "https://adventurewithrachael.com"
+title: "Smith Seabreeze"
+description: "Updates, photos, and stories from the Smith family in Florida's Sunshine City!"
+url: "https://smithseabreeze.com"
 baseurl: ""
 repo: "https://github.com/rachaelph/rachaelph.github.io"
-email: "rachael.phillips23@gmail.com"
-css_inline: true
 
 # 8. Site favicons & manifest icons
 favicons:
@@ -106,18 +101,16 @@ favicons:
 navigation_header:
 - title: Home
   url: /
-- title: Travel
-  url: /aroundtheworld/
-- title: Wellness
-  url: /healthandwellness/
-- title: Music (Avenue 42)
-  url: /avenue42/
-- title: Book Reviews
-  url: /books/
+- title: About Us
+  url: /about-us/
+- title: Blog
+  url: /blog/
+- title: Photos
+  url: /photos/
 
 navigation_footer:
 - title: Edited by Rachael Phillips
-  url: https://www.smithseabreeze.com
+  url: https://smithseabreeze.com
 
 social_links:
   LinkedIn: https://www.linkedin.com/in/rachael-phillips-data-expert
