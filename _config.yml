@@ -33,9 +33,6 @@ author: Rachael Smith
 google_analytics: "G-154731139"
 disqus: "smithseabreeze"
 
-twitter:
-  username: adventurerachael
-
 social:
   name: Rachael Smith
   links:
@@ -125,4 +122,4 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap
