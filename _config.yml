@@ -28,18 +28,9 @@ plugins:
 # 3. Gem settings
 paginate: 2
 paginate_path: blog/page:num
-jekyll-mentions: https://twitter.com
 author: Rachael Smith
 google_analytics: "G-154731139"
 disqus: "smithseabreeze"
-
-social:
-  name: Rachael Smith
-  links:
-    - https://twitter.com/adventurerachael
-    - https://www.instagram.com/adventurewithrachael/
-    - https://www.linkedin.com/in/rachael-phillips-data-expert
-    - https://github.com/rachaelph
 
 markdown: CommonMark
 commonmark:
@@ -108,14 +99,6 @@ navigation_header:
 navigation_footer:
 - title: Edited by Rachael Smith
   url: https://smithseabreeze.com
-
-social_links:
-  GitHub: https://github.com/rachaelph
-  link: https://www.smithseabreeze.com
-
-sharing_links:
-  facebook: "#3B5998"
-  Email: true
 
 fonts:
   preconnect_urls:
