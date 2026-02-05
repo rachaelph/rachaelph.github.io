@@ -2,7 +2,7 @@
 title: Smith Seabreeze
 feature_text: |
   ## Life, stories, and memories by the sea 🌊
-feature_image: "https://picsum.photos/1300/400?image=218"
+feature_image: "/assets/images/rachael-jared.jpg"
 excerpt: "Family updates, photos, and stories from Florida’s Sunshine City."
 ---
 
