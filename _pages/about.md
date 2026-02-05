@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /about-us/
 title: "About Us"
 author_profile: true
