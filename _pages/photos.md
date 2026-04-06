@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 permalink: /photos/
 title: "Photos"
 ---
