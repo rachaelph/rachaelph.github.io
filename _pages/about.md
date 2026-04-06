@@ -32,7 +32,7 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 ## Life Together
 
-We love doing *everything* together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, watch shows, read (separately but together), cook and clean (Rachael does a bit more of the cleaning), hit the gym, and constantly challenge ourselves to grow. Right now, we're doing a dopamine detox together — cutting back on certain habits to be more present and intentional.
+We love doing *everything* together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, jigsaw puzzles, watch shows, read (separately but together), cook and clean, hit the gym, and constantly challenge ourselves to grow.
 
 We also love going to the beach, paddleboarding, hanging out with family and friends, and catching movies, musicals, concerts, and comedy shows. Whether it's a quiet night at home or an adrenaline-pumping adventure, we're all in — together.
 
