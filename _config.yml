@@ -12,10 +12,9 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
-- about.md
-- blog.md
-- photos.md
-- 404.md
+
+include:
+- _pages
 
 # 2. Installed Gems
 plugins:
