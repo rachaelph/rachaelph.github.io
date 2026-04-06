@@ -39,13 +39,13 @@ We also love going to the beach, paddleboarding, hanging out with family and fri
 ## Adventures We've Shared
 
 We've been fortunate to explore some incredible places together:
-- **Cabo San Lucas** — sky bikes!
+- **Cabo San Lucas** (including Skybikes!)
 - **TreeUmph!** in Florida
 - **Seattle, San Diego, San Francisco** (including Muir Woods)
 - **Saint Augustine, The Keys** (including Dry Tortugas)
-- **The Bahamas** on a cruise
+- **The Bahamas** on a Norwegian cruise
 - Rachael's hometown in Northern California
-- Jared's hometown in Michigan
+- Jared's hometown in Eastern Michigan
 
 ### 2026 Travel Plans
 

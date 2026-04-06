@@ -1,7 +1,6 @@
 ---
-layout: page
+title: About Us
 permalink: /about/
-title: "About Us"
 ---
 
 <img src="/assets/images/rachael-jared.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
