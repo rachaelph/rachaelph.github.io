@@ -84,7 +84,13 @@ We're excited for what's next:
 - Saving to start our own health and wellness business
 - Finally getting that Toyota Tacoma (and more fun water toys for family adventures!)
 
-In five years, we'll be married four years, have at least one child (and maybe be expecting our second!), and be living in St. Pete — probably looking for a bigger house while keeping this one as a rental.
+## See Our Journey in Pictures 📸
+
+Watch our love story unfold! Check out highlights from our adventures together:
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://www.instagram.com/stories/highlights/17975034692714904/" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">💕 Watch "Our Love" on Instagram</a>
+</div>
 
 ---
 
