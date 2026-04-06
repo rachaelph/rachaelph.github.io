@@ -17,7 +17,7 @@ We're Rachael and Jared — a family of beach lovers, adventure seekers, and dog
 
 ## Latest Adventures
 
-Check out our recent posts about latest trip, recent activity, or any other stories in the [Blog](/blog/).
+Check out our recent posts about our latest trip, most recent activity, or any other stories in the [Blog](/blog/).
 
 ---
 
@@ -31,7 +31,7 @@ Check out our recent posts about latest trip, recent activity, or any other stor
 
 <img src="/assets/images/rachael-jared.jpg" alt="Rachael and Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
 
-We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. We're counting down to our April 2027 wedding while enjoying beach life with our 13-year-old pup, Ellie.
+We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City! We're counting down to our April 2027 wedding while enjoying beach life with our 13-year-old pup, Ellie.
 
 Rachael is a Senior Consultant in Data & AI at Microsoft and loves pickleball, golf, and leading through the Junior League. Jared is a salesman at a valve and actuator distributor (covering Florida, Alabama, and Georgia) who enjoys golf, pickleball, traveling, and going on weekend adventures.
 
