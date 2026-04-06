@@ -69,7 +69,7 @@ defaults:
 
 # 7. Site settings
 title: "Smith Seabreeze"
-description: "Updates, photos, and stories from the Smith family in Florida's Sunshine City!"
+description: "Smith family in the Sunshine City!"
 url: "https://smithseabreeze.com"
 baseurl: ""
 repo: "https://github.com/rachaelph/rachaelph.github.io"
@@ -90,7 +90,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About Us
-  url: /about-us/
+  url: /about/
 - title: Blog
   url: /blog/
 - title: Photos
