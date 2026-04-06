@@ -3,7 +3,7 @@ title: Smith Seabreeze
 feature_text: |
   ## Life, stories, and memories by the sea 🌊
 feature_image: "/assets/images/rachael-jared.jpg"
-excerpt: "Family updates, photos, and stories from Florida’s Sunshine City."
+excerpt: "Smith family in the Sunshine City!"
 ---
 
 This website shares our journey as a family — the challenges we face, the lessons we learn, and the adventures we experience together!
