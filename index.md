@@ -4,10 +4,38 @@ feature_image: "/assets/images/stpete.jpg"
 excerpt: "Smith Family in the Sunshine City!"
 ---
 
-This website shares our journey as a family — the challenges we face, the lessons we learn, and the adventures we experience together!
+## Welcome to Smith Seabreeze! 👋
 
-### About The Author
+We're Rachael and Jared — a family of beach lovers, adventure seekers, and dog parents living our best life in Saint Petersburg, Florida. This is our space to share our journey as we prepare for our April 2027 wedding and everything in between!
 
-<img src="/assets/images/rachael.jpg" alt="Rachael" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; border-radius: 10px;">
+## What You'll Find Here
 
-My name is Rachael Ann Phillips. I'm originally from a small town in Northern California and earned my master's degree in Mathematics from San Francisco State University in 2016. I currently am a Senior Consultant in Data & AI for Microsoft in Saint Petersburg, Florida. Outside of work, I enjoy reading, singing in my band, playing pickleball and golf, crafting, and most importantly spending time with friends and family!
+🌊 **Beach Life** - Living in the Sunshine City  
+✈️ **Adventures** - Travel stories and weekend getaways  
+🐾 **Ellie Updates** - Our sweet 13-year-old pup  
+💍 **Wedding Journey** - Planning our April 2027 celebration  
+🎯 **Life & Growth** - Career, hobbies, and everything we love  
+
+## Latest Adventures
+
+Check out our recent posts about [latest trip], [recent activity], or browse all our stories in the [Blog](/blog/).
+
+---
+
+### Want to follow along?
+
+📸 Check out our [Photos](/photos/) gallery  
+📝 Read our latest [Blog posts](/blog/)  
+💌 Learn more [About Us](/about/)
+
+## Meet the Smiths
+
+<img src="/assets/images/rachael-jared.jpg" alt="Rachael and Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
+
+We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. We're counting down to our April 2027 wedding while enjoying beach life with our 13-year-old pup, Ellie.
+
+Rachael is a Senior Consultant in Data & AI at Microsoft and loves pickleball, golf, and leading through the Junior League. Jared is a salesman at a valve and actuator distributor (covering Florida, Alabama, and Georgia) who enjoys golf, pickleball, traveling, and going on weekend adventures.
+
+Together, we love traveling, volunteering, and making the most of our Saint Petersburg life.
+
+[Learn more about us →](/about/)
