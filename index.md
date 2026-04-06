@@ -1,9 +1,8 @@
 ---
+title: "Welcome to Smith Seabreeze! 👋"
 feature_image: "/assets/images/stpete.jpg"
 excerpt: "Smith Family in the Sunshine City!"
 ---
-
-## Welcome to Smith Seabreeze! 👋
 
 We're Rachael and Jared — a family of beach lovers, adventure seekers, and dog parents living our best life in Saint Petersburg, Florida. This is our space to share our journey as we prepare for our April 2027 wedding and everything in between!
 
