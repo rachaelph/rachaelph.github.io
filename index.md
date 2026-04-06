@@ -25,7 +25,7 @@ Check out our recent posts about our latest trip, most recent activity, or any o
 
 📸 Check out our [Photos](/photos/) gallery  
 📝 Read our latest [Blog posts](/blog/)  
-💌 Learn more [About Us](/about/)
+💌 Learn more [About Us](/about-us/)
 
 ## Meet the Smiths
 
@@ -33,8 +33,8 @@ Check out our recent posts about our latest trip, most recent activity, or any o
 
 We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City! We're counting down to our April 2027 wedding while enjoying beach life with our 13-year-old pup, Ellie.
 
-Rachael is a Senior Consultant in Data & AI at Microsoft and loves pickleball, golf, and leading through the Junior League. Jared is a salesman at a valve and actuator distributor (covering Florida, Alabama, and Georgia) who enjoys golf, pickleball, traveling, and going on weekend adventures.
+Rachael is a Senior Consultant in Data & AI at Microsoft and loves pickleball, golf, and participating in the community through the Junior League of Saint Petersburg. Jared works as a Product Sales Specialist for Adams Corporation (covering Florida, Alabama, and parts of Georgia) and enjoys golf, pickleball, traveling, and going on weekend adventures.
 
 Together, we love traveling, volunteering, and making the most of our Saint Petersburg life.
 
-[Learn more about us →](/about/)
+[Learn more about us →](/about-us/)
