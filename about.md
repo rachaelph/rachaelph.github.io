@@ -11,6 +11,6 @@ Jared works as a salesman for a distributor of valves and actuators, supporting 
 
 Rachael works as a Senior Consultant in Data & AI at Microsoft and works remotely from Saint Petersburg. She loves playing pickleball and golf, volunteering, networking, traveling, and growing as a leader through her involvement with the Junior League of Saint Petersburg. Most of all, she enjoys sharing life’s everyday moments and weekend adventures with Jared.
 
-Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order.
+Ellie, their sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order.
 
 We love our life in Saint Petersburg, Florida, and created this space to share our stories, memories, and adventures with family and friends near and far.
