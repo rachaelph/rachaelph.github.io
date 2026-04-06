@@ -1,7 +1,5 @@
 ---
 title: Smith Seabreeze
-feature_text: |
-  #### Life, stories, and memories by the sea 🌊
 feature_image: "/assets/images/stpete.jpg"
 excerpt: "Smith Family in the Sunshine City!"
 ---
