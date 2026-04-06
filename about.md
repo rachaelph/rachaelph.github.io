@@ -3,7 +3,7 @@ title: About Us
 permalink: /about/
 ---
 
-<img src="/assets/images/rachael-jared2.jpg" alt="Rachael" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; border-radius: 10px;">
+<img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; border-radius: 10px;">
 
 We met in Saint Petersburg, Florida — a California girl and a Michigander, both raised in small towns and dreaming of something bigger. What started as a chance meeting quickly turned into a love story rooted in sunshine, salt air, and beachside moments.
 
