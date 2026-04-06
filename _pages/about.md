@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about-us/
+permalink: /about/
 title: "About Us"
 author_profile: true
 ---
