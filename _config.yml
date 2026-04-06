@@ -69,7 +69,7 @@ defaults:
 
 # 7. Site settings
 title: "Smith Seabreeze"
-description: "Smith family in the Sunshine City!"
+description: "Smith Family in the Sunshine City!"
 url: "https://smithseabreeze.com"
 baseurl: ""
 repo: "https://github.com/rachaelph/rachaelph.github.io"
