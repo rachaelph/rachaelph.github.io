@@ -6,7 +6,7 @@ feature_image: "/assets/images/rachael-jared.jpg"
 excerpt: "Family updates, photos, and stories from Florida’s Sunshine City."
 ---
 
-This website shares our journey as a family — the challenges we face, the lessons we learn, and the adventures we experience together.
+This website shares our journey as a family — the challenges we face, the lessons we learn, and the adventures we experience together!
 
 ### About The Author
 
