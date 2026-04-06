@@ -1,5 +1,4 @@
 ---
-title: Smith Seabreeze
 feature_image: "/assets/images/stpete.jpg"
 excerpt: "Smith Family in the Sunshine City!"
 ---
@@ -18,7 +17,7 @@ We're Rachael and Jared — a family of beach lovers, adventure seekers, and dog
 
 ## Latest Adventures
 
-Check out our recent posts about [latest trip], [recent activity], or browse all our stories in the [Blog](/blog/).
+Check out our recent posts about latest trip, recent activity, or any other stories in the [Blog](/blog/).
 
 ---
 
