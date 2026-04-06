@@ -24,7 +24,7 @@ Oh, and he really, REALLY wants a Toyota Tacoma. Like, he won't stop talking abo
 
 ## About Rachael
 
-Rachael works as a Senior Consultant in Data & AI at Microsoft, working remotely from Saint Petersburg. She's the planner, the activator, the one who makes things happen. She's talkative, adventurous, and always has the next trip, activity, or goal lined up. She's passionate about health and wellness, networking, volunteering with the Junior League of Saint Petersburg, and creating experiences. She's also the one who gets teased for "not working much" (even though she definitely does — she just doesn't complain about it as much!).
+Rachael works as a Senior Consultant in Data & AI at Microsoft, working remotely from Saint Petersburg. She's the planner, the activator, the one who makes things happen. She's talkative, adventurous, and always has the next trip, activity, or goal lined up. She's passionate about health and wellness, networking, volunteering with the Junior League of Saint Petersburg, and creating experiences.
 
 ## About Ellie 🐾
 
