@@ -5,6 +5,17 @@ permalink: /wedding/
 
 <style>
   /* Elegant wedding page styling */
+  
+  /* Override theme width constraints */
+  .page__content,
+  .page-content,
+  article,
+  main {
+    max-width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  
   .wedding-page {
     font-family: 'Georgia', 'Garamond', serif;
   }
