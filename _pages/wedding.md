@@ -95,7 +95,7 @@ feature_image: "/assets/images/west_events2.jpg"
 </div>
 
 <div class="couple-photo">
-  <img src="/assets/images/engagementphotos8.jpg" alt="Rachael and Jared">
+  <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared">
 </div>
   
 <div class="wedding-title">
