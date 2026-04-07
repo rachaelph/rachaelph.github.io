@@ -43,7 +43,7 @@ feature_image: "/assets/images/west_events2.jpg"
     margin: 30px auto;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    max-width: 90%;
+    max-width: 98%;
   }
   
   .wedding-section h2 {
@@ -88,7 +88,7 @@ feature_image: "/assets/images/west_events2.jpg"
   }
 </style>
 
-<div class="wedding-page" style="padding: 20px 0;">
+<div class="wedding-page" style="padding: 20px 10px;">
 
 <div class="our-wedding-title">
   <h1>Our Wedding</h1>
@@ -108,7 +108,7 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Event Details</h2>
 
-<p><strong>📅 Date:</strong> Tuesday, April 15, 2027<br>
+<p><strong>📅 Date:</strong> Thursday, April 15, 2027<br>
 <strong>🕐 Ceremony:</strong> 4:00 or 5:00 PM (final time TBD)<br>
 <strong>📍 Venue:</strong> <a href="https://www.thewesteventspace.com/" target="_blank">The West Events</a><br>
 <strong>🏠 Address:</strong> 13435 Gulf Boulevard, Madeira Beach, FL 33708<br>
@@ -425,7 +425,7 @@ feature_image: "/assets/images/west_events2.jpg"
 <p style="background: #00697F; padding: 15px; border-radius: 8px;"><strong>Prefer to give a check?</strong><br>
 You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding or mail them to us (contact us for mailing address).</p>
 
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;"> Help Us Experience Costa Rica </h3>
+<h3 style="color: #BF9B7A; font-size: 1.5em; margin-top: 25px;"> Help Us Experience Costa Rica </h3>
 
 <p>Here's what we're planning for our 10-day adventure:</p>
 
