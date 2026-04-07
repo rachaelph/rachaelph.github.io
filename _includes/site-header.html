@@ -5,7 +5,10 @@
       {% if site.logo %}
         <a class="logo-custom" href="{{ site.baseurl }}/" style="display: flex; align-items: center; text-decoration: none; gap: 15px;">
           <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title | append: ' logo' }}" style="width: 50px; height: 50px; flex-shrink: 0;"/>
-          <p style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 1.1em; color: #1a8b9d; margin: 0; font-weight: 300; letter-spacing: 1px;">Life, Love, and Adventures</p>
+          <div style="text-align: left;">
+            <h1 style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.1em; margin: 0; color: #333; line-height: 1.2;">{{ site.title }}</h1>
+            <p style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 0.75em; color: #1a8b9d; margin: 2px 0 0 0; font-weight: 300; letter-spacing: 1px;">Life, Love, and Adventures</p>
+          </div>
         </a>
       {% endif %}
     </div>
