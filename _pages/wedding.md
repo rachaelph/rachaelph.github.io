@@ -207,7 +207,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Stephanie Berlinghoff</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #00695C; line-height: 1.6;">Stephanie and I met in kindergarten—we've known each other for over 30 years! During our childhood and teenage years, her family became my second family, and I spent countless hours on trips with them. We went camping multiple times and even went on a cruise that we boarded on Stephanie's 19th birthday! She's always been so fun to be around and knows how to not take life too seriously. Even when months have passed without talking, when we reconnect, it's like no time has passed at all! I was honored to be a bridesmaid in her wedding, and I'm so grateful she's part of my bridal party!</p>
+      <p style="color: #00695C; line-height: 1.6;">Stephanie and I met in kindergarten—we've known each other for over 30 years! During our childhood and teenage years, her family became my second family, and I spent countless hours on trips with them. We went camping multiple times and even went on a cruise that we boarded on Stephanie's 19th birthday! She's always been so fun to be around and knows how to not take life too seriously. Even when months have passed without talking, when we reconnect, it's like no time has passed at all! I was honored to be a bridesmaid in her wedding, and I'm so grateful she's part of my bridal party as well!</p>
     </div>
   </div>
 
@@ -253,7 +253,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Kegan Copenhagen</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">Kegan is Jared's younger brother! He's sweet (when he wants to be ;)), fun, and absolutely obsessed with fishing and golfing. He's definitely stubborn and knows what he wants, but he's always there for Jared when he needs him. I'm so grateful to call him my future brother-in-law and thrilled he'll be standing beside Jared on this special day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Kegan is Jared's younger brother! He's sweet, fun, and absolutely obsessed with fishing and golfing. He's definitely stubborn and knows what he wants, but he's always there for Jared when he needs him. I'm so grateful to call him my future brother-in-law and thrilled he'll be standing beside Jared on this special day!</p>
     </div>
   </div>
 
@@ -263,7 +263,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Chase Howard</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">Chase is another one of Jared's younger brothers! He's sweet (when he wants to be ;)), fun to hang out with, and a good man. I'm so glad to call him my future brother-in-law and thrilled to have him standing beside Jared on our big day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Chase is another one of Jared's younger brothers! He's sweet, fun to hang out with, and a good man. He's always looking for his next challenge or money-making hustle, which he is very good at! I'm so glad to call him my future brother-in-law and thrilled to have him standing beside Jared on our big day!</p>
     </div>
   </div>
 
@@ -273,7 +273,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Christian Arellano</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">Last but not least is Christian, my nephew and my sister Ginger's son! I've known him his whole life—which, funny enough, is most of my life too. We grew up together like brother and sister! He's such a kind spirit with a wonderful aura and is an absolute delight to hang out with. I'm so happy he's going to be part of our special day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Last but not least is Christian, my nephew (my sister Ginger's son)! I've known him his whole life—which, funny enough, is most of my life too. We grew up together like brother and sister! He's such a kind spirit with a wonderful aura and is an absolute delight to hang out with. I'm so happy he's going to be part of our special day!</p>
     </div>
   </div>
 
