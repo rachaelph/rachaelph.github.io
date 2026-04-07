@@ -120,6 +120,134 @@ The West Events is a beautiful waterfront venue in Madeira Beach, just steps fro
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
+## Wedding Party
+
+### Bride's Side
+
+<div style="display: grid; gap: 25px; margin: 30px 0;">
+
+  <!-- Devlyn Parsons -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_dev.jpg" alt="Devlyn Parsons" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Devlyn Parsons</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Co-Maid of Honor</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Holly Smith -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_holly.jpg" alt="Holly Smith" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Holly Smith</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Co-Maid of Honor</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Katie Ocasion -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_katie.jpg" alt="Katie Ocasion" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Katie Ocasion</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Emma Breneisen -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_emma.jpg" alt="Emma Breneisen" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Emma Breneisen</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Stephanie Berlinghoff -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_steph.jpg" alt="Stephanie Berlinghoff" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Stephanie Berlinghoff</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Judy Du -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/me_judy.jpg" alt="Judy Du" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Judy Du</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+</div>
+
+### Groom's Side
+
+<div style="display: grid; gap: 25px; margin: 30px 0;">
+
+  <!-- Trevor Shemka -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/jared_trevor.jpg" alt="Trevor Shemka" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Trevor Shemka</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Best Man</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Andrew Clark -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/jared_andrew.jpg" alt="Andrew Clark" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Andrew Clark</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Kegan Copenhagen -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/jared_kegan.jpg" alt="Kegan Copenhagen" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Kegan Copenhagen</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Chase Howard -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/jared_chase.jpg" alt="Chase Howard" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Chase Howard</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+  <!-- Christian Arellano -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/assets/images/jared_christian.jpg" alt="Christian Arellano" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <div>
+      <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Christian Arellano</h4>
+      <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
+      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+    </div>
+  </div>
+
+</div>
+
+</div>
+
+<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
+
 ## Where to Stay
 
 We know many of you are traveling from out of state! Here are our recommended hotels near the venue and in the St. Pete area:
