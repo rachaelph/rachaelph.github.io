@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /wedding/
-feature_image: "/assets/images/west_events2.jpg"
 ---
 
 <style>
