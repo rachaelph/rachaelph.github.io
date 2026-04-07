@@ -417,7 +417,7 @@ permalink: /wedding/
 
 <div style="background: #f5f5f5; padding: 30px; border-radius: 10px; margin: 30px 0;">
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     
     <div style="text-align: center; padding: 15px;">
       <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Venmo </strong></p>
