@@ -5,18 +5,20 @@
       {% if site.logo %}
         <a class="logo-custom" href="{{ site.baseurl }}/" style="display: flex; align-items: center; text-decoration: none; gap: 15px;">
           <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title | append: ' logo' }}" style="width: 60px; height: 60px; flex-shrink: 0;"/>
-          <div style="text-align: left;">
-            <h1 style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 0.95em; margin: 0; color: #0d7a8a; line-height: 1.2; font-weight: 400;">{{ site.title }}</h1>
-            <p style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 0.65em; color: #0d7a8a; margin: 2px 0 0 0; font-weight: 300; letter-spacing: 1px;">Life, Love, and Adventures</p>
+          <div>
+            <h1 style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 0.95em; margin: 0; color: #0d7a8a; line-height: 1.2; font-weight: 700;">{{ site.title }}</h1>
+            <p style="font-family: 'Raleway', 'Helvetica Neue', sans-serif; font-size: 0.65em; color: #0d7a8a; margin: 2px 0 0 0; font-weight: 700; letter-spacing: 1px;">Life, Love, and Adventures</p>
           </div>
         </a>
       {% endif %}
     </div>
     
     <style>
-      /* Custom navigation colors to match header */
+      /* Custom navigation colors and font to match header */
       .nav--header a {
         color: #0d7a8a !important;
+        font-family: 'Raleway', 'Helvetica Neue', sans-serif !important;
+        font-weight: 700 !important;
       }
       .nav--header a:hover {
         color: #095c6a !important;
