@@ -61,14 +61,32 @@ feature_image: "/assets/images/west_events2.jpg"
     font-size: 1.5em;
     margin-top: 25px;
   }
+  
+  .our-wedding-title {
+    text-align: center;
+    margin: 40px 0 20px 0;
+  }
+  
+  .our-wedding-title h1 {
+    font-family: 'Great Vibes', 'Playfair Display', 'Georgia', cursive;
+    font-size: 4em;
+    color: #0d8a9a;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
 </style>
 
 <div class="wedding-page" style="padding: 20px 0;">
+
+<div class="our-wedding-title">
+  <h1>Our Wedding</h1>
+</div>
   
 <div class="wedding-title">
-  <h1>💍 Rachael & Jared 💍</h1>
-  <h2>April 15, 2027</h2>
-  <p>Madeira Beach, Florida</p>
+  <h1> Rachael & Jared </h1>
+  <h2> April 15, 2027 </h2>
+  <p> Madeira Beach, Florida </p>
 </div>
 
 <div class="wedding-section">
