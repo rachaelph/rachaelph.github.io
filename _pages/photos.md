@@ -12,7 +12,7 @@ Check out some of our favorite adventures! Click the links below to watch our In
   
   <div style="text-align: center; padding: 20px; border: 2px solid #ddd; border-radius: 10px;">
     <h3 style="margin-top: 0;">💕 Our Love</h3>
-    <p>Our journey together - from first date to engagement and beyond!</p>
+    <p>Our journey together!</p>
     <a href="https://www.instagram.com/stories/highlights/17975034692714904/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">Watch Now</a>
   </div>
   
