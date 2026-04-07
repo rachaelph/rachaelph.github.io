@@ -11,7 +11,7 @@ permalink: /wedding/
   .page-content,
   article,
   main {
-    max-width: 90% !important;
+    max-width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
