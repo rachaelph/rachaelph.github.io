@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /wedding/
-title: "Our Wedding"
 feature_image: "/assets/images/west_events2.jpg"
 ---
 
@@ -75,12 +74,28 @@ feature_image: "/assets/images/west_events2.jpg"
     font-weight: 400;
     letter-spacing: 2px;
   }
+  
+  .couple-photo {
+    text-align: center;
+    margin: 30px auto 40px auto;
+  }
+  
+  .couple-photo img {
+    max-width: 500px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  }
 </style>
 
 <div class="wedding-page" style="padding: 20px 0;">
 
 <div class="our-wedding-title">
   <h1>Our Wedding</h1>
+</div>
+
+<div class="couple-photo">
+  <img src="/assets/images/engagementphotos8.jpg" alt="Rachael and Jared">
 </div>
   
 <div class="wedding-title">
