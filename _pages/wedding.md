@@ -144,7 +144,7 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <p><strong>More details coming soon!</strong> We'll update this with the full timeline as our plans are finalized.</p>
 
-<ul>
+<ul style="margin-left: 30px;">
   <li>Ceremony</li>
   <li>Cocktail hour</li>
   <li>Reception & dinner</li>
@@ -163,61 +163,61 @@ feature_image: "/assets/images/west_events2.jpg"
 
   <!-- Devlyn Parsons -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_dev.jpg" alt="Devlyn Parsons" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_dev.jpg" alt="Devlyn Parsons" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Devlyn Parsons</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Co-Maid of Honor</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Dev has been one of my best friends for roughly 10 years! We met at my first job out of college in Scottsdale, AZ, and quickly became close friends. I moved back to California to help my dad for three years at the end of 2020, but our friendship stayed strong. At the beginning of 2023, Dev moved to Clearwater, Florida, and several months later, I moved to Saint Petersburg! We were reunited and now hang out all the time—about once a week, if not more. She is like a big sister to me, and when she introduces me, she calls me her little sister! I am so grateful for her love, support, kindness, and loyalty. She is an amazing sister and friend, and I am truly lucky to have her as one of my co-maids of honor!</p>
     </div>
   </div>
 
   <!-- Holly Smith -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_holly.jpg" alt="Holly Smith" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_holly.jpg" alt="Holly Smith" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Holly Smith</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Co-Maid of Honor</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Holly and I have been friends since sophomore year of high school, over 20 years! I used to steal her gum and cheat off her history homework ;) She is one of the most loyal, understanding, kind, and fun people I have ever had the pleasure of knowing! She is always there for the people she loves and will do anything for those she cares about. She's incredibly strong and resilient, and she's another sister from another mister to me! I am so honored and grateful to have her as my other co-maid of honor!</p>
     </div>
   </div>
 
   <!-- Katie Ocasion -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_katie.jpg" alt="Katie Ocasion" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_katie.jpg" alt="Katie Ocasion" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Katie Ocasion</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;"> Katie and I have known each other since I was about </p>
     </div>
   </div>
 
   <!-- Emma Breneisen -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_emma.jpg" alt="Emma Breneisen" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_emma.jpg" alt="Emma Breneisen" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Emma Breneisen</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Stephanie Berlinghoff -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_steph.jpg" alt="Stephanie Berlinghoff" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_steph.jpg" alt="Stephanie Berlinghoff" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Stephanie Berlinghoff</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Judy Du -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/me_judy.jpg" alt="Judy Du" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/me_judy.jpg" alt="Judy Du" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Judy Du</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
@@ -229,51 +229,51 @@ feature_image: "/assets/images/west_events2.jpg"
 
   <!-- Trevor Shemka -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/jared_trevor.jpg" alt="Trevor Shemka" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/jared_trevor.jpg" alt="Trevor Shemka" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Trevor Shemka</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Best Man</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Andrew Clark -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/jared_andrew.jpg" alt="Andrew Clark" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/jared_andrew.jpg" alt="Andrew Clark" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Andrew Clark</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Kegan Copenhagen -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/jared_kegan.jpg" alt="Kegan Copenhagen" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/jared_kegan.jpg" alt="Kegan Copenhagen" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Kegan Copenhagen</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Chase Howard -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/jared_chase.jpg" alt="Chase Howard" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/jared_chase.jpg" alt="Chase Howard" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Chase Howard</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
   <!-- Christian Arellano -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/assets/images/jared_christian.JPG" alt="Christian Arellano" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px; flex-shrink: 0;">
+    <img src="/assets/images/jared_christian.JPG" alt="Christian Arellano" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Christian Arellano</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #666; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
     </div>
   </div>
 
@@ -288,7 +288,7 @@ feature_image: "/assets/images/west_events2.jpg"
 <p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue and in the St. Pete area:</p>
 
 <p><strong>[HOTEL RECOMMENDATIONS NEEDED]</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Hotel 1 (distance from venue)</li>
   <li>Hotel 2 (distance from venue)</li>
   <li>Hotel 3 (distance from venue)</li>
@@ -304,7 +304,7 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Transportation Options</h3>
 
-<ul>
+<ul style="margin-left: 30px;">
   <li><strong>Uber/Lyft:</strong> Readily available throughout St. Petersburg</li>
   <li><strong>Rental Cars:</strong> Available at Tampa International Airport (TPA) - about 30 minutes from St. Pete</li>
   <li><strong>Looper Trolley:</strong> Free downtown trolley service</li>
@@ -313,7 +313,7 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Parking at Venue</h3>
 <p><strong>Important:</strong> The venue can accommodate a maximum of 20 cars. We strongly encourage:</p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Carpooling with other guests</li>
   <li>Using rideshare services (Uber/Lyft)</li>
   <li>Staying at a nearby hotel and taking a short ride</li>
@@ -328,14 +328,14 @@ feature_image: "/assets/images/west_events2.jpg"
 <p>Whether you're here for the weekend or making a vacation of it, here are some of our favorite spots:</p>
 
 <p><strong>Beaches:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>St. Pete Beach</li>
   <li>Madeira Beach</li>
   <li>Pass-a-Grille Beach</li>
 </ul>
 
 <p><strong>Attractions:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>The Pier</li>
   <li>Dali Museum</li>
   <li>Vinoy Park</li>
@@ -344,7 +344,7 @@ feature_image: "/assets/images/west_events2.jpg"
 </ul>
 
 <p><strong>Activities:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Paddleboarding</li>
   <li>Beach volleyball</li>
   <li>Shopping on Beach Drive</li>
@@ -362,19 +362,19 @@ feature_image: "/assets/images/west_events2.jpg"
 <p><strong>[RESTAURANT RECOMMENDATIONS NEEDED - Please provide your favorites!]</strong></p>
 
 <p><strong>Casual:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Restaurant 1</li>
   <li>Restaurant 2</li>
 </ul>
 
 <p><strong>Nice Dinner:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Restaurant 1</li>
   <li>Restaurant 2</li>
 </ul>
 
 <p><strong>Brunch:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>Bad Mother (where we had our first date!)</li>
   <li>Others</li>
 </ul>
@@ -386,10 +386,11 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">🌴 Honeymoon Fund 🌴</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-  <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; border-radius: 10px;">
-  <img src="/assets/images/costa_rica3.jpg" alt="Costa Rica" style="width: 100%; border-radius: 10px;">
-  <img src="/assets/images/costa_rica4.jpg" alt="Costa Rica" style="width: 100%; border-radius: 10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
+  <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica2.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica3.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica4.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
 </div>
 
 <p>The greatest gift to us is your presence on our special day! However, if you would like to contribute to our honeymoon, we would be so grateful. We're planning an amazing 10-day adventure to <strong>Costa Rica</strong>!</p>
@@ -405,49 +406,47 @@ feature_image: "/assets/images/west_events2.jpg"
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px;">
     
     <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong>💙 Venmo</strong></p>
-      <p style="font-size: 1.1em; color: #008CFF; font-weight: bold; word-wrap: break-word;">@Rachael-Phillips-13</p>
+      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Venmo </strong></p>
       <img src="/assets/images/venmo.png" alt="Venmo QR Code" style="width: 150px; height: 150px; margin: 10px auto; display: block;">
-      <p style="margin-top: 10px;"><a href="https://venmo.com/code?user_id=1928744671379456565&created=1775564678" target="_blank" style="color: #008CFF; text-decoration: underline;">Pay via Venmo</a></p>
     </div>
     
     <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong>💚 Zelle</strong></p>
-      <p style="font-size: 0.95em; color: #6D1ED4; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Zelle </strong></p>
+      <p style="font-size: 0.95em; color: #93E9BE; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
     <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong>💵 CashApp</strong></p>
-      <p style="font-size: 1.1em; color: #00C244; font-weight: bold; word-wrap: break-word;">$rachaelaps</p>
+      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> CashApp </strong></p>
+      <p style="font-size: 1.1em; color: #4DB8A0; font-weight: bold; word-wrap: break-word;">$rachaelaps</p>
     </div>
     
     <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong>💳 PayPal</strong></p>
-      <p style="font-size: 0.95em; color: #003087; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> PayPal </strong></p>
+      <p style="font-size: 0.95em; color: #9DE0D5; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
   </div>
   
-  <p style="text-align: center; color: #666; margin-top: 20px; font-style: italic;">Please include "Honeymoon Fund 💕" in the note</p>
+  <p style="text-align: center; color: #BF9B7A; margin-top: 20px; font-style: italic;">Please include "Honeymoon Fund 💕" in the note</p>
   
 </div>
 
-<p style="background: #e8f4f8; padding: 15px; border-radius: 8px;"><strong>Prefer to give a check?</strong><br>
+<p style="background: #00697F; padding: 15px; border-radius: 8px;"><strong>Prefer to give a check?</strong><br>
 You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding or mail them to us (contact us for mailing address).</p>
 
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Help Us Experience Costa Rica 🇨🇷</h3>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;"> Help Us Experience Costa Rica </h3>
 
 <p>Here's what we're planning for our 10-day adventure:</p>
 
 <p><strong>Accommodations & Travel:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>✈️ Round-trip flights (Tampa to San Jose)</li>
   <li>🏨 Luxury resort stay (2-3 nights)</li>
   <li>🚗 AWD car rental for exploring</li>
 </ul>
 
 <p><strong>Adventures & Excursions:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>☕ Coffee plantation tour</li>
   <li>🌋 Volcano tour and hot springs</li>
   <li>🌿 Cloud forest exploration</li>
@@ -457,7 +456,7 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 </ul>
 
 <p><strong>Special Moments:</strong></p>
-<ul>
+<ul style="margin-left: 30px;">
   <li>🍽️ Romantic beachside dinners</li>
   <li>💆‍♀️ Couples spa day</li>
   <li>🎉 Any amount toward our dream honeymoon!</li>
