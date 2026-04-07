@@ -396,7 +396,7 @@ permalink: /wedding/
 <!-- Honeymoon Fund Section -->
 <div class="wedding-section">
 
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">🌴 Honeymoon Fund 🌴</h2>
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
   <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
