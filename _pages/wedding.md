@@ -39,8 +39,8 @@ feature_image: "/assets/images/west_events2.jpg"
   
   .wedding-section {
     background: rgba(255, 255, 255, 0.9);
-    padding: 40px;
-    margin: 30px 0;
+    padding: 20px;
+    margin: 30px auto;
     border-radius: 0;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   }
