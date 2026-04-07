@@ -421,7 +421,7 @@ feature_image: "/assets/images/west_events2.jpg"
   
 </div>
 
-<p style="background: #00697F; padding: 15px; border-radius: 8px;"><strong>Prefer to give a check?</strong><br>
+<p style="background: #00697F; padding: 15px; border-radius: 8px; color: #BF9B7A;"><strong>Prefer to give a check?</strong><br>
 You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding or mail them to us (contact us for mailing address).</p>
 
 <h3 style="color: #BF9B7A; font-size: 1.5em; margin-top: 25px;"> Help Us Experience Costa Rica </h3>
