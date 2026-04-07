@@ -68,6 +68,7 @@ permalink: /wedding/
     color: #2c5f6f;
     font-size: 1.5em;
     margin-top: 25px;
+    font-family: 'Georgia', serif;
   }
   
   .our-wedding-title {
@@ -327,7 +328,7 @@ permalink: /wedding/
 
 <div class="wedding-section">
 
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Things to Do in St. Pete</h2>
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Things to do in St. Pete</h2>
 
 <p>Whether you're here for the weekend or making a vacation of it, here are some of our favorite spots:</p>
 
@@ -418,17 +419,17 @@ permalink: /wedding/
     
     <div style="text-align: center; padding: 15px;">
       <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Zelle </strong></p>
-      <p style="font-size: 0.95em; color: #93E9BE; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+      <p style="font-size: 0.95em; color: #00695C; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
     <div style="text-align: center; padding: 15px;">
       <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> CashApp </strong></p>
-      <p style="font-size: 1.1em; color: #4DB8A0; font-weight: bold; word-wrap: break-word;">$rachaelaps</p>
+      <p style="font-size: 1.1em; color: #00695C; font-weight: bold; word-wrap: break-word;">$rachaelaps</p>
     </div>
     
     <div style="text-align: center; padding: 15px;">
       <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> PayPal </strong></p>
-      <p style="font-size: 0.95em; color: #9DE0D5; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+      <p style="font-size: 0.95em; color: #00695C; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
   </div>
