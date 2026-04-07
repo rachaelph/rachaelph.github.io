@@ -6,6 +6,11 @@ permalink: /wedding/
 <style>
   /* Elegant wedding page styling */
   
+  /* Sandy background for entire page */
+  body {
+    background-color: #F5DEB3 !important;
+  }
+  
   /* Override theme width constraints */
   .page__content,
   .page-content,
@@ -14,10 +19,12 @@ permalink: /wedding/
     max-width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    background-color: #F5DEB3;
   }
   
   .wedding-page {
     font-family: 'Georgia', 'Garamond', serif;
+    background-color: #F5DEB3;
   }
   
   .wedding-title {
