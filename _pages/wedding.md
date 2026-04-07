@@ -390,7 +390,9 @@ feature_image: "/assets/images/west_events2.jpg"
   <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
   <img src="/assets/images/costa_rica2.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
   <img src="/assets/images/costa_rica3.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img src="/assets/images/costa_rica4.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica5.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica6.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
+  <img src="/assets/images/costa_rica7.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
 </div>
 
 <p>The greatest gift to us is your presence on our special day! However, if you would like to contribute to our honeymoon, we would be so grateful. We're planning an amazing 10-day adventure to <strong>Costa Rica</strong>!</p>
