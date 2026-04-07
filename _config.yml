@@ -76,6 +76,7 @@ description: "Smith Family in the Sunshine City!"
 url: "https://smithseabreeze.com"
 baseurl: ""
 repo: "https://github.com/rachaelph/rachaelph.github.io"
+logo: "/assets/logos/logo.svg"
 
 # 8. Site favicons & manifest icons
 favicons:
@@ -109,4 +110,4 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Raleway:wght@300;400;600&display=swap
