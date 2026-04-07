@@ -115,7 +115,7 @@ permalink: /wedding/
     </div>
     
     <div class="wedding-title" style="text-align: left;">
-      <h1 style="color: #d4a574; font-size: 1.8em; margin-bottom: 10px; font-weight: normal; letter-spacing: 2px;"> Rachael & Jared </h1>
+      <h1 style="color: #00695C; font-size: 1.8em; margin-bottom: 10px; font-weight: normal; letter-spacing: 2px;"> Rachael & Jared </h1>
       <h2 style="color: #2c5f6f; font-size: 1.5em; font-weight: 300; margin: 5px 0;"> April 15, 2027 </h2>
       <p style="color: #666; font-size: 1.2em; font-style: italic;"> Madeira Beach, Florida </p>
     </div>
