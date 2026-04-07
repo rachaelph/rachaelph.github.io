@@ -43,7 +43,7 @@ feature_image: "/assets/images/west_events2.jpg"
     margin: 30px auto;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    max-width: 1200px;
+    max-width: 90%;
   }
   
   .wedding-section h2 {
