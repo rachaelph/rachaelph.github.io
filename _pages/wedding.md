@@ -73,56 +73,58 @@ feature_image: "/assets/images/beach_wedding.jpg"
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Event Details
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Event Details</h2>
 
-**📅 Date:** Tuesday, April 15, 2027  
-**🕐 Ceremony:** 4:00 or 5:00 PM (final time TBD)  
-**📍 Venue:** [The West Events](https://www.thewesteventspace.com/)  
-**🏠 Address:** 13435 Gulf Boulevard, Madeira Beach, FL 33708  
-**📞 Phone:** (727) 363-4255
+<p><strong>📅 Date:</strong> Tuesday, April 15, 2027<br>
+<strong>🕐 Ceremony:</strong> 4:00 or 5:00 PM (final time TBD)<br>
+<strong>📍 Venue:</strong> <a href="https://www.thewesteventspace.com/" target="_blank">The West Events</a><br>
+<strong>🏠 Address:</strong> 13435 Gulf Boulevard, Madeira Beach, FL 33708<br>
+<strong>📞 Phone:</strong> (727) 363-4255</p>
 
-### Dress Code
-**Semi-Formal Beach Attire** - Think beachy colors and lightweight fabrics! It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Dress Code</h3>
+<p><strong>Semi-Formal Beach Attire</strong> - Think beachy colors and lightweight fabrics! It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️</p>
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Venue & Location
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Venue & Location</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
   <img src="/assets/images/west_events.png" alt="Venue" style="width: 100%; border-radius: 10px;">
-  <img src="/assets/images/west_events2.jpg" alt="Venue 2" style="width: 100%; border-radius: 10px;">
   <img src="/assets/images/west_events3.jpg" alt="Venue 3" style="width: 100%; border-radius: 10px;">
-  <img src="/assets/images/west_events4.jpeg" alt="Venue 4" style="width: 100%; border-radius: 10px;">
+  <img src="/assets/images/west_events5.jpg" alt="Venue 5" style="width: 100%; border-radius: 10px;">
+  <img src="/assets/images/west_events7.jpg" alt="Venue 7" style="width: 100%; border-radius: 10px;">
 </div>
 
-The West Events is a beautiful waterfront venue in Madeira Beach, just steps from the beach! The industrial-chic space offers indoor and outdoor areas, creating the perfect backdrop for our celebration.
+<p>The West Events is a beautiful waterfront venue in Madeira Beach, just steps from the beach! The industrial-chic space offers indoor and outdoor areas, creating the perfect backdrop for our celebration.</p>
 
-**Getting There:** The venue is located on Gulf Boulevard in Madeira Beach, close to St. Pete and about 30 minutes from Tampa International Airport (TPA).
+<p><strong>Getting There:</strong> The venue is located on Gulf Boulevard in Madeira Beach, close to St. Pete and about 30 minutes from Tampa International Airport (TPA).</p>
 
-**Important:** Parking is limited to 20 vehicles at the venue. We encourage carpooling or using rideshare services when possible!
-
-</div>
-
-<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
-
-## Schedule
-
-**More details coming soon!** We'll update this with the full timeline as our plans are finalized.
-
-- Ceremony
-- Cocktail hour
-- Reception & dinner
-- Dancing & celebration
+<p><strong>Important:</strong> Parking is limited to 20 vehicles at the venue. We encourage carpooling or using rideshare services when possible!</p>
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Wedding Party
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Schedule</h2>
 
-### Bride's Side
+<p><strong>More details coming soon!</strong> We'll update this with the full timeline as our plans are finalized.</p>
+
+<ul>
+  <li>Ceremony</li>
+  <li>Cocktail hour</li>
+  <li>Reception & dinner</li>
+  <li>Dancing & celebration</li>
+</ul>
+
+</div>
+
+<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Wedding Party</h2>
+
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Bride's Side</h3>
 
 <div style="display: grid; gap: 25px; margin: 30px 0;">
 
@@ -188,7 +190,7 @@ The West Events is a beautiful waterfront venue in Madeira Beach, just steps fro
 
 </div>
 
-### Groom's Side
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Groom's Side</h3>
 
 <div style="display: grid; gap: 25px; margin: 30px 0;">
 
@@ -248,83 +250,101 @@ The West Events is a beautiful waterfront venue in Madeira Beach, just steps fro
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Where to Stay
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Where to Stay</h2>
 
-We know many of you are traveling from out of state! Here are our recommended hotels near the venue and in the St. Pete area:
+<p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue and in the St. Pete area:</p>
 
-**[HOTEL RECOMMENDATIONS NEEDED]**
-- Hotel 1 (distance from venue)
-- Hotel 2 (distance from venue)
-- Hotel 3 (distance from venue)
+<p><strong>[HOTEL RECOMMENDATIONS NEEDED]</strong></p>
+<ul>
+  <li>Hotel 1 (distance from venue)</li>
+  <li>Hotel 2 (distance from venue)</li>
+  <li>Hotel 3 (distance from venue)</li>
+</ul>
 
-*We'll be setting up hotel blocks - check back for booking codes!*
-
-</div>
-
-<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
-
-## Getting Around St. Pete
-
-### Transportation Options
-
-- **Uber/Lyft:** Readily available throughout St. Petersburg
-- **Rental Cars:** Available at Tampa International Airport (TPA) - about 30 minutes from St. Pete
-- **Looper Trolley:** Free downtown trolley service
-- **Scooters/Bikes:** Bird and Lime scooters available throughout the city
-
-### Parking at Venue
-**Important:** The venue can accommodate a maximum of 20 cars. We strongly encourage:
-- Carpooling with other guests
-- Using rideshare services (Uber/Lyft)
-- Staying at a nearby hotel and taking a short ride
+<p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Things to Do in St. Pete
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Getting Around St. Pete</h2>
 
-Whether you're here for the weekend or making a vacation of it, here are some of our favorite spots:
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Transportation Options</h3>
 
-**Beaches:**
-- St. Pete Beach
-- Madeira Beach
-- Pass-a-Grille Beach
+<ul>
+  <li><strong>Uber/Lyft:</strong> Readily available throughout St. Petersburg</li>
+  <li><strong>Rental Cars:</strong> Available at Tampa International Airport (TPA) - about 30 minutes from St. Pete</li>
+  <li><strong>Looper Trolley:</strong> Free downtown trolley service</li>
+  <li><strong>Scooters/Bikes:</strong> Bird and Lime scooters available throughout the city</li>
+</ul>
 
-**Attractions:**
-- The Pier
-- Dali Museum
-- Vinoy Park
-- Sunken Gardens
-- Downtown St. Pete
-
-**Activities:**
-- Paddleboarding
-- Beach volleyball
-- Shopping on Beach Drive
-- Art galleries in the EDGE District
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Parking at Venue</h3>
+<p><strong>Important:</strong> The venue can accommodate a maximum of 20 cars. We strongly encourage:</p>
+<ul>
+  <li>Carpooling with other guests</li>
+  <li>Using rideshare services (Uber/Lyft)</li>
+  <li>Staying at a nearby hotel and taking a short ride</li>
+</ul>
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Where to Eat
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Things to Do in St. Pete</h2>
 
-Here are some of our favorite restaurants in the area:
+<p>Whether you're here for the weekend or making a vacation of it, here are some of our favorite spots:</p>
 
-**[RESTAURANT RECOMMENDATIONS NEEDED - Please provide your favorites!]**
+<p><strong>Beaches:</strong></p>
+<ul>
+  <li>St. Pete Beach</li>
+  <li>Madeira Beach</li>
+  <li>Pass-a-Grille Beach</li>
+</ul>
 
-**Casual:**
-- Restaurant 1
-- Restaurant 2
+<p><strong>Attractions:</strong></p>
+<ul>
+  <li>The Pier</li>
+  <li>Dali Museum</li>
+  <li>Vinoy Park</li>
+  <li>Sunken Gardens</li>
+  <li>Downtown St. Pete</li>
+</ul>
 
-**Nice Dinner:**
-- Restaurant 1
-- Restaurant 2
+<p><strong>Activities:</strong></p>
+<ul>
+  <li>Paddleboarding</li>
+  <li>Beach volleyball</li>
+  <li>Shopping on Beach Drive</li>
+  <li>Art galleries in the EDGE District</li>
+</ul>
 
-**Brunch:**
-- Bad Mother (where we had our first date!)
-- Others
+</div>
+
+<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Where to Eat</h2>
+
+<p>Here are some of our favorite restaurants in the area:</p>
+
+<p><strong>[RESTAURANT RECOMMENDATIONS NEEDED - Please provide your favorites!]</strong></p>
+
+<p><strong>Casual:</strong></p>
+<ul>
+  <li>Restaurant 1</li>
+  <li>Restaurant 2</li>
+</ul>
+
+<p><strong>Nice Dinner:</strong></p>
+<ul>
+  <li>Restaurant 1</li>
+  <li>Restaurant 2</li>
+</ul>
+
+<p><strong>Brunch:</strong></p>
+<ul>
+  <li>Bad Mother (where we had our first date!)</li>
+  <li>Others</li>
+</ul>
 
 </div>
 
@@ -333,7 +353,7 @@ Here are some of our favorite restaurants in the area:
   
 <div style="max-width: 900px; margin: 0 auto; color: white;">
 
-## 🌴 Honeymoon Fund 🌴
+<h2 style="color: white; font-size: 2em; text-align: center; margin-bottom: 20px; font-family: 'Georgia', serif;">🌴 Honeymoon Fund 🌴</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
   <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
@@ -345,7 +365,7 @@ Here are some of our favorite restaurants in the area:
 
 <p style="font-size: 1.1em; line-height: 1.8;">Instead of a traditional registry, we're asking for help funding our dream honeymoon. Your contribution will help us create unforgettable memories as we start our married life together.</p>
 
-### How to Contribute
+<h3 style="color: white; font-size: 1.5em; margin-top: 25px;">How to Contribute</h3>
 
 <p style="font-size: 1.05em;">Choose the payment method that works best for you:</p>
 
@@ -384,84 +404,90 @@ Here are some of our favorite restaurants in the area:
 <p style="background: rgba(255, 255, 255, 0.15); padding: 15px; border-radius: 8px; font-size: 1.05em;"><strong>Prefer to give a check?</strong><br>
 You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding or mail them to us (contact us for mailing address).</p>
 
-### Help Us Experience Costa Rica 🇨🇷
+<h3 style="color: white; font-size: 1.5em; margin-top: 25px;">Help Us Experience Costa Rica 🇨🇷</h3>
 
 <p style="font-size: 1.05em;">Here's what we're planning for our 10-day adventure:</p>
 
-**Accommodations & Travel:**
-- ✈️ Round-trip flights (Tampa to San Jose)
-- 🏨 Luxury resort stay (2-3 nights)
-- 🚗 AWD car rental for exploring
+<p><strong>Accommodations & Travel:</strong></p>
+<ul>
+  <li>✈️ Round-trip flights (Tampa to San Jose)</li>
+  <li>🏨 Luxury resort stay (2-3 nights)</li>
+  <li>🚗 AWD car rental for exploring</li>
+</ul>
 
-**Adventures & Excursions:**
-- ☕ Coffee plantation tour
-- 🌋 Volcano tour and hot springs
-- 🌿 Cloud forest exploration
-- 💦 Waterfall tours and cave springs
-- 🏖️ Beach days and water activities
-- 🌅 Romantic sunset experiences
+<p><strong>Adventures & Excursions:</strong></p>
+<ul>
+  <li>☕ Coffee plantation tour</li>
+  <li>🌋 Volcano tour and hot springs</li>
+  <li>🌿 Cloud forest exploration</li>
+  <li>💦 Waterfall tours and cave springs</li>
+  <li>🏖️ Beach days and water activities</li>
+  <li>🌅 Romantic sunset experiences</li>
+</ul>
 
-**Special Moments:**
-- 🍽️ Romantic beachside dinners
-- 💆‍♀️ Couples spa day
-- 🎉 Any amount toward our dream honeymoon!
+<p><strong>Special Moments:</strong></p>
+<ul>
+  <li>🍽️ Romantic beachside dinners</li>
+  <li>💆‍♀️ Couples spa day</li>
+  <li>🎉 Any amount toward our dream honeymoon!</li>
+</ul>
 
-<p style="font-style: italic; opacity: 0.9;">*We're finalizing the specific costs for each experience - check back soon for updated pricing!*</p>
+<p style="font-style: italic; opacity: 0.9;">We're finalizing the specific costs for each experience - check back soon for updated pricing!</p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px;">**Estimated Total Honeymoon Cost:** $4,500 - $6,000</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px;"><strong>Estimated Total Honeymoon Cost:</strong> $4,500 - $6,000</p>
 
 </div>
-
-</div>
-
-<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
-
-## RSVP
-
-**RSVP details coming soon!** We'll be sending official invitations with RSVP instructions. Please respond by your invitation date.
-
-You can also email us at rachaelapsmith@gmail.com with questions!
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## FAQs
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
 
-**When should I arrive?**  
-We recommend arriving the day before the wedding (April 14th) to give yourself time to settle in and explore St. Petersburg!
+<p><strong>RSVP details coming soon!</strong> We'll be sending official invitations with RSVP instructions. Please respond by your invitation date.</p>
 
-**What's the weather like in April?**  
-April in St. Pete is beautiful! Average temperatures are in the mid-70s to low-80s°F. Perfect beach weather!
-
-**Can I bring a plus-one?**  
-Your invitation will specify if you have a plus-one. Due to venue capacity, we're unable to accommodate additional guests beyond those listed on your invitation.
-
-**Is there parking at the venue?**  
-Parking is very limited (maximum 20 vehicles). We strongly encourage using Uber/Lyft or carpooling with other guests.
-
-**Are kids welcome?**  
-Due to venue capacity, we can only accommodate children who are nieces/nephews of the bride and groom or children of the bridal party. We appreciate your understanding!
-
-**What if I have dietary restrictions?**  
-Please let us know on your RSVP card, and we'll make sure you're taken care of!
-
-**Will there be an open bar?**  
-Yes! We'll have beer and wine available for the first 2 hours of the reception. After that, it will be a cash bar. We'll also have signature mocktails and cocktails available (details coming soon)!
-
-**What time should I leave?**  
-The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!
+<p>You can also email us at rachaelapsmith@gmail.com with questions!</p>
 
 </div>
 
 <div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
 
-## Questions?
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">FAQs</h2>
 
-Have questions we didn't answer? Feel free to reach out:
+<p><strong>When should I arrive?</strong><br>
+We recommend arriving the day before the wedding (April 14th) to give yourself time to settle in and explore St. Petersburg!</p>
 
-📧 Email: rachaelapsmith@gmail.com  
-💌 Or message us directly!
+<p><strong>What's the weather like in April?</strong><br>
+April in St. Pete is beautiful! Average temperatures are in the mid-70s to low-80s°F. Perfect beach weather!</p>
+
+<p><strong>Can I bring a plus-one?</strong><br>
+Your invitation will specify if you have a plus-one. Due to venue capacity, we're unable to accommodate additional guests beyond those listed on your invitation.</p>
+
+<p><strong>Is there parking at the venue?</strong><br>
+Parking is very limited (maximum 20 vehicles). We strongly encourage using Uber/Lyft or carpooling with other guests.</p>
+
+<p><strong>Are kids welcome?</strong><br>
+Due to venue capacity, we can only accommodate children who are nieces/nephews of the bride and groom or children of the bridal party. We appreciate your understanding!</p>
+
+<p><strong>What if I have dietary restrictions?</strong><br>
+Please let us know on your RSVP card, and we'll make sure you're taken care of!</p>
+
+<p><strong>Will there be an open bar?</strong><br>
+Yes! We'll have beer and wine available for the first 2 hours of the reception. After that, it will be a cash bar. We'll also have signature mocktails and cocktails available (details coming soon)!</p>
+
+<p><strong>What time should I leave?</strong><br>
+The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!</p>
+
+</div>
+
+<div class="wedding-section" style="max-width: 900px; margin: 30px auto;">
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Questions?</h2>
+
+<p>Have questions we didn't answer? Feel free to reach out:</p>
+
+<p>📧 Email: rachaelapsmith@gmail.com<br>
+💌 Or message us directly!</p>
 
 <p style="text-align: center; font-size: 1.3em; margin-top: 30px; font-style: italic; color: #2c5f6f;">We can't wait to celebrate with you! 💕</p>
 
