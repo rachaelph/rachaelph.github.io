@@ -89,18 +89,24 @@ feature_image: "/assets/images/west_events2.jpg"
 
 <div class="wedding-page" style="padding: 20px 0;">
 
-<div class="our-wedding-title">
-  <h1>Our Wedding</h1>
-</div>
-
-<div class="couple-photo">
-  <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared">
-</div>
+<div style="display: flex; gap: 40px; align-items: center; margin: 40px auto; max-width: 1200px; padding: 0 20px;">
   
-<div class="wedding-title">
-  <h1> Rachael & Jared </h1>
-  <h2> April 15, 2027 </h2>
-  <p> Madeira Beach, Florida </p>
+  <div style="flex: 1;">
+    <div class="our-wedding-title" style="text-align: left; margin: 0 0 20px 0;">
+      <h1 style="font-family: 'Great Vibes', 'Playfair Display', 'Georgia', cursive; font-size: 4em; color: #0d8a9a; margin: 0; font-weight: 400; letter-spacing: 2px;">Our Wedding</h1>
+    </div>
+    
+    <div class="wedding-title" style="text-align: left;">
+      <h1 style="color: #d4a574; font-size: 3em; margin-bottom: 10px; font-weight: normal; letter-spacing: 2px;"> Rachael & Jared </h1>
+      <h2 style="color: #2c5f6f; font-size: 1.8em; font-weight: 300; margin: 5px 0;"> April 15, 2027 </h2>
+      <p style="color: #666; font-size: 1.2em; font-style: italic;"> Madeira Beach, Florida </p>
+    </div>
+  </div>
+  
+  <div style="flex: 0 0 350px;">
+    <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared" style="max-width: 350px; width: 100%; border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);">
+  </div>
+  
 </div>
 
 <div class="wedding-section">
