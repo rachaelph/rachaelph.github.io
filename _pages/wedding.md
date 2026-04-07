@@ -187,7 +187,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Katie Ocasion</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #00695C; line-height: 1.6;"> Katie and I have known each other since I was about </p>
+      <p style="color: #00695C; line-height: 1.6;">Katie and I have known each other since I was about 16 years old. We weren't very close at first, but when I moved back to California at the end of 2020, everything changed! We started bonding over our shared love of learning, growing, and reading. If you know anything about me, you know I'm obsessed with books and reading... Katie totally set that part of me free! ;) She's not only a wonderful book buddy, but also one of the sweetest, most fun, loyal, and wonderful people I know. I'm so grateful our friendship has grown the way it has and thrilled to have her as part of my bridal party for this joyous occasion!</p>
     </div>
   </div>
 
@@ -197,7 +197,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Emma Breneisen</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Emma is dating Jared's brother Kegan, and I'm so lucky she's going to be my future sister-in-law! She is such a sweet, adventurous, crafty, social, smart, stylish, and fun woman. From the moment Jared and I started dating, she welcomed me with open arms. She also introduced me to The Junior League of Saint Petersburg, a women's non-profit organization we both joined in 2025! Now we're both actively involved with the chapter and get to spend time together most weeks—whether at Junior League events, family gatherings, or just hanging out. I'm thrilled to have her standing by my side on our big day!</p>
     </div>
   </div>
 
@@ -207,7 +207,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Stephanie Berlinghoff</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Stephanie and I met in kindergarten—we've known each other for over 30 years! During our childhood and teenage years, her family became my second family, and I spent countless hours on trips with them. We went camping multiple times and even went on a cruise that we boarded on Stephanie's 19th birthday! She's always been so fun to be around and knows how to not take life too seriously. Even when months have passed without talking, when we reconnect, it's like no time has passed at all! I was honored to be a bridesmaid in her wedding, and I'm so grateful she's part of my bridal party!</p>
     </div>
   </div>
 
@@ -217,7 +217,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Judy Du</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Bridesmaid</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Judy and I met during the last year of my graduate program at UC Davis, where we both worked with our advisor, Dr. Arsuaga. We were friends, but not close friends... yet! Years later, we reconnected when I moved back to California in 2021. She was living in SoCal, so I drove down to hang out with her, and we've been great friends ever since! I've visited her in SoCal, Princeton, and New Jersey/New York, where we went on SO many adventures together. She's even come to Florida to visit Jared and me! I absolutely love hanging out and traveling with her. She's super silly, fun, kind, and adventurous—she knows how to not take life too seriously, but she's also an amazing listener who's always there when you need her. I'm so happy to have her in our wedding party!</p>
     </div>
   </div>
 
@@ -233,7 +233,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Trevor Shemka</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Best Man</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Trevor and Jared were roommates in college and have shared many fun adventures together over the years! He even came to visit us in Florida recently, and it was wonderful getting to know him better. They talk frequently on the phone, which is awesome to see! Trevor is a fun, kind, and supportive guy, and we're so glad to have him standing beside Jared on this special day!</p>
     </div>
   </div>
 
@@ -243,7 +243,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Andrew Clark</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Andrew is Jared's longest friend—they've known each other since grade school! From what I hear, Andrew is a supportive, kind, and loyal friend. He's always there for Jared and knows him better than Jared knows himself! It's such a joy to have him in our wedding party!</p>
     </div>
   </div>
 
@@ -253,7 +253,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Kegan Copenhagen</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Kegan is Jared's younger brother! He's sweet (when he wants to be ;)), fun, and absolutely obsessed with fishing and golfing. He's definitely stubborn and knows what he wants, but he's always there for Jared when he needs him. I'm so grateful to call him my future brother-in-law and thrilled he'll be standing beside Jared on this special day!</p>
     </div>
   </div>
 
@@ -263,7 +263,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Chase Howard</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Chase is another one of Jared's younger brothers! He's sweet (when he wants to be ;)), fun to hang out with, and a good man. I'm so glad to call him my future brother-in-law and thrilled to have him standing beside Jared on our big day!</p>
     </div>
   </div>
 
@@ -273,7 +273,7 @@ feature_image: "/assets/images/west_events2.jpg"
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Christian Arellano</h4>
       <p style="color: #d4a574; font-style: italic; margin: 0 0 10px 0;">Groomsman</p>
-      <p style="color: #00695C; line-height: 1.6;">[Add description here]</p>
+      <p style="color: #00695C; line-height: 1.6;">Last but not least is Christian, my nephew and my sister Ginger's son! I've known him his whole life—which, funny enough, is most of my life too. We grew up together like brother and sister! He's such a kind spirit with a wonderful aura and is an absolute delight to hang out with. I'm so happy he's going to be part of our special day!</p>
     </div>
   </div>
 
