@@ -127,7 +127,19 @@ permalink: /wedding/
   
 </div>
 
-<div class="wedding-section">
+<!-- Quick Links Navigation -->
+<div style="background: rgba(255, 255, 255, 0.95); padding: 20px; margin: 30px auto; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 1000px; border-radius: 10px;">
+  <p style="color: #2c5f6f; font-weight: bold; margin-bottom: 15px; font-size: 1.1em;">Quick Links</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <a href="#event-details" style="background: #2c5f6f; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Event Details</a>
+    <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Wedding Party</a>
+    <a href="#honeymoon-fund" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s;">🌴 Honeymoon Fund</a>
+    <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s;">RSVP</a>
+    <a href="#faqs" style="background: #2c5f6f; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s;">FAQs</a>
+  </div>
+</div>
+
+<div class="wedding-section" id="event-details">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Event Details</h2>
 
@@ -176,7 +188,7 @@ permalink: /wedding/
 
 </div>
 
-<div class="wedding-section">
+<div class="wedding-section" id="wedding-party">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Wedding Party</h2>
 
@@ -394,7 +406,7 @@ permalink: /wedding/
 </div>
 
 <!-- Honeymoon Fund Section -->
-<div class="wedding-section">
+<div class="wedding-section" id="honeymoon-fund">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
 
@@ -482,7 +494,7 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 </div>
 
-<div class="wedding-section">
+<div class="wedding-section" id="rsvp">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
 
@@ -492,7 +504,7 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 </div>
 
-<div class="wedding-section">
+<div class="wedding-section" id="faqs">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">FAQs</h2>
 
