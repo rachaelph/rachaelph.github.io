@@ -264,8 +264,9 @@ permalink: /wedding/
 <div style="background: rgba(255, 255, 255, 0.95); padding: 20px; margin: 30px auto; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 1000px; border-radius: 10px;">
   <p style="color: #2c5f6f; font-weight: bold; margin-bottom: 15px; font-size: 1.1em;">Quick Links</p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 0 10px;">
-    <a href="#event-details" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Event Details</a>
+    <a href="#event-details" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Venue & Schedule</a>
     <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Wedding Party</a>
+    <a href="#travel-info" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Travel & Activities</a>
     <a href="#honeymoon-fund" style="background: #d4a574; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Honeymoon Fund 🌴</a>
     <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">RSVP</a>
     <a href="#faqs" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">FAQs</a>
@@ -274,7 +275,13 @@ permalink: /wedding/
 
 <div class="wedding-section" id="event-details">
 
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Event Details</h2>
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Venue & Schedule</h2>
+
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Event Details</h3>
 
 <p><strong>📅 Date:</strong> Thursday, April 15, 2027<br>
 <strong>🕐 Ceremony:</strong> 4:00 or 5:00 PM (final time TBD)<br>
@@ -285,11 +292,7 @@ permalink: /wedding/
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Dress Code</h3>
 <p><strong>Semi-Formal Beach Attire</strong> - Think beachy colors and lightweight fabrics! It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️</p>
 
-</div>
-
-<div class="wedding-section">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Venue & Location</h2>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">The Venue</h3>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
   <img src="/assets/images/west_events.png" alt="Venue" style="width: 100%; border-radius: 10px;">
@@ -304,11 +307,7 @@ permalink: /wedding/
 
 <p><strong>Important:</strong> Parking is limited to 20 vehicles at the venue. We encourage carpooling or using rideshare services when possible!</p>
 
-</div>
-
-<div class="wedding-section">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Schedule</h2>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Schedule</h3>
 
 <p><strong>More details coming soon!</strong> We'll update this with the full timeline as our plans are finalized.</p>
 
@@ -319,9 +318,17 @@ permalink: /wedding/
   <li>Dancing & celebration</li>
 </ul>
 
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
 </div>
 
 <div class="wedding-section" id="wedding-party">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Wedding Party</h2>
 
@@ -436,11 +443,21 @@ permalink: /wedding/
 
 </div>
 
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
 </div>
 
-<div class="wedding-section">
+</div>
 
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Where to Stay</h2>
+<div class="wedding-section" id="travel-info">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Travel & Activities</h2>
+
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Where to Stay</h3>
 
 <p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue, listed by distance:</p>
 
@@ -474,13 +491,9 @@ permalink: /wedding/
 
 <p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
 
-</div>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Getting Around St. Pete</h3>
 
-<div class="wedding-section">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Getting Around St. Pete</h2>
-
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Transportation Options</h3>
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">Transportation Options</h4>
 
 <ul style="margin-left: 30px;">
   <li><strong>Uber/Lyft:</strong> Readily available throughout St. Petersburg</li>
@@ -489,7 +502,7 @@ permalink: /wedding/
   <li><strong>Scooters/Bikes:</strong> Bird and Lime scooters available throughout the city</li>
 </ul>
 
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Parking at Venue</h3>
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">Parking at Venue</h4>
 <p><strong>Important:</strong> The venue can accommodate a maximum of 20 cars. We strongly encourage:</p>
 <ul style="margin-left: 30px;">
   <li>Carpooling with other guests</li>
@@ -497,11 +510,7 @@ permalink: /wedding/
   <li>Staying at a nearby hotel and taking a short ride</li>
 </ul>
 
-</div>
-
-<div class="wedding-section">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Things to do in St. Pete</h2>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Things to do in St. Pete</h3>
 
 <p>Whether you're here for the weekend or making a vacation of it, here are some of our favorite spots:</p>
 
@@ -530,15 +539,9 @@ permalink: /wedding/
   <li>Art galleries in the EDGE District</li>
 </ul>
 
-</div>
-
-<div class="wedding-section">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Where to Eat</h2>
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Where to Eat</h3>
 
 <p>Here are some of our favorite restaurants in the area:</p>
-
-<p><strong>[RESTAURANT RECOMMENDATIONS NEEDED - Please provide your favorites!]</strong></p>
 
 <p><strong>Casual:</strong></p>
 <ul style="margin-left: 30px;">
@@ -565,10 +568,18 @@ permalink: /wedding/
   <li>Cafe 118</li>
 </ul>
 
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
 </div>
 
 <!-- Honeymoon Fund Section -->
 <div class="wedding-section" id="honeymoon-fund">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
 
@@ -654,9 +665,17 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 <p style="font-size: 1.2em; font-weight: bold; margin-top: 20px;"><strong>Estimated Total Honeymoon Cost:</strong> $4,500 - $6,000</p>
 
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
 </div>
 
 <div class="wedding-section" id="rsvp">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
 
@@ -664,9 +683,17 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 <p>You can also email us at rachaelapsmith@gmail.com with questions!</p>
 
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
+
 </div>
 
 <div class="wedding-section" id="faqs">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">FAQs</h2>
 
@@ -693,6 +720,10 @@ Yes! We'll have beer and wine available for the first 2 hours of the reception. 
 
 <p><strong>What time should I leave?</strong><br>
 The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!</p>
+
+<div style="text-align: center; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+</div>
 
 </div>
 
