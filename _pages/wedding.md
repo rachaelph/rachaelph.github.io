@@ -264,20 +264,16 @@ permalink: /wedding/
 <div style="background: rgba(255, 255, 255, 0.95); padding: 20px; margin: 30px auto; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 1000px; border-radius: 10px;">
   <p style="color: #2c5f6f; font-weight: bold; margin-bottom: 15px; font-size: 1.1em;">Quick Links</p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 0 10px;">
-    <a href="#event-details" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Venue & Schedule</a>
-    <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Wedding Party</a>
-    <a href="#travel-info" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Travel & Activities</a>
-    <a href="#honeymoon-fund" style="background: #d4a574; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">Honeymoon Fund 🌴</a>
-    <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">RSVP</a>
-    <a href="#faqs" style="background: #2c5f6f; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.95em; transition: background 0.3s;">FAQs</a>
+    <a href="#event-details" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Venue & Schedule</a>
+    <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Wedding Party</a>
+    <a href="#travel-info" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Travel & Activities</a>
+    <a href="#honeymoon-fund" style="background: #d4a574; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Honeymoon Fund 🌴</a>
+    <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">RSVP</a>
+    <a href="#faqs" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">FAQs</a>
   </div>
 </div>
 
 <div class="wedding-section" id="event-details">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Venue & Schedule</h2>
 
@@ -318,17 +314,13 @@ permalink: /wedding/
   <li>Dancing & celebration</li>
 </ul>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
 
 <div class="wedding-section" id="wedding-party">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Wedding Party</h2>
 
@@ -443,17 +435,13 @@ permalink: /wedding/
 
 </div>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
 
 <div class="wedding-section" id="travel-info">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Travel & Activities</h2>
 
@@ -568,18 +556,14 @@ permalink: /wedding/
   <li>Cafe 118</li>
 </ul>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
 
 <!-- Honeymoon Fund Section -->
 <div class="wedding-section" id="honeymoon-fund">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
 
@@ -665,17 +649,13 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 <p style="font-size: 1.2em; font-weight: bold; margin-top: 20px;"><strong>Estimated Total Honeymoon Cost:</strong> $4,500 - $6,000</p>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
 
 <div class="wedding-section" id="rsvp">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
 
@@ -683,17 +663,13 @@ You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jare
 
 <p>You can also email us at rachaelapsmith@gmail.com with questions!</p>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
 
 <div class="wedding-section" id="faqs">
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
-</div>
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">FAQs</h2>
 
@@ -721,8 +697,8 @@ Yes! We'll have beer and wine available for the first 2 hours of the reception. 
 <p><strong>What time should I leave?</strong><br>
 The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!</p>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">↑ Back to Top</a>
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
