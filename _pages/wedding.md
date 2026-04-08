@@ -403,7 +403,7 @@ permalink: /wedding/
     <img src="/assets/images/jared_andrew.jpg" alt="Andrew Clark" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Andrew Clark <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Groomsman</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Andrew is Jared's longest friend—they've known each other since grade school! From what I hear, Andrew is a supportive, kind, and loyal friend. He's always there for Jared and knows him better than Jared knows himself! It's such a joy to have him in our wedding party!</p>
+      <p style="color: #00695C; line-height: 1.6;">Andrew is Jared's longest friend—they've known each other since grade school! From what I hear, Andrew is a supportive, kind, and loyal friend. He is also a great dad to two children! He's always there for Jared and knows him better than Jared knows himself! It's such a joy to have him in our wedding party!</p>
     </div>
   </div>
 
@@ -442,13 +442,34 @@ permalink: /wedding/
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Where to Stay</h2>
 
-<p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue and in the St. Pete area:</p>
+<p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue, listed by distance:</p>
 
-<p><strong>[HOTEL RECOMMENDATIONS NEEDED]</strong></p>
+<p><strong>Madeira Beach (walking distance to 1 mile):</strong></p>
 <ul style="margin-left: 30px;">
-  <li>Hotel 1 (distance from venue)</li>
-  <li>Hotel 2 (distance from venue)</li>
-  <li>Hotel 3 (distance from venue)</li>
+  <li>Inn on the Beach - Boutique beachfront hotel</li>
+  <li>Madeira Bay Resort - Condo-style suites with kitchens</li>
+  <li>Sea Breeze Suites - Budget-friendly option</li>
+</ul>
+
+<p><strong>Treasure Island (2-3 miles):</strong></p>
+<ul style="margin-left: 30px;">
+  <li>Thunderbird Beach Resort - Classic beach hotel</li>
+  <li>Bilmar Beach Resort - Family-friendly beachfront</li>
+  <li>Alden Beach Resort - Suites with kitchens</li>
+  <li>Treasure Island Beach Resort - Beachfront property</li>
+</ul>
+
+<p><strong>North Redington Beach (2-3 miles):</strong></p>
+<ul style="margin-left: 30px;">
+  <li>Doubletree Beach Resort by Hilton - Mid-range beachfront</li>
+</ul>
+
+<p><strong>St. Pete Beach (5-7 miles):</strong></p>
+<ul style="margin-left: 30px;">
+  <li>Grand Plaza Beachfront Resort - Mid-range beachfront</li>
+  <li>Sirata Beach Resort - Family-friendly with multiple pools</li>
+  <li>TradeWinds Island Grand - Large resort with activities</li>
+  <li>The Don CeSar - Iconic pink palace, luxury option</li>
 </ul>
 
 <p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
@@ -498,6 +519,7 @@ permalink: /wedding/
   <li>Vinoy Park</li>
   <li>Sunken Gardens</li>
   <li>Downtown St. Pete</li>
+  <li>Museum of Fine Arts</li>
 </ul>
 
 <p><strong>Activities:</strong></p>
@@ -520,20 +542,27 @@ permalink: /wedding/
 
 <p><strong>Casual:</strong></p>
 <ul style="margin-left: 30px;">
-  <li>Restaurant 1</li>
-  <li>Restaurant 2</li>
+  <li>The Lure</li>
+  <li>Doc Ford's - on the Pier</li>
+  <li>Boardwalk Burgers & Fries</li>
+  <li>Pizza Bella</li>
 </ul>
 
 <p><strong>Nice Dinner:</strong></p>
 <ul style="margin-left: 30px;">
-  <li>Restaurant 1</li>
-  <li>Restaurant 2</li>
+  <li>Juno & The Peacock</li>
+  <li>Sea-Gals Restaurant & Lounge</li>
+  <li>Sloppy Joe's on the Beach</li>
+  <li>Salt Rock Grill</li>
+  <li>Sculley's</li>
 </ul>
 
 <p><strong>Brunch:</strong></p>
 <ul style="margin-left: 30px;">
-  <li>Bad Mother (where we had our first date!)</li>
-  <li>Others</li>
+  <li>Juno & The Peacock</li>
+  <li>The Breakfast Station</li>
+  <li>The Gallery</li>
+  <li>Cafe 118</li>
 </ul>
 
 </div>
