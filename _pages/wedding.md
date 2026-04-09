@@ -240,11 +240,6 @@ permalink: /wedding/
 
 <div class="wedding-page" style="padding: 20px 0;">
 
-<!-- Wedding Logo -->
-<div style="text-align: center; margin: 30px auto 40px auto;">
-  <img src="/assets/images/wedding_logo.png" alt="Rachael & Jared Wedding Logo" style="max-width: 300px; width: 100%; height: auto;">
-</div>
-
 <div style="display: flex; gap: 40px; align-items: center; margin: 40px auto; max-width: 1200px; padding: 0 20px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 280px;">
@@ -260,9 +255,14 @@ permalink: /wedding/
   </div>
   
   <div style="flex: 0 0 350px; min-width: 280px; max-width: 100%;">
-    <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared" style="max-width: 100%; width: 100%; border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);">
+    <img src="/assets/images/wedding_logo.png" alt="Rachael & Jared Wedding Logo" style="max-width: 100%; width: 100%; height: auto;">
   </div>
   
+</div>
+
+<!-- Engagement Photo -->
+<div style="text-align: center; margin: 40px auto;">
+  <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared" style="max-width: 600px; width: 100%; border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);">
 </div>
 
 <!-- Quick Links Navigation -->
