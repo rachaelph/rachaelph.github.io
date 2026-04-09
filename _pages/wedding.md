@@ -285,8 +285,9 @@ permalink: /wedding/
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Event Details</h3>
 
 <p><strong>📅 Date:</strong> Thursday, April 15, 2027<br>
-<strong>🕐 Ceremony:</strong> 4:00 or 5:00 PM (final time TBD)<br>
-<strong>📍 Venue:</strong> <a href="https://www.thewesteventspace.com/" target="_blank">The West Events</a><br>
+<strong>🕐 Ceremony:</strong> 5:00 PM<br>
+<strong>📍 Ceremony Location:</strong> Gulf Blvd & 134th Ave West (Beach Wedding)<br>
+<strong>📍 Reception Venue:</strong> <a href="https://www.thewesteventspace.com/" target="_blank">The West Events</a><br>
 <strong>🏠 Address:</strong> 13435 Gulf Boulevard, Madeira Beach, FL 33708<br>
 <strong>📞 Phone:</strong> (727) 363-4255</p>
 
@@ -307,6 +308,8 @@ permalink: /wedding/
 <p><strong>Getting There:</strong> The venue is located on Gulf Boulevard in Madeira Beach, close to St. Pete and about 30 minutes from Tampa International Airport (TPA).</p>
 
 <p><strong>Important:</strong> Parking is limited to 20 vehicles at the venue. We encourage carpooling or using rideshare services when possible!</p>
+
+<p><strong>Uber/Rideshare Tip:</strong> If using Uber or Lyft, we recommend requesting drop-off on the <strong>beach side</strong> of the venue rather than the venue entrance. This will make it easier for you to access the ceremony location and avoid congestion at the main entrance.</p>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Schedule</h3>
 
