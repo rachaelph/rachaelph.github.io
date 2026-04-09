@@ -240,6 +240,11 @@ permalink: /wedding/
 
 <div class="wedding-page" style="padding: 20px 0;">
 
+<!-- Wedding Logo -->
+<div style="text-align: center; margin: 30px auto 40px auto;">
+  <img src="/assets/images/wedding_logo.png" alt="Rachael & Jared Wedding Logo" style="max-width: 300px; width: 100%; height: auto;">
+</div>
+
 <div style="display: flex; gap: 40px; align-items: center; margin: 40px auto; max-width: 1200px; padding: 0 20px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 280px;">
