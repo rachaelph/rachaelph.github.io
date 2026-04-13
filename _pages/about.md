@@ -14,7 +14,7 @@ title: "About Us"
 
 <img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
 
-We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of pickleball.
+We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.
 
 Now, we're getting married on April 15, 2027, and we couldn't be more excited for our future together!
 
