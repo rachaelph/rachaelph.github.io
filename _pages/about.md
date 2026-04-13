@@ -5,11 +5,21 @@ title: "About Us"
 ---
 
 <style>
-.main.container {
-  background-color: #D4E9F0;
-  padding: 30px;
-  border-radius: 8px;
-}
+  /* Coastal blue background for entire page */
+  body {
+    background-color: #D4E9F0 !important;
+  }
+  
+  /* Override theme width constraints */
+  .page__content,
+  .page-content,
+  article,
+  main {
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background-color: #D4E9F0;
+  }
 </style>
 
 <img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
