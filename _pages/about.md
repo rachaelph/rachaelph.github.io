@@ -4,23 +4,7 @@ permalink: /about-us/
 title: "About Us"
 ---
 
-<style>
-  /* Coastal blue background for entire page */
-  body {
-    background-color: #D4E9F0 !important;
-  }
-  
-  /* Override theme width constraints */
-  .page__content,
-  .page-content,
-  article,
-  main {
-    max-width: 100% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    background-color: #D4E9F0;
-  }
-</style>
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 <img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
 
@@ -113,3 +97,5 @@ Watch our love story unfold! Check out highlights from our adventures together:
 ---
 
 We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!
+
+</div>
