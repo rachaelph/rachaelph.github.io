@@ -4,6 +4,14 @@ permalink: /about-us/
 title: "About Us"
 ---
 
+<style>
+.main.container {
+  background-color: #D4E9F0;
+  padding: 30px;
+  border-radius: 8px;
+}
+</style>
+
 <img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
 
 We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of pickleball.
