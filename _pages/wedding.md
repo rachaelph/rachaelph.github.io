@@ -288,8 +288,18 @@ permalink: /wedding/
 <strong>🕐 Ceremony:</strong> 5:00 PM<br>
 <strong>📍 Ceremony Location:</strong> Gulf Blvd & 134th Ave West (Beach Wedding)<br>
 <strong>📍 Reception Venue:</strong> <a href="https://www.thewesteventspace.com/" target="_blank">The West Events</a><br>
-<strong>🏠 Address:</strong> 13435 Gulf Boulevard, Madeira Beach, FL 33708<br>
+<strong>🏠 Reception Address:</strong> 13435 Gulf Boulevard, Madeira Beach, FL 33708<br>
 <strong>📞 Phone:</strong> (727) 363-4255</p>
+
+<div style="background: #e8f4f8; padding: 20px; margin: 20px 0; border-left: 4px solid #2c5f6f; border-radius: 5px;">
+  <p style="margin: 0;"><strong>🏖️ Beach Ceremony Information:</strong></p>
+  <p style="margin: 10px 0 0 0;">Our ceremony will take place right on the beach! Please note:</p>
+  <ul style="margin: 10px 0 0 20px;">
+    <li><strong>Drop-off:</strong> If you're being dropped off, please have your driver drop you off on the <strong>beach side</strong> of Gulf Boulevard, not the venue side.</li>
+    <li><strong>Parking:</strong> If you're driving, you can park at the reception venue location (13435 Gulf Boulevard) and walk to the beach for the ceremony.</li>
+    <li>The ceremony location is at the intersection of Gulf Blvd & 134th Ave West, right on the beautiful Madeira Beach!</li>
+  </ul>
+</div>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Dress Code</h3>
 <p><strong>Semi-Formal Beach Attire</strong> - Think beachy colors and lightweight fabrics! It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️</p>
