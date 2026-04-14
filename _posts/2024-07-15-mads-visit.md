@@ -1,18 +1,18 @@
 ---
-title: "Mads Visits St. Pete! 🌴"
+title: "Madison Visits St Pete! 🌴"
 date: 2024-07-15
 categories:
   - Visitors
   - St Pete Life
 tags:
   - visitors
-  - friends
+  - family
   - st-pete
-excerpt: "Our friend Mads came to visit us in sunny St. Petersburg!"
+excerpt: "Jared's little sister Madison came to visit us in sunny St. Petersburg!"
 background_image: "/assets/images/MadsVisit_July2024/background.jpg"
 ---
 
-July 2024 - Mads came to visit us in St. Pete!
+July 2024 - Madison came to visit us in St. Pete!
 
 ## Photo Gallery 📸
 

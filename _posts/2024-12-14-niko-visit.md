@@ -1,5 +1,5 @@
 ---
-title: "Niko Visits for the Holidays! 🎁"
+title: "Niko Visits in December 2024! 🎁"
 date: 2024-12-14
 categories:
   - Visitors
@@ -10,11 +10,11 @@ tags:
   - family
   - st-pete
   - holidays
-excerpt: "Niko came to visit us in St. Petersburg during the holiday season!"
+excerpt: "My cousin Niko and her family came to visit us in St Petersburg during the holiday season."
 background_image: "/assets/images/NikosVisit_Dec2024/background.jpg"
 ---
 
-December 2024 - Niko came to visit during the holidays!
+December 2024 - Niko and her family came to visit during the holidays!
 
 ## Photo Gallery 📸
 

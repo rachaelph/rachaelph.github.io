@@ -27,8 +27,10 @@ title: "Blog"
 
 .blog-card-image {
   width: 100%;
-  height: 250px;
+  height: auto;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
+  display: block;
 }
 
 .blog-card-content {
@@ -90,7 +92,7 @@ title: "Blog"
         <h2 class="blog-card-title">
           <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
         </h2>
-        <p class="blog-card-meta">{{ post.date | date: "%m/%d/%Y" }}</p>
+        <p class="blog-card-meta">{{ post.date | date: "%B %Y" }}</p>
         {% if post.excerpt %}
         <p class="blog-card-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
         {% endif %}
