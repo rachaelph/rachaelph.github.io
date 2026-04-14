@@ -7,6 +7,7 @@ tags:
   - announcements
   - blog
 excerpt: "We're excited to start sharing our adventures, stories, and life moments with you!"
+background_image: "/assets/images/stpete.jpg"
 ---
 
 Welcome to Smith Seabreeze! 🌊
