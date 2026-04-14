@@ -6,11 +6,13 @@ title: "About Us"
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-<img src="/assets/images/rachael-jared2.jpg" alt="Rachael & Jared" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
+<img src="/assets/images/rachael-jared2.jpg" alt="Jared & Rachael" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
 
-We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.
+<p>We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.</p>
 
-Now, we're getting married on April 15, 2027, and we couldn't be more excited for our future together!
+<p>Now, we're getting married on April 15, 2027, and we couldn't be more excited for our future together!</p>
+
+</div>
 
 ## Our Story
 
@@ -96,6 +98,6 @@ Watch our love story unfold! Check out highlights from our adventures together:
 
 ---
 
-We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!
+*We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!*
 
 </div>
