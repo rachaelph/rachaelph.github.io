@@ -54,9 +54,9 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-We love doing *everything* together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, jigsaw puzzles, watch shows, read (separately but together), cook and clean, hit the gym, and constantly challenge ourselves to grow.
+<p>We love doing <em>everything</em> together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, jigsaw puzzles, watch shows, read (separately but together), cook and clean, hit the gym, and constantly challenge ourselves to grow.</p>
 
-We also love going to the beach, paddleboarding, hanging out with family and friends, and catching movies, musicals, concerts, and comedy shows. Whether it's a quiet night at home or an adrenaline-pumping adventure, we're all in — together.
+<p>We also love going to the beach, paddleboarding, hanging out with family and friends, and catching movies, musicals, concerts, and comedy shows. Whether it's a quiet night at home or an adrenaline-pumping adventure, we're all in — together.</p>
 
 </div>
 
@@ -64,14 +64,21 @@ We also love going to the beach, paddleboarding, hanging out with family and fri
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-We've been fortunate to explore some incredible places together:
-- **Cabo San Lucas** (including Skybikes!)
-- **TreeUmph!** in Florida
-- **Seattle, San Diego, San Francisco** (including Muir Woods)
-- **Saint Augustine, The Keys** (including Dry Tortugas)
-- **The Bahamas** on a Norwegian cruise
-- My (Rachael's) hometown in Northern California
-- Jared's hometown in Eastern Michigan
+<p>We've been fortunate to explore some incredible places together:</p>
+<ul>
+<li><strong>Saint Augustine, FL</strong> — New Year's Eve 2023/2024 (where we became official!)</li>
+<li><strong>Seattle, WA</strong> — Jared's first time in the Pacific Northwest</li>
+<li><strong>The Bahamas</strong> — Our first cruise together</li>
+<li><strong>Michigan</strong> — Rachael's first visit to Jared's hometown</li>
+<li><strong>The Everglades & Florida Keys</strong> — Thanksgiving and birthday weekend</li>
+<li><strong>Michigan for Christmas 2024</strong> — Our first Christmas together</li>
+<li><strong>Cabo San Lucas, Mexico</strong> — Celebrating Rachael's sister's 50th birthday (including Skybikes!)</li>
+<li><strong>Northern California Road Trip</strong> — San Francisco, Muir Woods, Redding, Sacramento, and Lake Tahoe</li>
+<li><strong>Lake Tahoe</strong> — Where Jared proposed on August 31, 2025! 💍</li>
+<li><strong>Georgia</strong> — Thanksgiving 2025 with family</li>
+<li><strong>California Christmas Tour</strong> — San Diego, Sacramento, and Redding</li>
+<li><strong>TreeUmph!</strong> in Florida — Adventure course fun</li>
+</ul>
 
 </div>
 
@@ -79,15 +86,18 @@ We've been fortunate to explore some incredible places together:
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-This year is packed with adventures:
-- **Detroit** — Jared's sister is in a musical!
-- **Austin, TX** — First visit for both of us - going to see MGK!
-- **Michigan** — Jared's uncle's wedding on July 11
-- **Nashville** — Bachelorette and Bachelor parties the weekend of July 17th!
-- **NYC & New Jersey** — Jared's cousin's wedding in September, plus exploring the city!
-- **Michigan for Christmas** and possibly **North Carolina for Thanksgiving**!
+<p>This year is packed with adventures:</p>
+<ul>
+<li><strong>Detroit</strong> — Jared's sister is in a musical!</li>
+<li><strong>The Keys in May</strong> — Celebrating Jared's brother Kegan's birthday!</li>
+<li><strong>Austin, TX</strong> — First visit for both of us - going to see MGK!</li>
+<li><strong>Michigan</strong> — Jared's uncle's wedding on July 11</li>
+<li><strong>Nashville</strong> — Bachelorette and Bachelor parties the weekend of July 17th!</li>
+<li><strong>NYC & New Jersey</strong> — Jared's cousin's wedding in September, plus exploring the city!</li>
+<li><strong>Michigan for Christmas</strong> and possibly <strong>North Carolina for Thanksgiving</strong>!</li>
+</ul>
 
-And for our honeymoon? We're thinking **Costa Rica for 7-10 days!**
+<p>And for our honeymoon? We're thinking <strong>Costa Rica for 7-10 days!</strong></p>
 
 </div>
 
@@ -103,9 +113,9 @@ We love the beaches, Vinoy Park, the pier, and exploring downtown. Saint Petersb
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-We complement each other perfectly. We're both adventurers who love *doing things*, but I (Rachael) am the planner and activator while Jared is the thoughtful, methodical one. I'm wild and all over the place; Jared is calm and put together. I'm talkative; Jared is quieter. But we both care deeply about health, wellness, being present, and helping others.
+<p>We complement each other perfectly. We're both adventurers who love <em>doing things</em>, but I (Rachael) am the planner and activator while Jared is the thoughtful, methodical one. I'm wild and all over the place; Jared is calm and put together. I'm talkative; Jared is quieter. But we both care deeply about health, wellness, being present, and helping others.</p>
 
-Friends and family say we're great together — that we complement each other well, share the same values and morals, and that it's wonderful we found each other. We agree! It feels like a miracle that two people from such different places met in Florida and built this life together.
+<p>Friends and family say we're great together — that we complement each other well, share the same values and morals, and that it's wonderful we found each other. We agree! It feels like a miracle that two people from such different places met in Florida and built this life together.</p>
 
 </div>
 
