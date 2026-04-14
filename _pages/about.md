@@ -131,14 +131,16 @@ Wake up slowly, make coffee and tea, enjoy breakfast, play a round of golf, grab
 
 <div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
-We're excited for what's next:
-- Getting married on April 15, 2027
-- Honeymooning in Costa Rica
-- Having two kids (ideally a boy and a girl!)
-- Finding a bigger house and renting out our current one
-- Traveling more — both big, expensive trips and smaller, camping adventures
-- Saving to start our own health and wellness business
-- Finally getting that Toyota Tacoma (and more fun water toys for family adventures!)
+<p>We're excited for what's next:</p>
+<ul>
+<li><strong>Getting married on April 15, 2027</strong></li>
+<li><strong>Honeymooning in Costa Rica</strong></li>
+<li><strong>Having two kids</strong> (ideally a boy and a girl!)</li>
+<li><strong>Finding a bigger house</strong> and renting out our current one</li>
+<li><strong>Traveling more</strong> — both big, expensive trips and smaller, camping adventures</li>
+<li><strong>Saving to start our own health and wellness business</strong></li>
+<li><strong>Finally getting that Toyota Tacoma</strong> (and more fun water toys for family adventures!)</li>
+</ul>
 
 </div>
 
@@ -152,8 +154,6 @@ Watch our love story unfold! Check out highlights from our adventures together:
   <a href="https://www.instagram.com/stories/highlights/17975034692714904/" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">💕 Watch "Our Love" on Instagram</a>
 </div>
 
----
-
-*We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!*
+--- *We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!*
 
 </div>
