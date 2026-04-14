@@ -14,11 +14,17 @@ title: "About Us"
 
 </div>
 
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+
 ## Our Story
 
 We matched on Bumble just a month before I (Rachael) moved to Saint Petersburg from Northern California. Jared even called me during the cross-country drive — talk about making an impression! Our first date was unforgettable: we met at Bad Mother coffee shop, strolled along the pier, had lunch at Doc Ford's, and walked back into downtown. We were planning to catch a movie but realized we both had dogs waiting for dinner at home. What was supposed to be a casual coffee date turned into a 4-5 hour adventure. We both knew this was something special.
 
 On August 31, 2025, Jared proposed at Lake Tahoe during my girls' trip. He surprised me at a gorgeous golf country club right on the lake's beach during brunch. Some of my best friends were there to celebrate, and my sister and her fiancé helped coordinate the whole thing. It was absolutely perfect!
+
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 ## About Jared
 
@@ -26,19 +32,35 @@ I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting c
 
 Oh, and I really, REALLY want a Toyota Tacoma. Like, I won't stop talking about it. (We'll get one eventually!)
 
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+
 ## About Rachael
 
 I (Rachael) work as a Senior Consultant in Data & AI at Microsoft, working remotely from Saint Petersburg. I'm the planner, the activator, the one who makes things happen. I'm talkative, adventurous, and always have the next trip, activity, or goal lined up. I'm passionate about health and wellness, networking, volunteering with the Junior League of Saint Petersburg, and creating experiences.
 
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+
 ## About Ellie 🐾
 
 Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order. She's been a constant source of joy and unconditional love, and we're so grateful for every day with her.
+
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 ## Life Together
 
 We love doing *everything* together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, jigsaw puzzles, watch shows, read (separately but together), cook and clean, hit the gym, and constantly challenge ourselves to grow.
 
 We also love going to the beach, paddleboarding, hanging out with family and friends, and catching movies, musicals, concerts, and comedy shows. Whether it's a quiet night at home or an adrenaline-pumping adventure, we're all in — together.
+
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 ## Adventures We've Shared
 
@@ -63,9 +85,17 @@ This year is packed with adventures:
 
 And for our honeymoon? We're thinking **Costa Rica for 7-10 days!**
 
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+
 ## Our Favorite St. Pete Spots
 
 We love the beaches, Vinoy Park, the pier, and exploring downtown. Saint Petersburg has become home, and we're so grateful to live in such a vibrant, beautiful city.
+
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 ## What Makes Us, Us
 
@@ -77,6 +107,10 @@ Friends and family say we're great together — that we complement each other we
 
 Wake up slowly, make coffee and tea, enjoy breakfast, play a round of golf, grab lunch, relax in a hammock at a park, have dinner, swim or paddleboard at the beach, and finish the night at home watching a favorite show. That's perfection.
 
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+
 ## Looking Ahead
 
 We're excited for what's next:
@@ -87,6 +121,10 @@ We're excited for what's next:
 - Traveling more — both big, expensive trips and smaller, camping adventures
 - Saving to start our own health and wellness business
 - Finally getting that Toyota Tacoma (and more fun water toys for family adventures!)
+
+</div>
+
+<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
 
 ## See Our Journey in Pictures 📸
 
