@@ -11,7 +11,7 @@ tags:
   - family
   - first-visit
 excerpt: "Rachael's first time visiting Michigan and experiencing Jared's hometown!"
-background_image: "/assets/images/michigan.jpg"
+background_image: "/assets/images/MichiganSummer_Aug2024/background.jpg"
 ---
 
 August 2024 - I finally got to see where Jared grew up! First time in Michigan and it was everything I hoped it would be.

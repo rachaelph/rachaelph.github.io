@@ -12,7 +12,7 @@ tags:
   - family
   - first-christmas
 excerpt: "Our very first Christmas together - spent in snowy Michigan with family!"
-background_image: "/assets/images/michigan-christmas.jpg"
+background_image: "/assets/images/MIChristmas_Dec2024/background.jpg"
 ---
 
 Christmas 2024 - our first Christmas together, and we spent it in Michigan!

@@ -10,7 +10,7 @@ tags:
   - thanksgiving
   - birthday
 excerpt: "Thanksgiving weekend through Rachael's birthday (Dec 1st) exploring the Everglades and Keys!"
-background_image: "/assets/images/everglades_keys1.jpg"
+background_image: "/assets/images/Everglades&Keys_Nov2024_Dec2024/background.jpg"
 ---
 
 Thanksgiving and my birthday weekend 2024 - we explored the wild Everglades and the beautiful Florida Keys!

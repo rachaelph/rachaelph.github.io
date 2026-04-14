@@ -9,7 +9,7 @@ tags:
   - first-trip
   - new-years
 excerpt: "New Year's Eve 2023 and New Year's Day 2024 - the trip where we became official!"
-background_image: "/assets/images/staugustine1.jpg"
+background_image: "/assets/images/StAugustine_Dec2023_Jan2024/background.jpg"
 ---
 
 Our first trip together to Saint Augustine, FL for New Year's Eve 2023 and New Year's Day 2024. This was the trip where we became an official couple!
@@ -17,14 +17,14 @@ Our first trip together to Saint Augustine, FL for New Year's Eve 2023 and New Y
 ## Photo Gallery 📸
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
-  <img src="/assets/images/staugustine1.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine2.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine3.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine4.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine5.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine6.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine7.jpg" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/images/staugustine8.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine1.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine2.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine3.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine4.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine5.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine6.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine7.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/StAugustine_Dec2023_Jan2024/staugustine8.jpg" style="width: 100%; border-radius: 8px;">
 </div>
 
 ## Highlights

@@ -14,7 +14,7 @@ tags:
   - family
   - holidays
 excerpt: "A California Christmas adventure - San Diego sunshine, Sacramento family time, and Christmas in Redding with my dad!"
-background_image: "/assets/images/sandiego1.jpg"
+background_image: "/assets/images/CAChristmas_Dec2025/background.jpg"
 ---
 
 Christmas 2025 - An epic California tour visiting three amazing cities and celebrating with family!

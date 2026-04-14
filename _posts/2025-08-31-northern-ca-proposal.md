@@ -12,7 +12,7 @@ tags:
   - engagement
   - road-trip
 excerpt: "An epic Northern California road trip from San Francisco to Redding to Sacramento - ending with the most perfect proposal at Lake Tahoe!"
-background_image: "/assets/images/engagement1.jpg"
+background_image: "/assets/images/CARoadTrip_Aug2025/background.jpg"
 ---
 
 August 2025 - The trip that changed everything! An incredible Northern California road trip that ended with Jared proposing on the beach at Lake Tahoe! 💍✨

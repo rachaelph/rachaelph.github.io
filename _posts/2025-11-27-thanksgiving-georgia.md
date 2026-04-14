@@ -11,7 +11,7 @@ tags:
   - family
   - holidays
 excerpt: "Thanksgiving 2025 - celebrating with family in Georgia!"
-background_image: "/assets/images/georgia-thanksgiving.jpg"
+background_image: "/assets/images/GeorgiaThanksgiving_Nov2025/background.jpg"
 ---
 
 Thanksgiving 2025 - We headed to Georgia to celebrate the holiday with family!
