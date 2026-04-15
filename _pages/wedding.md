@@ -687,6 +687,13 @@ permalink: /wedding/
     <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$500+</p>
   </div>
 
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌺</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">2 Nights at Luxury Resort</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Two nights of pure paradise at a 5-star resort with ocean views</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$700</p>
+  </div>
+
   <div style="background: linear-gradient(135deg, #fff8e1 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🎁</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Any Amount You'd Like!</h4>
