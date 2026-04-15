@@ -585,6 +585,13 @@ permalink: /wedding/
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
 
+<div style="text-align: center; margin: 30px 0;">
+  <p style="font-size: 1.2em; line-height: 1.8; color: #2c5f6f; max-width: 700px; margin: 0 auto;">
+    Your presence at our wedding is the greatest gift of all.<br>
+    If you'd like to contribute, we're dreaming of a honeymoon filled with adventure, relaxation, and unforgettable memories in <strong>Costa Rica</strong>. Thank you for helping us start our next chapter together 💙
+  </p>
+</div>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
   <img src="/assets/images/costa_rica.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
   <img src="/assets/images/costa_rica2.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
@@ -594,80 +601,142 @@ permalink: /wedding/
   <img src="/assets/images/costa_rica7.jpg" alt="Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
 </div>
 
-<p>The greatest gift to us is your presence on our special day! However, if you would like to contribute to our honeymoon, we would be so grateful. We're planning an amazing 10-day adventure to <strong>Costa Rica</strong>!</p>
+<p style="text-align: center; font-style: italic; color: #d4a574; font-size: 1.1em; margin-top: -10px; margin-bottom: 30px;">Help us make memories like these on our Costa Rica adventure 💙</p>
 
-<p>Instead of a traditional registry, we're asking for help funding our dream honeymoon. Your contribution will help us create unforgettable memories as we start our married life together.</p>
+<h3 style="color: #2c5f6f; font-size: 1.8em; margin-top: 40px; text-align: center;">Gift an Experience</h3>
 
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">How to Contribute</h3>
+<p style="text-align: center; color: #666; font-size: 1.05em; margin-bottom: 30px;">Choose a memorable experience to give us during our 10-day Costa Rica adventure!</p>
 
-<p>Choose the payment method that works best for you:</p>
-
-<div style="background: #f5f5f5; padding: 30px; border-radius: 10px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 30px 0;">
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+  <!-- Experience Cards -->
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">☕</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Morning Coffee Runs</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Fresh Costa Rican coffee to fuel our adventures each morning</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🍹</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Tropical Drinks & Sunset Toasts</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Cocktails on the beach while watching the sun set over the Pacific</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$50</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌋</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Volcano & Hot Springs Adventure</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Explore active volcanoes and relax in natural thermal pools</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🤿</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Snorkeling & Water Activities</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Discover colorful marine life in crystal-clear Caribbean waters</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$125</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌿</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Cloud Forest Exploration</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Walk through mystical cloud forests and see incredible wildlife</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$150</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">💦</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Waterfall & Cave Springs Tour</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Hike to stunning waterfalls and swim in hidden cave springs</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$175</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🍽️</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Romantic Beachside Dinner</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">A candlelit dinner for two with ocean views and fresh seafood</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$200</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">�</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">AWD Car Rental</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">All-wheel drive vehicle to explore Costa Rica's beaches and mountains</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$225</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">�💆‍♀️</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Couples Spa Day</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Massages and pampering at a luxury spa overlooking the rainforest</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$250</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🏨</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Night at Beachfront Resort</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">One night of luxury at a stunning oceanfront resort</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$300</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #e8f4f8 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">✈️</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Flights to Costa Rica</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Help get us to paradise (round-trip for one or both of us!)</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$500+</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #fff8e1 0%, #f5f5f5 100%); padding: 25px; border-radius: 12px; border: 2px solid #d4a574; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🎁</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Any Amount You'd Like!</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Every contribution helps us create unforgettable memories</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">Your Choice</p>
+  </div>
+
+</div>
+
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 50px; text-align: center;">How to Give</h3>
+
+<p style="text-align: center; color: #666; margin-bottom: 20px;">Quick & easy payment options:</p>
+
+<div style="background: #f9f9f9; padding: 30px; border-radius: 12px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
     
-    <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Venmo </strong></p>
-      <img src="/assets/images/venmo.png" alt="Venmo QR Code" style="width: 150px; height: 150px; margin: 10px auto; display: block;">
+    <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
+      <p style="font-size: 1.15em; margin-bottom: 10px; color: #2c5f6f;"><strong>💚 Venmo</strong></p>
+      <img src="/assets/images/venmo.png" alt="Venmo QR Code" style="width: 130px; height: 130px; margin: 10px auto; display: block;">
+      <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Scan or search @username</p>
     </div>
     
-    <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> Zelle </strong></p>
-      <p style="font-size: 0.95em; color: #00695C; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+    <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
+      <p style="font-size: 1.15em; margin-bottom: 15px; color: #2c5f6f;"><strong>💜 Zelle</strong></p>
+      <p style="font-size: 1em; color: #00695C; font-weight: bold; word-wrap: break-word; margin-top: 35px;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
-    <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> CashApp </strong></p>
-      <p style="font-size: 1.1em; color: #00695C; font-weight: bold; word-wrap: break-word;">$rachaelaps</p>
+    <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
+      <p style="font-size: 1.15em; margin-bottom: 15px; color: #2c5f6f;"><strong>💚 CashApp</strong></p>
+      <p style="font-size: 1.2em; color: #00695C; font-weight: bold; margin-top: 35px;">$rachaelaps</p>
     </div>
     
-    <div style="text-align: center; padding: 15px;">
-      <p style="font-size: 1.1em; margin-bottom: 10px;"><strong> PayPal </strong></p>
-      <p style="font-size: 0.95em; color: #00695C; font-weight: bold; word-wrap: break-word;">rachael.phillips23@<br>gmail.com</p>
+    <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
+      <p style="font-size: 1.15em; margin-bottom: 15px; color: #2c5f6f;"><strong>💙 PayPal</strong></p>
+      <p style="font-size: 1em; color: #00695C; font-weight: bold; word-wrap: break-word; margin-top: 35px;">rachael.phillips23@<br>gmail.com</p>
     </div>
     
   </div>
   
-  <p style="text-align: center; color: #BF9B7A; margin-top: 20px; font-style: italic;">Please include "Honeymoon Fund 💕" in the note</p>
+  <p style="text-align: center; color: #d4a574; margin-top: 25px; font-style: italic; font-size: 0.95em;">Please include your name and "Honeymoon Fund 💕" in the note</p>
   
 </div>
 
-<p style="background: #00697F; padding: 15px; border-radius: 8px; color: #BF9B7A;"><strong>Prefer to give a check?</strong><br>
-You can make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding or mail them to us (contact us for mailing address).</p>
+<div style="background: linear-gradient(135deg, #00697F 0%, #2c5f6f 100%); padding: 20px 25px; border-radius: 10px; color: white; margin: 25px 0; text-align: center;">
+  <p style="margin: 0; font-size: 1.05em;"><strong>✅ Prefer to give a check?</strong></p>
+  <p style="margin: 10px 0 0 0; color: #f0f0f0;">Make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding, or contact us for our mailing address.</p>
+</div>
 
-<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;"> Help Us Experience Costa Rica </h3>
-
-<p>Here's what we're planning for our 10-day adventure:</p>
-
-<p><strong>Accommodations & Travel:</strong></p>
-<ul style="margin-left: 30px;">
-  <li>✈️ Round-trip flights (Tampa to San Jose)</li>
-  <li>🏨 Luxury resort stay (2-3 nights)</li>
-  <li>🚗 AWD car rental for exploring</li>
-</ul>
-
-<p><strong>Adventures & Excursions:</strong></p>
-<ul style="margin-left: 30px;">
-  <li>☕ Coffee plantation tour</li>
-  <li>🌋 Volcano tour and hot springs</li>
-  <li>🌿 Cloud forest exploration</li>
-  <li>💦 Waterfall tours and cave springs</li>
-  <li>🏖️ Beach days and water activities</li>
-  <li>🌅 Romantic sunset experiences</li>
-</ul>
-
-<p><strong>Special Moments:</strong></p>
-<ul style="margin-left: 30px;">
-  <li>🍽️ Romantic beachside dinners</li>
-  <li>💆‍♀️ Couples spa day</li>
-  <li>🎉 Any amount toward our dream honeymoon!</li>
-</ul>
-
-<p style="font-style: italic;">We're finalizing the specific costs for each experience - check back soon for updated pricing!</p>
-
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px;"><strong>Estimated Total Honeymoon Cost:</strong> $4,500 - $6,000</p>
-
-<div style="text-align: right; margin-top: 30px;">
+<div style="text-align: right; margin-top: 40px;">
   <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
