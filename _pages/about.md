@@ -4,19 +4,60 @@ permalink: /about-us/
 title: "About Us"
 ---
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<style>
+  /* Responsive box styling */
+  .about-box {
+    background-color: #D4E9F0;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .about-box p:last-child,
+  .about-box ul:last-child {
+    margin-bottom: 0;
+  }
+  
+  .hero-section {
+    background-color: #D4E9F0;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-image {
+    max-width: 100%;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .hero-section {
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 30px;
+      align-items: start;
+    }
+    
+    .hero-image {
+      width: 300px;
+      margin-bottom: 0;
+    }
+  }
+</style>
 
-<img src="/assets/images/rachael-jared2.jpg" alt="Jared & Rachael" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px; border-radius: 10px;">
-
-<p>We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.</p>
-
-<p>Now, we're getting married on April 15, 2027, and we couldn't be more excited for our future together!</p>
-
+<div class="hero-section">
+  <div>
+    <p>We're Rachael and Jared — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.</p>
+    <p style="margin-bottom: 0;">Now, we're getting married on April 15, 2027, and we couldn't be more excited for our future together!</p>
+  </div>
+  <img src="/assets/images/rachael-jared2.jpg" alt="Jared & Rachael" class="hero-image">
 </div>
 
 ## Our Story
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 We matched on Bumble just a month before I (Rachael) moved to Saint Petersburg from Northern California. Jared even called me during the cross-country drive — talk about making an impression! Our first date was unforgettable: we met at Bad Mother coffee shop, strolled along the pier, had lunch at Doc Ford's, and walked back into downtown. We were planning to catch a movie but realized we both had dogs waiting for dinner at home. What was supposed to be a casual coffee date turned into a 4-5 hour adventure. We both knew this was something special.
 
@@ -26,7 +67,7 @@ On August 31, 2025, Jared proposed at Lake Tahoe during my girls' trip. He surpr
 
 ## About Jared
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting customers across Florida, Alabama, and parts of Georgia. I'm thoughtful, measured, and take my time thinking things through (sometimes to the point of analysis paralysis!). I'm the calm, put-together one who balances out Rachael's wild, all-over-the-place energy. I'm quieter and more reserved, but deeply care about health, wellness, and helping others. 
 
@@ -36,7 +77,7 @@ Oh, and I really, REALLY want a Toyota Tacoma. Like, I won't stop talking about 
 
 ## About Rachael
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 I (Rachael) work as a Senior Consultant in Data & AI at Microsoft, working remotely from Saint Petersburg. I'm the planner, the activator, the one who makes things happen. I'm talkative, adventurous, and always have the next trip, activity, or goal lined up. I'm passionate about health and wellness, networking, volunteering with the Junior League of Saint Petersburg, and creating experiences.
 
@@ -44,7 +85,7 @@ I (Rachael) work as a Senior Consultant in Data & AI at Microsoft, working remot
 
 ## About Ellie 🐾
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order. She's been a constant source of joy and unconditional love, and we're so grateful for every day with her.
 
@@ -52,7 +93,7 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 ## Life Together
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 <p>We love doing <em>everything</em> together! We play pickleball (not as often as we'd like, but we're working on it), golf, attend festivals around St. Pete, travel, play cribbage at home, jigsaw puzzles, watch shows, read (separately but together), cook and clean, hit the gym, and constantly challenge ourselves to grow.</p>
 
@@ -62,7 +103,7 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 ## Adventures We've Shared
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 <p>We've been fortunate to explore some incredible places together:</p>
 <ul>
@@ -82,9 +123,9 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 </div>
 
-### 2026 Travel Plans
+## 2026 Travel Plans
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 <p>This year is packed with adventures:</p>
 <ul>
@@ -103,7 +144,7 @@ Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing 
 
 ## Our Favorite St. Pete Spots
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 We love the beaches, Vinoy Park, the pier, and exploring downtown. Saint Petersburg has become home, and we're so grateful to live in such a vibrant, beautiful city.
 
@@ -111,7 +152,7 @@ We love the beaches, Vinoy Park, the pier, and exploring downtown. Saint Petersb
 
 ## What Makes Us, Us
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 <p>We complement each other perfectly. We're both adventurers who love <em>doing things</em>, but I (Rachael) am the planner and activator while Jared is the thoughtful, methodical one. I'm wild and all over the place; Jared is calm and put together. I'm talkative; Jared is quieter. But we both care deeply about health, wellness, being present, and helping others.</p>
 
@@ -119,9 +160,9 @@ We love the beaches, Vinoy Park, the pier, and exploring downtown. Saint Petersb
 
 </div>
 
-### Our Ideal Sunday
+## Our Ideal Sunday
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 Wake up slowly, make coffee and tea, enjoy breakfast, play a round of golf, grab lunch, relax in a hammock at a park, have dinner, swim or paddleboard at the beach, and finish the night at home watching a favorite show. That's perfection.
 
@@ -129,7 +170,7 @@ Wake up slowly, make coffee and tea, enjoy breakfast, play a round of golf, grab
 
 ## Looking Ahead
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
 <p>We're excited for what's next:</p>
 <ul>
@@ -146,14 +187,14 @@ Wake up slowly, make coffee and tea, enjoy breakfast, play a round of golf, grab
 
 ## See Our Journey in Pictures 📸
 
-<div style="background-color: #D4E9F0; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+<div class="about-box">
 
-Watch our love story unfold! Check out highlights from our adventures together:
+<p>Watch our love story unfold! Check out highlights from our adventures together:</p>
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="https://www.instagram.com/stories/highlights/17975034692714904/" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">💕 Watch "Our Love" on Instagram</a>
 </div>
 
---- *We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!*
+<p style="text-align: center; font-style: italic; color: #555; margin-top: 30px; margin-bottom: 0;">We created this space to share our journey, stories, and adventures with family and friends near and far. Thanks for being part of our story!</p>
 
 </div>
