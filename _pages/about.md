@@ -59,9 +59,9 @@ title: "About Us"
 
 <div class="about-box">
 
-We matched on Bumble just a month before I (Rachael) moved to Saint Petersburg from Northern California. Jared even called me during the cross-country drive — talk about making an impression! Our first date was unforgettable: we met at Bad Mother coffee shop, strolled along the pier, had lunch at Doc Ford's, and walked back into downtown. We were planning to catch a movie but realized we both had dogs waiting for dinner at home. What was supposed to be a casual coffee date turned into a 4-5 hour adventure. We both knew this was something special.
+<p>We matched on Bumble just a month before I (Rachael) moved to Saint Petersburg from Northern California. Jared even called me during the cross-country drive — talk about making an impression! Our first date was unforgettable: we met at Bad Mother coffee shop, strolled along the pier, had lunch at Doc Ford's, and walked back into downtown. We were planning to catch a movie but realized we both had dogs waiting for dinner at home. What was supposed to be a casual coffee date turned into a 4-5 hour adventure. We both knew this was something special.</p>
 
-On August 31, 2025, Jared proposed at Lake Tahoe during my girls' trip. He surprised me at a gorgeous golf country club right on the lake's beach during brunch. Some of my best friends were there to celebrate, and my sister and her fiancé helped coordinate the whole thing. It was absolutely perfect!
+<p>On August 31, 2025, Jared proposed at Lake Tahoe during my girls' trip. He surprised me at a gorgeous golf country club right on the lake's beach during brunch. Some of my best friends were there to celebrate, and my sister and her fiancé helped coordinate the whole thing. It was absolutely perfect!</p>
 
 </div>
 
@@ -69,10 +69,9 @@ On August 31, 2025, Jared proposed at Lake Tahoe during my girls' trip. He surpr
 
 <div class="about-box">
 
-I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting customers across Florida, Alabama, and parts of Georgia. I'm thoughtful, measured, and take my time thinking things through (sometimes to the point of analysis paralysis!). I'm the calm, put-together one who balances out Rachael's wild, all-over-the-place energy. I'm quieter and more reserved, but deeply care about health, wellness, and helping others. 
+<p>I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting customers across Florida, Alabama, and parts of Georgia. I'm thoughtful, measured, and take my time thinking things through (sometimes to the point of analysis paralysis!). I'm the calm, put-together one who balances out Rachael's wild, all-over-the-place energy. I'm quieter and more reserved, but deeply care about health, wellness, and helping others. </p>
 
-Oh, and I really, REALLY want a Toyota Tacoma. Like, I won't stop talking about it. (We'll get one eventually!)
-
+<p> Oh, and I really, REALLY want a Toyota Tacoma. Like, I won't stop talking about it. (We'll get one eventually!) </p>
 </div>
 
 ## About Rachael

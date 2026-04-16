@@ -706,7 +706,7 @@ permalink: /wedding/
   </a>
 
   <a href="#payment-methods" class="experience-card">
-    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">�💆‍♀️</div>
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">💆‍♀️💆‍♂️</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Couples Spa Day</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Massages and pampering at a luxury spa overlooking the rainforest</p>
     <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$250</p>
