@@ -758,7 +758,7 @@ permalink: /wedding/
     
     <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
       <p style="font-size: 1.15em; margin-bottom: 15px; color: #2c5f6f;"><strong>💜 Zelle</strong></p>
-      <p style="font-size: 1em; color: #00695C; font-weight: bold; word-wrap: break-word; margin-top: 35px;">rachael.phillips23@<br>gmail.com</p>
+      <p style="font-size: 1em; color: #00695C; font-weight: bold; word-wrap: break-word; margin-top: 35px;">rachael.aphillips@<br>outlook.com</p>
     </div>
     
     <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
