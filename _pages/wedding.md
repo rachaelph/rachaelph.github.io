@@ -773,7 +773,7 @@ permalink: /wedding/
     <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
       <p style="font-size: 1.15em; margin-bottom: 10px; color: #2c5f6f;"><strong>💚 Venmo</strong></p>
       <img src="/assets/images/venmo.png" alt="Venmo QR Code" style="width: 130px; height: 130px; margin: 10px auto; display: block;">
-      <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Scan or search @username</p>
+      <p style="font-size: 0.9em; color: #666; margin-top: 10px;">Scan or search @Rachael-Phillips-13</p>
     </div>
     
     <div style="text-align: center; padding: 20px; background: white; border-radius: 8px;">
