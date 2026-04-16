@@ -685,7 +685,7 @@ permalink: /wedding/
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🚗</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">AWD Car Rental</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">All-wheel drive vehicle to explore Costa Rica's beaches and mountains</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
     <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
   </a>
 
@@ -734,7 +734,7 @@ permalink: /wedding/
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Flights to Costa Rica</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Help get us to paradise (round-trip for one or both of us!)</p>
     <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
-    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">10 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
@@ -750,7 +750,7 @@ permalink: /wedding/
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Hotel/Airbnb Stay</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Cozy accommodations as we explore different regions of Costa Rica</p>
     <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
-    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">7 gifts available</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card-special">
