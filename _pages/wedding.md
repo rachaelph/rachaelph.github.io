@@ -653,84 +653,104 @@ permalink: /wedding/
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">☕</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Morning Coffee Runs</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Fresh Costa Rican coffee to fuel our adventures each morning</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25</p>
-  </a>
-
-  <a href="#payment-methods" class="experience-card">
-    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🍹</div>
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Tropical Drinks & Sunset Toasts</h4>
-    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Cocktails on the beach while watching the sun set over the Pacific</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$50</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌋</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Volcano & Hot Springs Adventure</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Explore active volcanoes and relax in natural thermal pools</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">4 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🤿</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Snorkeling & Water Activities</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Discover colorful marine life in crystal-clear Caribbean waters</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$125</p>
-  </a>
-
-  <a href="#payment-methods" class="experience-card">
-    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌿</div>
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Cloud Forest Exploration</h4>
-    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Walk through mystical cloud forests and see incredible wildlife</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$150</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">5 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">💦</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Waterfall & Cave Springs Tour</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Hike to stunning waterfalls and swim in hidden cave springs</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$175</p>
-  </a>
-
-  <a href="#payment-methods" class="experience-card">
-    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🍽️</div>
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Romantic Beachside Dinner</h4>
-    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">A candlelit dinner for two with ocean views and fresh seafood</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$200</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">4 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🚗</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">AWD Car Rental</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">All-wheel drive vehicle to explore Costa Rica's beaches and mountains</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$225</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
+  </a>
+
+  <a href="#payment-methods" class="experience-card">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">☕🌱</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Coffee Plantation Tour</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Discover how Costa Rica's world-famous coffee is grown and roasted</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">4 gifts available</p>
+  </a>
+
+  <a href="#payment-methods" class="experience-card">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🪂</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Zip Lining Adventure</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Soar through the rainforest canopy on an exhilarating zip line tour</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$25 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">4 gifts available</p>
+  </a>
+
+  <a href="#payment-methods" class="experience-card">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🍽️</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Romantic Beachside Dinner</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">A candlelit dinner for two with ocean views and fresh seafood</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$20 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">10 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">💆‍♀️💆‍♂️</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Couples Spa Day</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Massages and pampering at a luxury spa overlooking the rainforest</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$250</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$50 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">5 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
-    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🏨</div>
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Night at Beachfront Resort</h4>
-    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">One night of luxury at a stunning oceanfront resort</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$300</p>
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌿</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Cloud Forest Exploration</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Walk through mystical cloud forests and see incredible wildlife</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$50 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">3 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">✈️</div>
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Flights to Costa Rica</h4>
     <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Help get us to paradise (round-trip for one or both of us!)</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$500+</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card">
     <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🌺</div>
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">2 Nights at Luxury Resort</h4>
-    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Two nights of pure paradise at a 5-star resort with ocean views</p>
-    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$700</p>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Luxury Resort Stay</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Nights of pure paradise at a 5-star resort with ocean views</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">9 gifts available</p>
+  </a>
+
+  <a href="#payment-methods" class="experience-card">
+    <div style="font-size: 2.5em; text-align: center; margin-bottom: 10px;">🏨</div>
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.3em; text-align: center;">Hotel/Airbnb Stay</h4>
+    <p style="color: #666; margin: 10px 0; text-align: center; line-height: 1.5;">Cozy accommodations as we explore different regions of Costa Rica</p>
+    <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #00695C; margin-top: 15px;">$100 each</p>
+    <p style="text-align: center; font-size: 0.95em; color: #d4a574; font-style: italic; margin-top: 5px;">7 gifts available</p>
   </a>
 
   <a href="#payment-methods" class="experience-card-special">
