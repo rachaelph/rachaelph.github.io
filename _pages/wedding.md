@@ -467,6 +467,47 @@ permalink: /wedding/
 
 <p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue, listed by distance:</p>
 
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">⭐ Venue Partner Hotels (Discounts Available!)</h4>
+
+<p>The West Events partners with these nearby hotels, offering exclusive discounts and amenities for our guests. Mention <strong>The West Events</strong> when booking!</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
+
+  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">Cambria Hotel Madeira Beach</h4>
+    <p style="margin: 5px 0;"><strong>Contact:</strong> Sohnne Sanz, Director of Sales</p>
+    <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 350-7332</p>
+    <p style="margin: 5px 0;"><strong>Email:</strong> sohnne@bowdenhospitality.com</p>
+    <p style="margin: 5px 0;"><a href="https://www.cambriamadeirabeach.com" target="_blank" rel="noopener">cambriamadeirabeach.com</a></p>
+  </div>
+
+  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">Barefoot Beach Club</h4>
+    <p style="margin: 5px 0;"><strong>Contact:</strong> Amanda, Event Sales</p>
+    <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 393-6133</p>
+    <p style="margin: 5px 0;"><strong>Email:</strong> amanda@barefootbeachclub.com</p>
+    <p style="margin: 5px 0;"><strong>Discount Code:</strong> <span style="background: #d4a574; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold;">WEST15</span> (15% off online)</p>
+    <p style="margin: 5px 0;"><a href="https://barefootbeachclub.com/" target="_blank" rel="noopener">barefootbeachclub.com</a></p>
+  </div>
+
+  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">DoubleTree Beach Resort – Redington Beach</h4>
+    <p style="margin: 5px 0;"><strong>Contact:</strong> Marie Molina, Catering & Event Sales</p>
+    <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 369-7139</p>
+    <p style="margin: 5px 0;"><strong>Email:</strong> Marie.Molina@hilton.com</p>
+    <p style="margin: 5px 0;"><strong>Discount:</strong> Ask Marie about group discounts</p>
+    <p style="margin: 5px 0;"><a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=NORNHDT&corporateCode=0003252998" target="_blank" rel="noopener">Book with corporate rate</a></p>
+  </div>
+
+  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
+    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">Courtyard Marriott St. Petersburg Clearwater/Madeira Beach</h4>
+    <p style="margin: 5px 0;"><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=16698130%2022393&key=CORP&app=resvlink" target="_blank" rel="noopener">Book with TWE corporate rate</a></p>
+  </div>
+
+</div>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">Other Nearby Options</h4>
+
 <p><strong>Madeira Beach (walking distance to 1 mile):</strong></p>
 <ul style="margin-left: 30px;">
   <li>Inn on the Beach - Boutique beachfront hotel</li>
@@ -603,16 +644,8 @@ permalink: /wedding/
 
 <p style="text-align: center; font-style: italic; color: #d4a574; font-size: 1.1em; margin-top: -10px; margin-bottom: 30px;">Help us make memories like these on our Costa Rica adventure 💙</p>
 
-<h3 style="color: #2c5f6f; font-size: 1.8em; margin-top: 40px; text-align: center;">Gift an Experience</h3>
-
 <div style="text-align: center; margin: 30px 0 40px 0;">
-  <p style="color: #666; font-size: 1.05em; margin-bottom: 25px;">Visit our Honeyfund page to choose a memorable experience to gift us during our Costa Rica adventure!</p>
-  <a href="https://www.honeyfund.com/site/phillips-weber-smith-04-15-2027" target="_blank" rel="noopener" style="background: #d4a574; color: white; padding: 14px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.15em; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: all 0.3s ease;">🌴 Visit Our Honeyfund 🌴</a>
-</div>
-
-<div style="background: linear-gradient(135deg, #00697F 0%, #2c5f6f 100%); padding: 20px 25px; border-radius: 10px; color: white; margin: 25px 0; text-align: center;">
-  <p style="margin: 0; font-size: 1.05em;"><strong>✅ Prefer to give a check?</strong></p>
-  <p style="margin: 10px 0 0 0; color: #f0f0f0;">Make checks payable to <strong>Rachael Phillips</strong> or <strong>Jared Smith</strong> and give them to us at the wedding, or contact us for our mailing address.</p>
+  <a href="https://www.honeyfund.com/site/phillips-weber-smith-04-15-2027?no_gdpr=1" target="_blank" rel="noopener" style="background: #d4a574; color: white; padding: 14px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.15em; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: all 0.3s ease;">🌴 Visit Our Honeyfund 🌴</a>
 </div>
 
 <div style="text-align: right; margin-top: 40px;">
