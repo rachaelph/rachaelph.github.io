@@ -725,132 +725,26 @@ permalink: /wedding/
 <p style="font-style: italic; color: #555;">Formal invitations with mailing details will go out closer to the date — but if you already know you're coming (or can't make it), please let us know below! It helps us with planning.</p>
 
 <!--
-  ====================================================================
-  RSVP FORM SETUP
-  --------------------------------------------------------------------
-  Right now this form posts to Formspree's demo endpoint and will not
-  collect responses. To make it live:
-
-    1. Go to https://formspree.io/ (or use Google Forms / Tally)
-    2. Create a new form, copy your endpoint URL (looks like
-       https://formspree.io/f/xxxxxxxx)
-    3. Replace the action="" attribute below with that URL.
-
-  Or, to embed a Google Form instead, replace this entire <form>
-  block with:
-    <iframe src="YOUR_GOOGLE_FORM_URL?embedded=true"
-            width="100%" height="900" frameborder="0"
-            marginheight="0" marginwidth="0">Loading…</iframe>
-  ====================================================================
+  RSVP — embedded Google Form. Responses land in:
+    https://docs.google.com/forms/d/e/1FAIpQLScKSylvxHERAHJtR7vdQC_3q6SAirCB8gENc9fjj485c4sWTg/viewform
+  To swap to a different form later, replace the iframe src below.
 -->
 
-<!--
-  ====================================================================
-  RSVP FORM — sends via the guest's email client (mailto:)
-  --------------------------------------------------------------------
-  When a guest clicks "Send RSVP", their default email app opens with
-  a pre-filled email to rachaelapsmith@gmail.com containing all of
-  their answers. They just hit send.
+<div style="background: linear-gradient(135deg, #fdf6ec 0%, #ffffff 100%); padding: 24px; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.08); max-width: 760px; margin: 20px auto;">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLScKSylvxHERAHJtR7vdQC_3q6SAirCB8gENc9fjj485c4sWTg/viewform?embedded=true"
+    width="100%"
+    height="1400"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    title="Wedding RSVP form"
+    style="border: none; display: block; background: transparent; border-radius: 8px;">
+    Loading RSVP form…
+  </iframe>
+</div>
 
-  Want a hands-off backend instead (form posts directly, no email
-  client needed)? Sign up at https://formspree.io/, then change:
-    - <form id="rsvp-form" ...> → add action="https://formspree.io/f/XXXX" method="POST"
-    - remove the <script> at the bottom of this section
-  ====================================================================
--->
-
-<form id="rsvp-form"
-      style="background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); max-width: 720px; margin: 20px auto;">
-
-  <div style="margin-bottom: 18px;">
-    <label for="rsvp-name" style="display:block; font-weight:bold; color:#2c5f6f; margin-bottom:6px;">Your name(s) *</label>
-    <input type="text" id="rsvp-name" name="name" required
-           placeholder="e.g. Alex &amp; Jordan Smith"
-           style="width:100%; padding:10px 12px; border:1px solid #d4a574; border-radius:6px; font-family:inherit; font-size:1em;">
-  </div>
-
-  <div style="margin-bottom: 18px;">
-    <label for="rsvp-email" style="display:block; font-weight:bold; color:#2c5f6f; margin-bottom:6px;">Your email *</label>
-    <input type="email" id="rsvp-email" name="email" required
-           style="width:100%; padding:10px 12px; border:1px solid #d4a574; border-radius:6px; font-family:inherit; font-size:1em;">
-  </div>
-
-  <fieldset style="margin-bottom: 18px; border: none; padding: 0;">
-    <legend style="font-weight:bold; color:#2c5f6f; margin-bottom:8px;">Will you be joining us? *</legend>
-    <label style="display:block; margin:6px 0; cursor:pointer;">
-      <input type="radio" name="attending" value="Yes, attending" required> Yes, wouldn't miss it! 🎉
-    </label>
-    <label style="display:block; margin:6px 0; cursor:pointer;">
-      <input type="radio" name="attending" value="No, cannot attend"> Sadly, can't make it 💛
-    </label>
-    <label style="display:block; margin:6px 0; cursor:pointer;">
-      <input type="radio" name="attending" value="Not sure yet"> Not sure yet
-    </label>
-  </fieldset>
-
-  <div style="margin-bottom: 18px;">
-    <label for="rsvp-guests" style="display:block; font-weight:bold; color:#2c5f6f; margin-bottom:6px;">Number in your party</label>
-    <input type="number" id="rsvp-guests" name="guests" min="1" max="10" value="1"
-           style="width:120px; padding:10px 12px; border:1px solid #d4a574; border-radius:6px; font-family:inherit; font-size:1em;">
-    <p style="margin: 6px 0 0; font-size: 0.88em; color: #777; font-style: italic;">Please only include guests who were named on your invitation. 💛</p>
-  </div>
-
-  <div style="margin-bottom: 18px;">
-    <label for="rsvp-diet" style="display:block; font-weight:bold; color:#2c5f6f; margin-bottom:6px;">Dietary restrictions or allergies</label>
-    <input type="text" id="rsvp-diet" name="dietary" placeholder="Vegetarian, gluten-free, etc. (optional)"
-           style="width:100%; padding:10px 12px; border:1px solid #d4a574; border-radius:6px; font-family:inherit; font-size:1em;">
-  </div>
-
-  <div style="margin-bottom: 22px;">
-    <label for="rsvp-msg" style="display:block; font-weight:bold; color:#2c5f6f; margin-bottom:6px;">Anything else?</label>
-    <textarea id="rsvp-msg" name="message" rows="4" placeholder="Song requests, well-wishes, travel questions…"
-              style="width:100%; padding:10px 12px; border:1px solid #d4a574; border-radius:6px; font-family:inherit; font-size:1em; resize:vertical;"></textarea>
-  </div>
-
-  <button type="submit"
-          style="background:#2c5f6f; color:#fff; border:none; padding:12px 28px; border-radius:24px; font-size:1.05em; font-weight:bold; cursor:pointer; box-shadow:0 4px 10px rgba(44,95,111,0.3);">
-    Send RSVP →
-  </button>
-  <p id="rsvp-helper" style="margin: 12px 0 0; font-size: 0.85em; color:#888; font-style: italic;">
-    Clicking <strong>Send RSVP</strong> will open your email app with a pre-filled message to us — just hit send!
-  </p>
-</form>
-
-<script>
-(function () {
-  var form = document.getElementById('rsvp-form');
-  if (!form) return;
-  form.addEventListener('submit', function (e) {
-    e.preventDefault();
-    var name = (document.getElementById('rsvp-name').value || '').trim();
-    var email = (document.getElementById('rsvp-email').value || '').trim();
-    var attendingEl = form.querySelector('input[name="attending"]:checked');
-    var attending = attendingEl ? attendingEl.value : '(not specified)';
-    var guests = (document.getElementById('rsvp-guests').value || '').trim();
-    var diet = (document.getElementById('rsvp-diet').value || '').trim();
-    var msg = (document.getElementById('rsvp-msg').value || '').trim();
-
-    var lines = [
-      'Wedding RSVP from: ' + name,
-      'Email: ' + email,
-      'Attending: ' + attending,
-      'Party size: ' + guests,
-      'Dietary: ' + (diet || '(none)'),
-      '',
-      'Message:',
-      (msg || '(none)')
-    ];
-    var subject = 'Wedding RSVP — ' + name;
-    var body = lines.join('\n');
-    var mailto = 'mailto:rachaelapsmith@gmail.com'
-      + '?subject=' + encodeURIComponent(subject)
-      + '&body=' + encodeURIComponent(body);
-    window.location.href = mailto;
-  });
-})();
-</script>
-
-<p style="text-align:center; color:#555; margin-top:18px;">Questions? Email us at <a href="mailto:rachaelapsmith@gmail.com" style="color:#2c5f6f; font-weight:bold;">rachaelapsmith@gmail.com</a></p>
+<p style="text-align:center; color:#555; margin-top:18px;">Trouble with the form? Email us at <a href="mailto:rachaelapsmith@gmail.com" style="color:#2c5f6f; font-weight:bold;">rachaelapsmith@gmail.com</a></p>
 
 <div style="text-align: right; margin-top: 30px;">
   <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
