@@ -536,6 +536,17 @@ permalink: /wedding/
   <li>The Don CeSar - Iconic pink palace, luxury option</li>
 </ul>
 
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">Vacation Rentals (Airbnb & VRBO)</h4>
+
+<p>Airbnb and VRBO houses near the venue are also a great option, especially for families or groups traveling together! Madeira Beach, Treasure Island, and the surrounding areas have many beachfront and near-beach rental homes and condos available. Booking together can be a fun and cost-effective way to stay close to the festivities.</p>
+
+<p><strong>💡 Tip:</strong> VRBO and Airbnb are great places to find a good deal on where to stay! Just be sure to book a place as close to <strong>The West Events</strong> (13435 Gulf Boulevard, Madeira Beach) as you can so you're nearby for the ceremony and reception.</p>
+
+<ul style="margin-left: 30px;">
+  <li><a href="https://www.airbnb.com/s/Madeira-Beach--FL/homes" target="_blank" rel="noopener">Search Airbnb in Madeira Beach</a></li>
+  <li><a href="https://www.vrbo.com/vacation-rentals/usa/florida/central-west/madeira-beach" target="_blank" rel="noopener">Search VRBO in Madeira Beach</a></li>
+</ul>
+
 <p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Getting Around St. Pete</h3>
