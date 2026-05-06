@@ -167,7 +167,7 @@ title: " "
   <h2>Meet Us</h2>
 
   <div class="au-person">
-    <img loading="lazy" src="/assets/images/rachael-jared2.jpg" alt="Jared">
+    <img loading="lazy" src="/assets/images/jared.jpg" alt="Jared">
     <div>
       <h3>About Jared</h3>
       <p>I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting customers across Florida, Alabama, and parts of Georgia. I'm thoughtful, measured, and take my time thinking things through (sometimes to the point of analysis paralysis!). I'm the calm, put-together one who balances out Rachael's wild, all-over-the-place energy. I'm quieter and more reserved, but deeply care about health, wellness, and helping others.</p>
@@ -184,7 +184,7 @@ title: " "
   </div>
 
   <div class="au-person">
-    <img loading="lazy" src="/assets/images/rachael-jared.jpg" alt="Ellie">
+    <img loading="lazy" src="/assets/images/ellie.jpg" alt="Ellie">
     <div>
       <h3>About Ellie 🐾</h3>
       <p>Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order. She's been a constant source of joy and unconditional love, and we're so grateful for every day with her.</p>
@@ -208,7 +208,7 @@ title: " "
 <section class="au-section">
   <h2>Adventures We've Shared</h2>
   <p>We've been fortunate to explore some incredible places together:</p>
-  <ul>
+  <ul style="padding-left: 2.5em; margin-left: 1em;">
     <li><strong>Saint Augustine, FL</strong> — New Year's Eve 2023/2024 (where we became official!)</li>
     <li><strong>Seattle, WA</strong> — Jared's first time in the Pacific Northwest</li>
     <li><strong>The Bahamas</strong> — Our first cruise together</li>
@@ -227,7 +227,7 @@ title: " "
 <section class="au-section">
   <h2>2026 Travel Plans ✈️</h2>
   <p>This year is packed with adventures:</p>
-  <ul>
+  <ul style="padding-left: 2.5em; margin-left: 1em;">
     <li><strong>Detroit</strong> — Jared's sister is in a musical!</li>
     <li><strong>The Keys in May</strong> — Celebrating Jared's brother Kegan's birthday!</li>
     <li><strong>Austin, TX</strong> — First visit for both of us — going to see MGK!</li>
@@ -258,7 +258,7 @@ title: " "
 <section class="au-section">
   <h2>Looking Ahead 🔭</h2>
   <p>We're excited for what's next:</p>
-  <ul>
+  <ul style="padding-left: 2.5em; margin-left: 1em;">
     <li><strong>Getting married on April 15, 2027</strong></li>
     <li><strong>Honeymooning in Costa Rica</strong></li>
     <li><strong>Having two kids</strong> (ideally a boy and a girl!)</li>
