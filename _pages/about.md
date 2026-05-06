@@ -280,7 +280,7 @@ title: " "
   <h2 style="color:#fff; border-color:#d4a574;">Keep exploring</h2>
   <p style="color:#fdf6ec;">More to see and read.</p>
   <a class="au-cta-btn" href="/wedding/">💍 Wedding Details</a>
-  <a class="au-cta-btn alt" style="background:#fff; color:#2c5f6f !important;" href="/blog/">📝 Read the Blog</a>
+  <a class="au-cta-btn alt" style="background:#fff; color:#2c5f6f !important;" href="/adventures/">📍 Adventures</a>
 </section>
 
 </div>

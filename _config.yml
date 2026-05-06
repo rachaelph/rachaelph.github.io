@@ -97,10 +97,8 @@ navigation_header:
   url: /about-us/
 - title: Wedding
   url: /wedding/
-- title: Photos
-  url: /photos/
-- title: Blog
-  url: /blog/
+- title: Adventures
+  url: /adventures/
 
 navigation_footer:
 - title: Edited by Rachael Smith

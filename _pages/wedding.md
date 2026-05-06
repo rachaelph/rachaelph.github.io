@@ -325,7 +325,7 @@ permalink: /wedding/
     <a href="#event-details" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Venue & Schedule</a>
     <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Wedding Party</a>
     <a href="#travel-info" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Travel & Activities</a>
-    <a href="#honeymoon-fund" style="background: #d4a574; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Honeymoon Fund 🌴</a>
+    <a href="https://www.honeyfund.com/site/phillips-weber-smith-04-15-2027?no_gdpr=1" target="_blank" rel="noopener" style="background: #d4a574; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Honeymoon Fund 🌴</a>
     <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">RSVP</a>
     <a href="#faqs" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">FAQs</a>
   </div>

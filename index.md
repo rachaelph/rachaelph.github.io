@@ -50,45 +50,6 @@ excerpt: "Smith Family in the Sunshine City!"
   .ss-hero .pill:hover { transform: translateY(-2px); box-shadow: 0 6px 14px rgba(0,0,0,0.2); }
   .ss-hero .pill.alt { background: rgba(255,255,255,0.15); border: 2px solid #fff; }
 
-  /* Countdown */
-  .ss-countdown {
-    max-width: 900px;
-    margin: -30px auto 40px;
-    background: #fff;
-    border-radius: 12px;
-    padding: 20px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-    text-align: center;
-    position: relative;
-    z-index: 2;
-  }
-  .ss-countdown .label {
-    color: #d4a574;
-    font-style: italic;
-    letter-spacing: 1px;
-    margin: 0 0 10px;
-    font-size: 1em;
-  }
-  .ss-countdown .grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-    max-width: 520px;
-    margin: 0 auto;
-  }
-  .ss-countdown .num {
-    font-size: 2.2em;
-    font-weight: bold;
-    color: #2c5f6f;
-    line-height: 1;
-  }
-  .ss-countdown .unit {
-    font-size: 0.85em;
-    color: #666;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
   /* Welcome card */
   .ss-welcome {
     max-width: 1100px;
@@ -180,7 +141,6 @@ excerpt: "Smith Family in the Sunshine City!"
     .ss-hero p.tag { font-size: 1.05em; }
     .ss-welcome, .ss-who { padding: 24px; }
     .ss-who { grid-template-columns: 1fr; text-align: center; }
-    .ss-countdown .num { font-size: 1.6em; }
   }
 </style>
 
@@ -191,17 +151,7 @@ excerpt: "Smith Family in the Sunshine City!"
   <p class="tag">Smith Family in the Sunshine City ☀️🌊</p>
   <a class="pill" href="/about-us/">About Us</a>
   <a class="pill alt" href="/wedding/">Our Wedding 💍</a>
-  <a class="pill alt" href="/blog/">The Blog</a>
-</section>
-
-<section class="ss-countdown" id="wedding-countdown">
-  <p class="label">Counting down to <strong style="color:#2c5f6f;">April 15, 2027</strong></p>
-  <div class="grid">
-    <div><div class="num" id="cd-days">—</div><div class="unit">Days</div></div>
-    <div><div class="num" id="cd-hours">—</div><div class="unit">Hours</div></div>
-    <div><div class="num" id="cd-mins">—</div><div class="unit">Minutes</div></div>
-    <div><div class="num" id="cd-secs">—</div><div class="unit">Seconds</div></div>
-  </div>
+  <a class="pill alt" href="/adventures/">Adventures</a>
 </section>
 
 <section class="ss-welcome">
@@ -251,33 +201,10 @@ excerpt: "Smith Family in the Sunshine City!"
 <section class="ss-cta">
   <h2>Follow Along</h2>
   <p>Read our latest stories, peek at the wedding plans, or get to know us a little better.</p>
-  <a href="/blog/">📝 Read the Blog</a>
+  <a href="/adventures/#stories">📝 Read Our Stories</a>
   <a href="/wedding/">💍 Wedding Details</a>
   <a href="/about-us/">💌 About Us</a>
 </section>
 
 </div>
 
-<script>
-  (function () {
-    var target = new Date('2027-04-15T17:00:00-04:00').getTime();
-    function tick() {
-      var now = Date.now();
-      var diff = Math.max(0, target - now);
-      var d = Math.floor(diff / (1000 * 60 * 60 * 24));
-      var h = Math.floor((diff / (1000 * 60 * 60)) % 24);
-      var m = Math.floor((diff / (1000 * 60)) % 60);
-      var s = Math.floor((diff / 1000) % 60);
-      var elD = document.getElementById('cd-days');
-      var elH = document.getElementById('cd-hours');
-      var elM = document.getElementById('cd-mins');
-      var elS = document.getElementById('cd-secs');
-      if (elD) elD.textContent = d;
-      if (elH) elH.textContent = h;
-      if (elM) elM.textContent = m;
-      if (elS) elS.textContent = s;
-    }
-    tick();
-    setInterval(tick, 1000);
-  })();
-</script>
