@@ -5,10 +5,52 @@ permalink: /wedding/
 
 <style>
   /* Elegant wedding page styling */
-  
+
+  html { scroll-behavior: smooth; }
+
   /* Sandy background for entire page */
   body {
     background-color: #F5DEB3 !important;
+  }
+
+  /* Countdown widget */
+  .wed-countdown {
+    max-width: 1000px;
+    margin: 30px auto;
+    background: #fff;
+    border-radius: 12px;
+    padding: 22px 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.10);
+    text-align: center;
+  }
+  .wed-countdown .label {
+    color: #d4a574;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin: 0 0 12px;
+  }
+  .wed-countdown .grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+  .wed-countdown .num {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #2c5f6f;
+    line-height: 1;
+    font-family: 'Georgia', serif;
+  }
+  .wed-countdown .unit {
+    font-size: 0.85em;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  @media (max-width: 480px) {
+    .wed-countdown .num { font-size: 1.6em; }
   }
   
   /* Override theme width constraints */
@@ -238,7 +280,7 @@ permalink: /wedding/
   }
 </style>
 
-<div class="wedding-page" style="padding: 20px 0;">
+<div class="wedding-page" id="top" style="padding: 20px 0;">
 
 <div style="display: flex; gap: 40px; align-items: center; margin: 40px auto; max-width: 1200px; padding: 0 20px; flex-wrap: wrap;">
   
@@ -263,6 +305,17 @@ permalink: /wedding/
 <!-- Engagement Photo -->
 <div style="text-align: center; margin: 40px auto;">
   <img src="/assets/images/engagementphotos8.jpeg" alt="Rachael and Jared" style="max-width: 600px; width: 100%; border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);">
+</div>
+
+<!-- Wedding Countdown -->
+<div class="wed-countdown">
+  <p class="label">Counting down to <strong style="color:#2c5f6f;">April 15, 2027</strong> 🌴</p>
+  <div class="grid">
+    <div><div class="num" id="wcd-days">—</div><div class="unit">Days</div></div>
+    <div><div class="num" id="wcd-hours">—</div><div class="unit">Hours</div></div>
+    <div><div class="num" id="wcd-mins">—</div><div class="unit">Minutes</div></div>
+    <div><div class="num" id="wcd-secs">—</div><div class="unit">Seconds</div></div>
+  </div>
 </div>
 
 <!-- Quick Links Navigation -->
@@ -333,7 +386,7 @@ permalink: /wedding/
 </ul>
 
 <div style="text-align: right; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -454,7 +507,7 @@ permalink: /wedding/
 </div>
 
 <div style="text-align: right; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -627,7 +680,7 @@ permalink: /wedding/
 </ul>
 
 <div style="text-align: right; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -660,7 +713,7 @@ permalink: /wedding/
 </div>
 
 <div style="text-align: right; margin-top: 40px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -674,7 +727,7 @@ permalink: /wedding/
 <p>You can also email us at rachaelapsmith@gmail.com with questions!</p>
 
 <div style="text-align: right; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -708,7 +761,7 @@ Yes! We'll have beer and wine available for the first 2 hours of the reception. 
 The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!</p>
 
 <div style="text-align: right; margin-top: 30px;">
-  <a href="#" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
 </div>
 
 </div>
@@ -727,4 +780,28 @@ The reception will go until approximately 10:00 PM (to be confirmed). Party as l
 </div>
 
 </div>
+
+<script>
+  (function () {
+    var target = new Date('2027-04-15T17:00:00-04:00').getTime();
+    function tick() {
+      var now = Date.now();
+      var diff = Math.max(0, target - now);
+      var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+      var h = Math.floor((diff / (1000 * 60 * 60)) % 24);
+      var m = Math.floor((diff / (1000 * 60)) % 60);
+      var s = Math.floor((diff / 1000) % 60);
+      var elD = document.getElementById('wcd-days');
+      var elH = document.getElementById('wcd-hours');
+      var elM = document.getElementById('wcd-mins');
+      var elS = document.getElementById('wcd-secs');
+      if (elD) elD.textContent = d;
+      if (elH) elH.textContent = h;
+      if (elM) elM.textContent = m;
+      if (elS) elS.textContent = s;
+    }
+    tick();
+    setInterval(tick, 1000);
+  })();
+</script>
 
