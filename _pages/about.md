@@ -154,7 +154,7 @@ title: " "
     <p>We're <strong>Rachael &amp; Jared</strong> — a California girl and a Michigander who found each other in the Sunshine City. What started as a Bumble match turned into a love story filled with adventures, laughter, and a whole lot of golf.</p>
     <p>Now, we're getting married on <strong>April 15, 2027</strong>, and we couldn't be more excited for our future together!</p>
   </div>
-  <img src="/assets/images/rachael-jared2.jpg" alt="Jared & Rachael">
+  <img loading="lazy" src="/assets/images/rachael-jared2.jpg" alt="Jared & Rachael">
 </section>
 
 <section class="au-section">
@@ -167,7 +167,7 @@ title: " "
   <h2>Meet Us</h2>
 
   <div class="au-person">
-    <img src="/assets/images/rachael-jared2.jpg" alt="Jared">
+    <img loading="lazy" src="/assets/images/rachael-jared2.jpg" alt="Jared">
     <div>
       <h3>About Jared</h3>
       <p>I (Jared) work as a Product Sales Specialist for Adams Corporation, supporting customers across Florida, Alabama, and parts of Georgia. I'm thoughtful, measured, and take my time thinking things through (sometimes to the point of analysis paralysis!). I'm the calm, put-together one who balances out Rachael's wild, all-over-the-place energy. I'm quieter and more reserved, but deeply care about health, wellness, and helping others.</p>
@@ -176,7 +176,7 @@ title: " "
   </div>
 
   <div class="au-person">
-    <img src="/assets/images/rachael.jpg" alt="Rachael">
+    <img loading="lazy" src="/assets/images/rachael.jpg" alt="Rachael">
     <div>
       <h3>About Rachael</h3>
       <p>I (Rachael) work as a Senior Consultant in Data &amp; AI at Microsoft, working remotely from Saint Petersburg. I'm the planner, the activator, the one who makes things happen. I'm talkative, adventurous, and always have the next trip, activity, or goal lined up. I'm passionate about health and wellness, networking, volunteering with the Junior League of Saint Petersburg, and creating experiences.</p>
@@ -184,7 +184,7 @@ title: " "
   </div>
 
   <div class="au-person">
-    <img src="/assets/images/rachael-jared.jpg" alt="Ellie">
+    <img loading="lazy" src="/assets/images/rachael-jared.jpg" alt="Ellie">
     <div>
       <h3>About Ellie 🐾</h3>
       <p>Ellie, our sweet yellow lab–golden retriever mix, is 13 years young and doing wonderfully for her age. She loves food, swimming, long walks, and belly rubs — very much in that order. She's been a constant source of joy and unconditional love, and we're so grateful for every day with her.</p>

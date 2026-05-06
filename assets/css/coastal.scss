@@ -1,0 +1,106 @@
+---
+---
+
+/* =============================================================
+   Coastal site theme — shared palette + typography utilities
+   Loaded site-wide from _includes/head.html.
+   Page-specific overrides remain inline in each page's <style>.
+   ============================================================= */
+
+:root {
+  --color-teal: #2c5f6f;
+  --color-teal-light: #0d8a9a;
+  --color-sand: #d4a574;
+  --color-sand-dark: #b8895a;
+  --color-cream: #fdf6ec;
+  --color-wedding-bg: #F5DEB3;
+  --color-ink: #2c3e50;
+
+  --font-body: 'Georgia', 'Garamond', serif;
+  --font-script: 'Great Vibes', 'Playfair Display', 'Georgia', cursive;
+}
+
+/* ---- Smooth in-page navigation ---- */
+html { scroll-behavior: smooth; }
+
+/* ---- Shared utility classes (opt-in via class) ---- */
+.coastal-hero {
+  color: #fff;
+  text-align: center;
+  padding: 70px 24px 60px;
+  border-radius: 14px;
+  margin: 20px auto 30px;
+  max-width: 1200px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+.coastal-hero h1 {
+  color: #fff;
+  font-family: var(--font-script);
+  font-size: 3.4em;
+  margin: 0;
+  letter-spacing: 2px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.coastal-hero p {
+  font-style: italic;
+  font-size: 1.2em;
+  color: var(--color-cream);
+  max-width: 700px;
+  margin: 14px auto 0;
+}
+
+.coastal-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 26px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.coastal-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+}
+
+.coastal-btn {
+  display: inline-block;
+  background: var(--color-teal);
+  color: #fff;
+  padding: 10px 22px;
+  border-radius: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+.coastal-btn:hover {
+  background: var(--color-teal-light);
+  transform: translateY(-2px);
+}
+.coastal-btn--sand {
+  background: var(--color-sand);
+}
+.coastal-btn--sand:hover {
+  background: var(--color-sand-dark);
+}
+
+/* ---- Accessibility: visible focus states ---- */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid var(--color-sand);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ---- Honor reduced-motion preferences ---- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

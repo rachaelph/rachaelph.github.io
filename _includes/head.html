@@ -4,6 +4,17 @@
 
 {% include seo.html %}
 
+{%- comment -%} Default social share image — used when a page doesn't define page.header.image {%- endcomment -%}
+{% assign default_share_image = '/assets/images/rachael-jared.jpg' | absolute_url %}
+{% unless page.header.image or page.header.overlay_image %}
+  <meta property="og:image" content="{{ default_share_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ default_share_image }}">
+{% endunless %}
+<meta name="theme-color" content="#2c5f6f">
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -17,5 +28,6 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/coastal.css">
 
 <meta http-equiv="cleartype" content="on">

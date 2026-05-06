@@ -245,7 +245,7 @@ excerpt: "Smith Family in the Sunshine City!"
     <p>Together, we love traveling, volunteering, and making the most of our St. Pete life.</p>
     <p style="margin-top: 18px;"><a href="/about-us/" style="color:#d4a574; font-weight:bold; text-decoration:none;">Learn more about us →</a></p>
   </div>
-  <img src="/assets/images/rachael-jared.jpg" alt="Rachael and Jared">
+  <img loading="lazy" src="/assets/images/rachael-jared.jpg" alt="Rachael and Jared">
 </section>
 
 <section class="ss-cta">
