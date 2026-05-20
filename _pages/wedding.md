@@ -745,7 +745,7 @@ Please let us know on your RSVP card, and we'll make sure you're taken care of!<
 Yes! We'll have beer and wine available for the first 2 hours of the reception. After that, it will be a cash bar. We'll also have signature mocktails and cocktails available (details coming soon)!</p>
 
 <p><strong>What time should I leave?</strong><br>
-The reception will go until approximately 10:00 PM (to be confirmed). Party as long as you'd like!</p>
+The reception will go until approximately 10:00 PM. Party as long as you'd like!</p>
 
 <div style="text-align: right; margin-top: 30px;">
   <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
