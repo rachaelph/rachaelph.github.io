@@ -685,39 +685,6 @@ permalink: /wedding/
 
 </div>
 
-<!-- Honeymoon Fund Section -->
-<div class="wedding-section" id="honeymoon-fund">
-
-<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Honeymoon Fund 🌴</h2>
-
-<div style="text-align: center; margin: 30px 0;">
-  <p style="font-size: 1.2em; line-height: 1.8; color: #2c5f6f; max-width: 700px; margin: 0 auto;">
-    Your presence at our wedding is the greatest gift of all.<br>
-    If you'd like to contribute, we're dreaming of a honeymoon filled with adventure, relaxation, and unforgettable memories in <strong>Costa Rica</strong>. Thank you for helping us start our next chapter together 💙
-  </p>
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
-  <img loading="lazy" src="/assets/images/costa_rica.jpg" alt="Costa Rica beach at sunset" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img loading="lazy" src="/assets/images/costa_rica2.jpg" alt="Costa Rica jungle scenery" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img loading="lazy" src="/assets/images/costa_rica3.jpg" alt="Costa Rica coastline" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img loading="lazy" src="/assets/images/costa_rica5.jpg" alt="Costa Rica wildlife" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img loading="lazy" src="/assets/images/costa_rica6.jpg" alt="Costa Rica waterfall" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-  <img loading="lazy" src="/assets/images/costa_rica7.jpg" alt="Rachael and Jared in Costa Rica" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-</div>
-
-<p style="text-align: center; font-style: italic; color: #d4a574; font-size: 1.1em; margin-top: -10px; margin-bottom: 30px;">Help us make memories like these on our Costa Rica adventure 💙</p>
-
-<div style="text-align: center; margin: 30px 0 40px 0;">
-  <a href="https://www.honeyfund.com/site/phillips-weber-smith-04-15-2027?no_gdpr=1" target="_blank" rel="noopener" style="background: #d4a574; color: white; padding: 14px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.15em; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: all 0.3s ease;">🌴 Visit Our Honeyfund 🌴</a>
-</div>
-
-<div style="text-align: right; margin-top: 40px;">
-  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
-</div>
-
-</div>
-
 <div class="wedding-section" id="rsvp">
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
