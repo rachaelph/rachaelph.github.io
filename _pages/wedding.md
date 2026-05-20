@@ -736,7 +736,7 @@ Your invitation will specify if you have a plus-one. Due to venue capacity, we'r
 Parking is very limited (maximum 20 vehicles). We strongly encourage using Uber/Lyft or carpooling with other guests.</p>
 
 <p><strong>Are kids welcome?</strong><br>
-Due to venue capacity, we can only accommodate children who are nieces/nephews of the bride and groom or children of the bridal party. We appreciate your understanding!</p>
+Due to venue capacity, we can only accommodate children who are nieces/nephews of the bride and groom. We appreciate your understanding!</p>
 
 <p><strong>What if I have dietary restrictions?</strong><br>
 Please let us know on your RSVP card, and we'll make sure you're taken care of!</p>
