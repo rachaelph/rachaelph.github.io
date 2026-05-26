@@ -598,6 +598,7 @@ permalink: /wedding/
 <ul style="margin-left: 30px;">
   <li><a href="https://www.airbnb.com/s/Madeira-Beach--FL/homes" target="_blank" rel="noopener">Search Airbnb in Madeira Beach</a></li>
   <li><a href="https://www.vrbo.com/vacation-rentals/usa/florida/central-west/madeira-beach" target="_blank" rel="noopener">Search VRBO in Madeira Beach</a></li>
+  <li><a href="https://www.vrbo.com/search?latLong=27.78564%2C-82.78372&mapBounds=27.78238%2C-82.78767&mapBounds=27.7889%2C-82.77977&startDate=2027-04-14&endDate=2027-04-18&adults=8&children=1_17%2C1_17&sort=RECOMMENDED" target="_blank" rel="noopener">Search VRBO rentals near the venue (pre-filtered for our wedding dates)</a></li>
 </ul>
 
 <p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
