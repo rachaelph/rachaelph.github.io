@@ -10,7 +10,7 @@ permalink: /wedding/
 
   /* Sandy background for entire page */
   body {
-    background-color: #F5DEB3 !important;
+    background-color: #F6F1E8 !important;
   }
 
   /* Countdown widget */
@@ -61,12 +61,12 @@ permalink: /wedding/
     max-width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    background-color: #F5DEB3;
+    background-color: #F6F1E8;
   }
   
   .wedding-page {
     font-family: 'Georgia', 'Garamond', serif;
-    background-color: #F5DEB3;
+    background-color: #F6F1E8;
   }
   
   .wedding-title {
