@@ -355,7 +355,8 @@ permalink: /wedding/
 </div>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Dress Code</h3>
-<p><strong>Semi-Formal Beach Attire</strong> - Think beachy colors and lightweight fabrics! It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️</p>
+<p><strong>Semi-Formal Beach Attire</strong> — lightweight fabrics and beach-friendly footwear recommended. It's a beach wedding in April, so it may be warm. Dress to be comfortable and celebrate with us! Semi-formal is great, but no need to be overly formal. 🌴☀️</p>
+<p><strong>👡 A note on footwear:</strong> The ceremony will take place directly on the sand. We recommend block heels, wedges, sandals, or flats for comfort.</p>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">The Venue</h3>
 
@@ -368,7 +369,7 @@ permalink: /wedding/
 
 <p>The West Events is a beautiful waterfront venue in Madeira Beach, just steps from the beach! The industrial-chic space offers indoor and outdoor areas, creating the perfect backdrop for our celebration.</p>
 
-<p><strong>Getting There:</strong> The venue is located on Gulf Boulevard in Madeira Beach, close to St. Pete and about 30 minutes from Tampa International Airport (TPA).</p>
+<p><strong>Getting There:</strong> The venue is located on Gulf Boulevard in Madeira Beach, close to St. Pete - about 30 minutes from Tampa International Airport (TPA) or 20 minutes from St. Pete-Clearwater International Airport (PIE).</p>
 
 <p><strong>Important:</strong> Parking is limited to 20 vehicles at the venue. We encourage carpooling or using rideshare services when possible!</p>
 
@@ -404,7 +405,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_dev.jpg" alt="Devlyn Parsons" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Devlyn Parsons <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Co-Maid of Honor</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Dev has been one of my best friends for roughly 10 years! We met at my first job out of college in Scottsdale, AZ, and quickly became close friends. I moved back to California to help my dad for three years at the end of 2020, but our friendship stayed strong. At the beginning of 2023, Dev moved to Clearwater, Florida, and several months later, I moved to Saint Petersburg! We were reunited and now hang out all the time—about once a week, if not more. She is like a big sister to me, and when she introduces me, she calls me her little sister! I am so grateful for her love, support, kindness, and loyalty. She is an amazing sister and friend, and I am truly lucky to have her as one of my co-maids of honor!</p>
+      <p style="color: #00695C; line-height: 1.6;">Dev has been one of my best friends for about 10 years! We met at my first job out of college in Scottsdale, AZ, and our friendship stayed strong even after I moved back to California. In 2023, she moved to Clearwater and I followed to Saint Petersburg shortly after—now we hang out almost every week. She's like a big sister to me (and introduces me as her little sister!), and I'm so grateful for her love, loyalty, and support. I'm truly lucky to have her as one of my co-maids of honor!</p>
     </div>
   </div>
 
@@ -413,7 +414,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_holly.jpg" alt="Holly Smith" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Holly Smith <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Co-Maid of Honor</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Holly and I have been friends since sophomore year of high school, over 20 years! I used to steal her gum and cheat off her history homework ;) She is one of the most loyal, understanding, kind, and fun people I have ever had the pleasure of knowing! She is always there for the people she loves and will do anything for those she cares about. She's incredibly strong and resilient, and she's another sister from another mister to me! I am so honored and grateful to have her as my other co-maid of honor!</p>
+      <p style="color: #00695C; line-height: 1.6;">Holly and I have been friends since sophomore year of high school—over 20 years! (I used to steal her gum and cheat off her history homework ;)) She's one of the most loyal, kind, and fun people I've ever known, always there for the people she loves and incredibly strong through it all. She's a sister from another mister, and I'm so honored to have her as my other co-maid of honor!</p>
     </div>
   </div>
 
@@ -422,7 +423,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_katie.jpg" alt="Katie Ocasion" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Katie Ocasion <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Bridesmaid</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Katie and I have known each other since I was about 16 years old. We weren't very close at first, but when I moved back to California at the end of 2020, everything changed! We started bonding over our shared love of learning, growing, and reading. If you know anything about me, you know I'm obsessed with books and reading... Katie totally set that part of me free! ;) She's not only a wonderful book buddy, but also one of the sweetest, most fun, loyal, and wonderful people I know. I'm so grateful our friendship has grown the way it has and thrilled to have her as part of my bridal party for this joyous occasion!</p>
+      <p style="color: #00695C; line-height: 1.6;">Katie and I have known each other since I was about 16, but our friendship really took off when I moved back to California in 2020. We bonded over a shared love of learning, growing, and reading—she totally set my book-obsessed side free! ;) She's one of the sweetest, most loyal, and fun people I know, and I'm thrilled to have her in my bridal party!</p>
     </div>
   </div>
 
@@ -431,7 +432,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_emma.jpg" alt="Emma Breneisen" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Emma Breneisen <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Bridesmaid</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Emma is dating Jared's brother Kegan, and I'm so lucky she's going to be my future sister-in-law! She is such a sweet, adventurous, crafty, social, smart, stylish, and fun woman. From the moment Jared and I started dating, she welcomed me with open arms. She also introduced me to The Junior League of Saint Petersburg, a women's non-profit organization we both joined in 2025! Now we're both actively involved with the chapter and get to spend time together most weeks—whether at Junior League events, family gatherings, or just hanging out. I'm thrilled to have her standing by my side on our big day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Emma is dating Jared's brother Kegan, and I'm so lucky she's going to be my future sister-in-law! She's sweet, adventurous, crafty, smart, and so much fun—and she welcomed me with open arms from day one. She also introduced me to The Junior League of Saint Petersburg, where we both joined in 2025, so we get to spend time together most weeks. I'm thrilled to have her standing by my side on our big day!</p>
     </div>
   </div>
 
@@ -440,7 +441,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_steph.jpg" alt="Stephanie Berlinghoff" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Stephanie Berlinghoff <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Bridesmaid</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Stephanie and I met in kindergarten—we've known each other for over 30 years! During our childhood and teenage years, her family became my second family, and I spent countless hours on trips with them. We went camping multiple times and even went on a cruise that we boarded on Stephanie's 19th birthday! She's always been so fun to be around and knows how to not take life too seriously. Even when months have passed without talking, when we reconnect, it's like no time has passed at all! I was honored to be a bridesmaid in her wedding, and I'm so grateful she's part of my bridal party as well!</p>
+      <p style="color: #00695C; line-height: 1.6;">Stephanie and I met in kindergarten—over 30 years ago! Her family became my second family growing up, with countless camping trips and even a cruise we boarded on her 19th birthday. She's always fun to be around, and no matter how much time passes between visits, it feels like no time at all when we reconnect. I was honored to be a bridesmaid in her wedding, and I'm so grateful to have her in mine!</p>
     </div>
   </div>
 
@@ -449,7 +450,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/me_judy.jpg" alt="Judy Du" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Judy Du <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Bridesmaid</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Judy and I met during the last year of my graduate program at UC Davis, where we both worked with our advisor, Dr. Arsuaga. We were friends, but not close friends... yet! Years later, we reconnected when I moved back to California in 2021. She was living in SoCal, so I drove down to hang out with her, and we've been great friends ever since! I've visited her in SoCal, Princeton, and New Jersey/New York, where we went on SO many adventures together. She's even come to Florida to visit Jared and me! I absolutely love hanging out and traveling with her. She's super silly, fun, kind, and adventurous—she knows how to not take life too seriously, but she's also an amazing listener who's always there when you need her. I'm so happy to have her in our wedding party!</p>
+      <p style="color: #00695C; line-height: 1.6;">Judy and I met during the last year of my graduate program at UC Davis, where we both worked with our advisor, Dr. Arsuaga. We reconnected after I moved back to California in 2021 and have been close ever since—with adventures together in SoCal, Princeton, New York, and even here in Florida! She's silly, kind, and adventurous, and also an amazing listener who's always there when you need her. I'm so happy to have her in our wedding party!</p>
     </div>
   </div>
 
@@ -464,7 +465,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/jared_trevor.jpg" alt="Trevor Shemka" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Trevor Shemka <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Best Man</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Trevor and Jared were roommates in college and have shared many fun adventures together over the years! He even came to visit us in Florida recently, and it was wonderful getting to know him better. They talk frequently on the phone, which is awesome to see! Trevor is a fun, kind, and supportive guy, and we're so glad to have him standing beside Jared on this special day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Trevor and Jared were college roommates and have shared many adventures since. He recently came to visit us in Florida, and it was wonderful getting to know him better—plus, he and Jared still talk on the phone all the time! Trevor is fun, kind, and supportive, and we're so glad to have him standing beside Jared on our special day!</p>
     </div>
   </div>
 
@@ -473,7 +474,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/jared_andrew.jpg" alt="Andrew Clark" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Andrew Clark <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Groomsman</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Andrew is Jared's longest friend—they've known each other since grade school! From what I hear, Andrew is a supportive, kind, and loyal friend. He is also a great dad to two children! He's always there for Jared and knows him better than Jared knows himself! It's such a joy to have him in our wedding party!</p>
+      <p style="color: #00695C; line-height: 1.6;">Andrew is Jared's longest friend—they've known each other since grade school! He's a supportive, kind, and loyal friend, a great dad to two, and knows Jared better than Jared knows himself. Such a joy to have him in our wedding party!</p>
     </div>
   </div>
 
@@ -482,7 +483,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/jared_kegan.jpg" alt="Kegan Copenhagen" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Kegan Copenhagen <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Groomsman</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Kegan is Jared's younger brother! He's sweet, fun, and absolutely obsessed with fishing and golfing. He's definitely stubborn and knows what he wants, but he's always there for Jared when he needs him. I'm so grateful to call him my future brother-in-law and thrilled he'll be standing beside Jared on this special day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Kegan is Jared's younger brother—sweet, fun, and absolutely obsessed with fishing and golfing! He knows what he wants and is always there for Jared when it counts. I'm so grateful to call him my future brother-in-law and thrilled to have him standing beside Jared on our big day!</p>
     </div>
   </div>
 
@@ -491,7 +492,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/jared_chase.jpg" alt="Chase Howard" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Chase Howard <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Groomsman</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Chase is another one of Jared's younger brothers! He's sweet, fun to hang out with, and a good man. He's always looking for his next challenge or money-making hustle, which he is very good at! I'm so glad to call him my future brother-in-law and thrilled to have him standing beside Jared on our big day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Chase is another of Jared's younger brothers—sweet, fun to hang out with, and a good man always chasing his next challenge or hustle (and crushing it). So glad to call him my future brother-in-law and have him standing beside Jared on our big day!</p>
     </div>
   </div>
 
@@ -500,7 +501,7 @@ permalink: /wedding/
     <img loading="lazy" src="/assets/images/jared_christian.JPG" alt="Christian Arellano" style="width: 250px; max-width: 100%; height: 250px; object-fit: cover; border-radius: 10px; flex-shrink: 0; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
     <div>
       <h4 style="color: #2c5f6f; margin: 0 0 5px 0; font-size: 1.3em;">Christian Arellano <span style="color: #d4a574; font-size: 0.85em; font-style: italic;">- Groomsman</span></h4>
-      <p style="color: #00695C; line-height: 1.6;">Last but not least is Christian, my nephew (my sister Ginger's son)! I've known him his whole life—which, funny enough, is most of my life too. We grew up together like brother and sister! He's such a kind spirit with a wonderful aura and is an absolute delight to hang out with. I'm so happy he's going to be part of our special day!</p>
+      <p style="color: #00695C; line-height: 1.6;">Last but not least is Christian, my nephew (my sister Ginger's son)! I've known him his whole life—which, funny enough, is most of mine too—and we grew up together like brother and sister. He's a kind spirit with a wonderful aura and an absolute delight to be around. So happy he'll be part of our special day!</p>
     </div>
   </div>
 
@@ -519,6 +520,16 @@ permalink: /wedding/
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Where to Stay</h3>
 
 <p>We know many of you are traveling from out of state! Here are our recommended hotels near the venue, listed by distance:</p>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">📍 Things to Know Before Booking</h4>
+
+<p>The St. Pete area has several distinct neighborhoods, each with a different vibe. Here's a quick guide to help you pick the right spot:</p>
+
+<ul style="margin-left: 30px;">
+  <li><strong>Madeira Beach / Treasure Island</strong> — <em>Closest to the venue.</em> We highly recommend looking up where <strong>The West Events</strong> (13435 Gulf Boulevard, Madeira Beach) is on a map and doing your best to stay as close as possible. The closer you are, the easier it'll be to get to and from the festivities!</li>
+  <li><strong>St. Pete Beach</strong> — More of a resort-style area with larger beachfront hotels. A short drive from the venue.</li>
+  <li><strong>Downtown St. Pete</strong> — Great for nightlife and restaurants, but farther from the venue (about 25-30 minutes away).</li>
+</ul>
 
 <h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">⭐ Venue Partner Hotels (Discounts Available!)</h4>
 
@@ -605,11 +616,18 @@ permalink: /wedding/
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Getting Around St. Pete</h3>
 
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">Airports</h4>
+<p>There are two convenient airport options for flying into the area:</p>
+<ul style="margin-left: 30px;">
+  <li><strong>Tampa International Airport (TPA):</strong> The largest airport in the region, with the most flight options. About 30 minutes from Madeira Beach.</li>
+  <li><strong>St. Pete-Clearwater International Airport (PIE):</strong> A smaller, closer airport - about 20 minutes from Madeira Beach. <strong>Especially convenient for guests flying from Michigan</strong>, as Allegiant offers direct flights from Flint (FNT) to St. Pete (PIE)!</li>
+</ul>
+
 <h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">Transportation Options</h4>
 
 <ul style="margin-left: 30px;">
   <li><strong>Uber/Lyft:</strong> Readily available throughout St. Petersburg</li>
-  <li><strong>Rental Cars:</strong> Available at Tampa International Airport (TPA) - about 30 minutes from St. Pete</li>
+  <li><strong>Rental Cars:</strong> Available at both Tampa International Airport (TPA) and St. Pete-Clearwater International Airport (PIE)</li>
   <li><strong>Looper Trolley:</strong> Free downtown trolley service</li>
   <li><strong>Scooters/Bikes:</strong> Bird and Lime scooters available throughout the city</li>
 </ul>
@@ -621,6 +639,10 @@ permalink: /wedding/
   <li>Using rideshare services (Uber/Lyft)</li>
   <li>Staying at a nearby hotel and taking a short ride</li>
 </ul>
+
+<p><strong>We highly recommend staying nearby and using Uber/Lyft to the venue.</strong> Parking is extremely limited and rideshare will be the easiest option for most guests.</p>
+
+<p>You're also welcome to rent a car to get around the area more easily during your stay. If you do, please <strong>carpool with other guests</strong> heading to the venue and <strong>check in with us ahead of time</strong> so we know how many cars to expect at the venue.</p>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Things to do in St. Pete</h3>
 
@@ -690,6 +712,8 @@ permalink: /wedding/
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">RSVP</h2>
 
+<p style="text-align:center; font-size:1.15em; margin: 10px 0 20px;"><strong>💌 Please RSVP by <span style="color:#d4a574;">January 25, 2027</span></strong></p>
+
 <p style="font-style: italic; color: #555;">Formal invitations with mailing details will go out closer to the date — but if you already know you're coming (or can't make it), please let us know below! It helps us with planning.</p>
 
 <!--
@@ -743,7 +767,7 @@ Due to venue capacity, we can only accommodate children who are nieces/nephews o
 Please let us know on your RSVP card, and we'll make sure you're taken care of!</p>
 
 <p><strong>Will there be an open bar?</strong><br>
-Yes! We'll have beer and wine available for the first 2 hours of the reception. After that, it will be a cash bar. We'll also have signature mocktails and cocktails available (details coming soon)!</p>
+Beer and wine will be hosted during the first two hours of the reception, followed by a cash bar. Signature cocktails and mocktails will also be available!</p>
 
 <p><strong>What time should I leave?</strong><br>
 The reception will go until approximately 10:00 PM. Party as long as you'd like!</p>
