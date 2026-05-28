@@ -531,9 +531,21 @@ permalink: /wedding/
   <li><strong>Downtown St. Pete</strong> — Great for nightlife and restaurants, but farther from the venue (about 25-30 minutes away).</li>
 </ul>
 
-<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">⭐ Venue Partner Hotels (Discounts Available!)</h4>
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">🏡 Our Top Recommendation: Vacation Rentals (Airbnb & VRBO)</h4>
 
-<p>The West Events partners with these nearby hotels, offering exclusive discounts and amenities for our guests. Mention <strong>The West Events</strong> when booking!</p>
+<p><strong>If you're traveling with a group, family, or friends, we highly recommend booking a vacation rental!</strong> There are tons of beachfront and near-beach homes and condos on Airbnb and VRBO right near the venue, and splitting a house together is hands-down the most fun (and often most affordable) way to enjoy the weekend in our area. Madeira Beach, Treasure Island, and the surrounding neighborhoods have plenty of great options.</p>
+
+<p><strong>💡 Tip:</strong> Try to book as close to <strong>The West Events</strong> (13435 Gulf Boulevard, Madeira Beach) as possible so you're near the ceremony and reception.</p>
+
+<ul style="margin-left: 30px;">
+  <li><a href="https://www.airbnb.com/s/Madeira-Beach--FL/homes" target="_blank" rel="noopener">Search Airbnb in Madeira Beach</a></li>
+  <li><a href="https://www.vrbo.com/vacation-rentals/usa/florida/central-west/madeira-beach" target="_blank" rel="noopener">Search VRBO in Madeira Beach</a></li>
+  <li><a href="https://www.vrbo.com/search?latLong=27.78564%2C-82.78372&mapBounds=27.78238%2C-82.78767&mapBounds=27.7889%2C-82.77977&startDate=2027-04-14&endDate=2027-04-18&adults=8&children=1_17%2C1_17&sort=RECOMMENDED" target="_blank" rel="noopener">Search VRBO rentals near the venue (pre-filtered for our wedding dates)</a></li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">⭐ Venue Partner Hotels (Discounts Available!)</h4>
+
+<p>Prefer a hotel? The West Events partners with these nearby hotels, offering exclusive discounts and amenities for our guests. Mention <strong>The West Events</strong> when booking!</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
 
@@ -598,18 +610,6 @@ permalink: /wedding/
   <li>Sirata Beach Resort - Family-friendly with multiple pools</li>
   <li>TradeWinds Island Grand - Large resort with activities</li>
   <li>The Don CeSar - Iconic pink palace, luxury option</li>
-</ul>
-
-<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">Vacation Rentals (Airbnb & VRBO)</h4>
-
-<p>Airbnb and VRBO houses near the venue are also a great option, especially for families or groups traveling together! Madeira Beach, Treasure Island, and the surrounding areas have many beachfront and near-beach rental homes and condos available. Booking together can be a fun and cost-effective way to stay close to the festivities.</p>
-
-<p><strong>💡 Tip:</strong> VRBO and Airbnb are great places to find a good deal on where to stay! Just be sure to book a place as close to <strong>The West Events</strong> (13435 Gulf Boulevard, Madeira Beach) as you can so you're nearby for the ceremony and reception.</p>
-
-<ul style="margin-left: 30px;">
-  <li><a href="https://www.airbnb.com/s/Madeira-Beach--FL/homes" target="_blank" rel="noopener">Search Airbnb in Madeira Beach</a></li>
-  <li><a href="https://www.vrbo.com/vacation-rentals/usa/florida/central-west/madeira-beach" target="_blank" rel="noopener">Search VRBO in Madeira Beach</a></li>
-  <li><a href="https://www.vrbo.com/search?latLong=27.78564%2C-82.78372&mapBounds=27.78238%2C-82.78767&mapBounds=27.7889%2C-82.77977&startDate=2027-04-14&endDate=2027-04-18&adults=8&children=1_17%2C1_17&sort=RECOMMENDED" target="_blank" rel="noopener">Search VRBO rentals near the venue (pre-filtered for our wedding dates)</a></li>
 </ul>
 
 <p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
