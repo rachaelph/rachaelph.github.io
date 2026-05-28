@@ -673,6 +673,61 @@ permalink: /wedding/
   <li>Art galleries in the EDGE District</li>
 </ul>
 
+<h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 30px;">🌴 BEST "Wedding Weekend" Recommendations</h3>
+
+<p>If you're making a weekend (or week!) of it, here are our favorite local spots — very Florida, very fun.</p>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">🌅 Best Sunset Spots</h4>
+<ul style="margin-left: 30px;">
+  <li><strong>Pass-a-Grille Beach</strong> — Our top recommendation. Charming, walkable, quieter, and beautiful sunsets.</li>
+  <li><strong>Upham Beach</strong> — Great for a classic beach afternoon.</li>
+  <li><strong>Sunset Beach</strong> — Fun, relaxed, local vibe.</li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">🍹 Fun Casual Beach Bars & Hangouts</h4>
+<ul style="margin-left: 30px;">
+  <li><strong>Caddy's Treasure Island</strong> — Very beachy Florida atmosphere.</li>
+  <li><strong>Jimmy B's Beach Bar</strong> — Live music and a great beach vibe.</li>
+  <li><strong>Saltwater Hippie</strong> — Cute coastal aesthetic and good drinks.</li>
+  <li><strong>The Toasted Monkey</strong> — Fun brunch and casual stop.</li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">☕ Coffee & Morning Spots</h4>
+<ul style="margin-left: 30px;">
+  <li><strong>The Grove Surf + Coffee</strong> — Adorable coastal café.</li>
+  <li><strong>Bandit Coffee Co.</strong> — Popular local favorite.</li>
+  <li><strong>Pete's Bagels</strong> — Amazing breakfast option.</li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">🍽️ BEST Dinner Recommendations</h4>
+<ul style="margin-left: 30px;">
+  <li><strong>Juno & The Peacock</strong> — Great upscale option.</li>
+  <li><strong>Salt Rock Grill</strong> — Classic waterfront Florida dinner.</li>
+  <li><strong>Doc Ford's Rum Bar & Grille</strong> — Fun for groups and visitors.</li>
+  <li><strong>Allelo</strong> — More modern, date-night vibe.</li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 20px;">🎨 Best Things To Do</h4>
+<ul style="margin-left: 30px;">
+  <li><strong>St. Pete Pier</strong> — A MUST for visitors.</li>
+  <li><strong>The Dalí Museum</strong> — One of the best museums in Florida.</li>
+  <li><strong>Sunken Gardens</strong> — Beautiful for slower mornings.</li>
+  <li><strong>John's Pass Village & Boardwalk</strong> — Touristy but very fun for out-of-towners.</li>
+</ul>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">💛 Our Favorites</h4>
+<p>If you want to experience a little piece of <em>us</em> while you're in town, here are some of our most-loved spots:</p>
+<ul style="margin-left: 30px;">
+  <li><strong>Bad Mother</strong> — The coffee shop where Jared and I met on our first date ☕</li>
+  <li><strong>Doc Ford's</strong> — Where we had lunch on our first date 🥂</li>
+  <li><strong>The Lure</strong> — Our favorite date-night restaurant 🍽️</li>
+  <li><strong>The Library</strong> — Our favorite brunch spot 🥞</li>
+  <li><strong>Caddy's on Madeira Beach</strong> — Our favorite beachfront restaurant 🏖️</li>
+  <li><strong>The Book Lounge</strong> — A bookstore Rachael loves, with fun games, drinks, and snacks 📚</li>
+  <li><strong>Book & Bottle</strong> — Another favorite bookstore of Rachael's with great drinks and snacks 🍷</li>
+  <li><strong>Madeira Beach</strong> — Our favorite spot to catch the sunset 🌅</li>
+</ul>
+
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Where to Eat</h3>
 
 <p>Here are some of our favorite restaurants in the area:</p>
