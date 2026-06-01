@@ -336,15 +336,13 @@ permalink: /wedding/
 
 <h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Our Story</h2>
 
-<p>Our love story began in the fall of 2023. Earlier that April, Jared had moved to Saint Petersburg, FL and was living with his brother Kegan and Kegan's girlfriend Emma. About a month before my own move, in October 2023, I joined Bumble — and that's when Jared and I first started talking.</p>
+<p>Our love story began in the fall of 2023. Jared had moved to Saint Petersburg, FL that April to live with his brother Kegan and Kegan's girlfriend Emma. In October, just before my own move, I joined Bumble — and that's when Jared and I started talking.</p>
 
-<p>During my long drive from Northern California to Saint Petersburg, he called me on the phone. It was a short but sweet conversation, and I remember thinking how refreshing it was to meet a guy who actually used the phone. Once I was settled in, we met in person for our first date on <strong>November 4, 2023</strong>. We ended up spending the entire day together — meeting at a cute coffee shop, walking the pier, grabbing lunch, and even trying to catch a movie before we both realized we had dogs at home waiting to be fed!</p>
+<p>During my long drive from Northern California to Saint Petersburg, he called me on the phone. It was a short but sweet conversation, and I remember thinking how refreshing it was to meet a guy who actually used the phone. Once I was settled in, we had our first date on <strong>November 4, 2023</strong> and spent the entire day together — coffee, a walk on the pier, lunch, and an almost-movie before we both remembered we had dogs at home waiting to be fed!</p>
 
-<p>We dated casually for a couple of months until Jared asked me to be his girlfriend on <strong>December 30, 2023</strong>, on our way to Saint Augustine, Florida. From the moment we met, we've been inseparable. Even though it's only been about two and a half years, it feels like we've known each other most of our lives.</p>
+<p>A couple of months later, on <strong>December 30, 2023</strong>, Jared asked me to be his girlfriend on our way to Saint Augustine. We've been inseparable ever since, and even though it's only been about two and a half years, it feels like we've known each other most of our lives.</p>
 
-<p>Since then, we've shared so many adventures together — from Disney World (several times!) to Austin, Texas, and several more! We love doing everything as a team. Then, on <strong>August 31, 2025</strong>, Jared surprised me on the beach in Lake Tahoe after a girls' trip and proposed!</p>
-
-<p>It's been a grand adventure already, and we can't wait to begin our life together as husband and wife — and to keep chasing all the amazing adventures still ahead of us. 💛</p>
+<p>Since then we've shared so many adventures — from Disney World (several times!) to Austin, Texas, and beyond. Then, on <strong>August 31, 2025</strong>, Jared surprised me on the beach in Lake Tahoe after a girls' trip and proposed! We can't wait to begin our life together as husband and wife. 💛</p>
 
 <div style="text-align: right; margin-top: 30px;">
   <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
