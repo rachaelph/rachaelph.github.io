@@ -322,6 +322,7 @@ permalink: /wedding/
 <div style="background: rgba(255, 255, 255, 0.95); padding: 20px; margin: 30px auto; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 1000px; border-radius: 10px;">
   <p style="color: #2c5f6f; font-weight: bold; margin-bottom: 15px; font-size: 1.1em;">Quick Links</p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 0 10px;">
+    <a href="#our-story" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Our Story</a>
     <a href="#event-details" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Venue & Schedule</a>
     <a href="#wedding-party" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Wedding Party</a>
     <a href="#travel-info" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">Travel & Activities</a>
@@ -329,6 +330,26 @@ permalink: /wedding/
     <a href="#rsvp" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">RSVP</a>
     <a href="#faqs" style="background: #2c5f6f; color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: background 0.3s;">FAQs</a>
   </div>
+</div>
+
+<div class="wedding-section" id="our-story">
+
+<h2 style="color: #2c5f6f; font-size: 2em; border-bottom: 2px solid #d4a574; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Georgia', serif;">Our Story</h2>
+
+<p>Our love story began in the fall of 2023. Earlier that April, Jared had moved to Saint Petersburg, FL and was living with his brother Kegan and Kegan's girlfriend Emma. About a month before my own move, in October 2023, I joined Bumble — and that's when Jared and I first started talking.</p>
+
+<p>During my long drive from Northern California to Saint Petersburg, he called me on the phone. It was a short but sweet conversation, and I remember thinking how refreshing it was to meet a guy who actually used the phone. Once I was settled in, we met in person for our first date on <strong>November 4, 2023</strong>. We ended up spending the entire day together — meeting at a cute coffee shop, walking the pier, grabbing lunch, and even trying to catch a movie before we both realized we had dogs at home waiting to be fed!</p>
+
+<p>We dated casually for a couple of months until Jared asked me to be his girlfriend on <strong>December 30, 2023</strong>, on our way to Saint Augustine, Florida. From the moment we met, we've been inseparable. Even though it's only been about two and a half years, it feels like we've known each other most of our lives.</p>
+
+<p>Since then, we've shared so many adventures together — from Disney World (several times!) to Austin, Texas, and several more! We love doing everything as a team. Then, on <strong>August 31, 2025</strong>, Jared surprised me on the beach in Lake Tahoe after a girls' trip and proposed!</p>
+
+<p>It's been a grand adventure already, and we can't wait to begin our life together as husband and wife — and to keep chasing all the amazing adventures still ahead of us. 💛</p>
+
+<div style="text-align: right; margin-top: 30px;">
+  <a href="#top" style="background: #d4a574; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.9em; display: inline-block;">↑ Back to Top</a>
+</div>
+
 </div>
 
 <div class="wedding-section" id="event-details">
