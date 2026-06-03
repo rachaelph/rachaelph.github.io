@@ -8,6 +8,12 @@ permalink: /wedding/
 
   html { scroll-behavior: smooth; }
 
+  /* Offset anchor jumps so they don't land behind the fixed masthead */
+  .wedding-section,
+  #top {
+    scroll-margin-top: 90px;
+  }
+
   /* Sandy background for entire page */
   body {
     background-color: #F6F1E8 !important;
