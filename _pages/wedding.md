@@ -897,3 +897,48 @@ The reception will go until approximately 10:00 PM. Party as long as you'd like!
   })();
 </script>
 
+<script>
+  // Robust in-page anchor scrolling for the wedding page.
+  // The site loads a jQuery smoothScroll plugin globally on every <a>, which
+  // can interfere with anchor jumps inside markdown-rendered HTML. Handle
+  // same-page hash links here using native scrollIntoView so scroll-margin-top
+  // is honored, and stop the jQuery handler from also firing.
+  (function () {
+    function scrollToHash(hash) {
+      if (!hash || hash === '#') return false;
+      var id = decodeURIComponent(hash.slice(1));
+      var el = document.getElementById(id);
+      if (!el) return false;
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      // Update URL without an extra jump
+      if (history.replaceState) {
+        history.replaceState(null, '', '#' + id);
+      } else {
+        location.hash = id;
+      }
+      return true;
+    }
+
+    function onClick(e) {
+      var a = e.target.closest && e.target.closest('a[href^="#"]');
+      if (!a) return;
+      var href = a.getAttribute('href');
+      if (!href || href === '#' || href.length < 2) return;
+      // Only handle links that point to something on this page
+      if (!document.getElementById(href.slice(1))) return;
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      scrollToHash(href);
+    }
+
+    // Capture phase so we run before jQuery's bubble-phase smoothScroll handler.
+    document.addEventListener('click', onClick, true);
+
+    // Handle direct page loads with a hash (e.g. /wedding/#rsvp)
+    if (location.hash) {
+      // Wait a tick so layout/images settle a bit
+      setTimeout(function () { scrollToHash(location.hash); }, 50);
+    }
+  })();
+</script>
+
