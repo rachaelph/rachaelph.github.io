@@ -575,14 +575,6 @@ permalink: /wedding/
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
 
   <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">Cambria Hotel Madeira Beach</h4>
-    <p style="margin: 5px 0;"><strong>Contact:</strong> Sohnne Sanz, Director of Sales</p>
-    <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 350-7332</p>
-    <p style="margin: 5px 0;"><strong>Email:</strong> sohnne@bowdenhospitality.com</p>
-    <p style="margin: 5px 0;"><a href="https://www.cambriamadeirabeach.com" target="_blank" rel="noopener">cambriamadeirabeach.com</a></p>
-  </div>
-
-  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
     <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">Barefoot Beach Club</h4>
     <p style="margin: 5px 0;"><strong>Contact:</strong> Amanda, Event Sales</p>
     <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 393-6133</p>
