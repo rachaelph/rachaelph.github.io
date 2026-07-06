@@ -568,9 +568,75 @@ permalink: /wedding/
   <li><a href="https://www.vrbo.com/search?latLong=27.78564%2C-82.78372&mapBounds=27.78238%2C-82.78767&mapBounds=27.7889%2C-82.77977&startDate=2027-04-14&endDate=2027-04-18&adults=8&children=1_17%2C1_17&sort=RECOMMENDED" target="_blank" rel="noopener">Search VRBO rentals near the venue (pre-filtered for our wedding dates)</a></li>
 </ul>
 
-<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">⭐ Venue Partner Hotels (Discounts Available!)</h4>
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">🏨 Our Wedding Room Block — DoubleTree by Hilton</h4>
 
-<p>Prefer a hotel? The West Events partners with these nearby hotels, offering exclusive discounts and amenities for our guests. Mention <strong>The West Events</strong> when booking!</p>
+<p>We've reserved a block of rooms at the <strong>DoubleTree Beach Resort by Hilton – North Redington Beach</strong>, one of the venue's partner hotels. This is our top recommendation for guests who'd like a hotel option close to the wedding!</p>
+
+<div style="background: #fff8ea; padding: 25px; border: 2px solid #d4a574; border-radius: 8px; margin: 20px 0;">
+  <h4 style="color: #2c5f6f; margin: 0 0 12px 0; font-size: 1.25em;">DoubleTree Beach Resort by Hilton – North Redington Beach</h4>
+  <p style="margin: 5px 0;"><strong>📅 Block Dates:</strong> April 14 – 18, 2027 (check-in April 14, check-out April 18)</p>
+  <p style="margin: 5px 0;"><strong>🏷️ Group Code:</strong> <span style="background: #d4a574; color: white; padding: 2px 10px; border-radius: 3px; font-weight: bold;">CDTWPS</span></p>
+  <p style="margin: 12px 0;">
+    <a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=NORNHDT&groupCode=CDTWPS&arrivaldate=2027-04-14&departuredate=2027-04-18&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT" target="_blank" rel="noopener" style="background: #2c5f6f; color: white; padding: 10px 18px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Book Our Room Block →</a>
+  </p>
+  <p style="margin: 12px 0 5px 0;"><strong>💰 Group Rates (per night):</strong></p>
+  <div style="overflow-x: auto; margin: 10px 0;">
+    <table style="width: 100%; border-collapse: collapse; background: white; font-size: 0.95em;">
+      <thead>
+        <tr style="background: #2c5f6f; color: white;">
+          <th style="padding: 8px; text-align: left; border: 1px solid #ddd;">Room Type</th>
+          <th style="padding: 8px; text-align: center; border: 1px solid #ddd;">Wed 4/14</th>
+          <th style="padding: 8px; text-align: center; border: 1px solid #ddd;">Thu 4/15</th>
+          <th style="padding: 8px; text-align: center; border: 1px solid #ddd;">Fri 4/16</th>
+          <th style="padding: 8px; text-align: center; border: 1px solid #ddd;">Sat 4/17</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;">1 King Gulf View Balcony</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+        </tr>
+        <tr style="background: #f8f4ec;">
+          <td style="padding: 8px; border: 1px solid #ddd;">1 King City View Balcony</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;">1 King Jr. Suite Gulf View</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$599</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$599</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">—</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">—</td>
+        </tr>
+        <tr style="background: #f8f4ec;">
+          <td style="padding: 8px; border: 1px solid #ddd;">2 Queen Balcony City View</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$329</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;">2 Queen Gulf View Balcony</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+          <td style="padding: 8px; text-align: center; border: 1px solid #ddd;">$349</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p style="margin: 10px 0 5px 0; font-size: 0.9em; color: #666;">Rates are per night and subject to availability. Rooms are limited — we recommend booking early!</p>
+  <p style="margin: 10px 0 0 0;"><strong>Questions?</strong> Contact Marie Molina, Catering & Event Sales — (727) 369-7139 · Marie.Molina@hilton.com</p>
+</div>
+
+<h4 style="color: #2c5f6f; font-size: 1.2em; margin-top: 25px;">⭐ Other Venue Partner Hotels (Discounts Available!)</h4>
+
+<p>Prefer a different hotel? The West Events also partners with these nearby options, offering exclusive discounts and amenities for our guests. Mention <strong>The West Events</strong> when booking!</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
 
@@ -581,15 +647,6 @@ permalink: /wedding/
     <p style="margin: 5px 0;"><strong>Email:</strong> amanda@barefootbeachclub.com</p>
     <p style="margin: 5px 0;"><strong>Discount Code:</strong> <span style="background: #d4a574; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold;">WEST15</span> (15% off online)</p>
     <p style="margin: 5px 0;"><a href="https://barefootbeachclub.com/" target="_blank" rel="noopener">barefootbeachclub.com</a></p>
-  </div>
-
-  <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
-    <h4 style="color: #2c5f6f; margin: 0 0 10px 0; font-size: 1.15em;">DoubleTree Beach Resort – Redington Beach</h4>
-    <p style="margin: 5px 0;"><strong>Contact:</strong> Marie Molina, Catering & Event Sales</p>
-    <p style="margin: 5px 0;"><strong>Phone:</strong> (727) 369-7139</p>
-    <p style="margin: 5px 0;"><strong>Email:</strong> Marie.Molina@hilton.com</p>
-    <p style="margin: 5px 0;"><strong>Discount:</strong> Ask Marie about group discounts</p>
-    <p style="margin: 5px 0;"><a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=NORNHDT&corporateCode=0003252998" target="_blank" rel="noopener">Book with corporate rate</a></p>
   </div>
 
   <div style="background: #f8f4ec; padding: 20px; border-left: 4px solid #d4a574; border-radius: 5px;">
@@ -629,7 +686,7 @@ permalink: /wedding/
   <li>The Don CeSar - Iconic pink palace, luxury option</li>
 </ul>
 
-<p style="font-style: italic;">We'll be setting up hotel blocks - check back for booking codes!</p>
+<p style="font-style: italic;">See our <strong>DoubleTree by Hilton room block</strong> above for our recommended group rate!</p>
 
 <h3 style="color: #2c5f6f; font-size: 1.5em; margin-top: 25px;">Getting Around St. Pete</h3>
 
